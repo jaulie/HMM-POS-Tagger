@@ -6,6 +6,7 @@
 
 import nltk
 
+pos_prob_table = {}
 test = ["NNP", "VBP", "NN"]
 training = open("training.txt", 'r')
 tags = []
@@ -18,8 +19,6 @@ for line in training:
 		continue
 	tags.append(p[1])
 
-#fdist = nltk.FreqDist(tags)
-
 # Adds sentence boundaries
 final_tags = []
 previous = "EMPTY"
@@ -31,47 +30,45 @@ for tag in tags:
 	previous = tag
 final_tags.append("*start_end*")
 
-#fdist = nltk.FreqDist(final_tags)
-bigrams = nltk.bigrams(final_tags)
+# Calculate bigram frequency of POS tags
+fdist = nltk.FreqDist(final_tags)
+bigrams = nltk.bigrams(final_tags) #puts list of tags into pairs
 cfd = nltk.ConditionalFreqDist(bigrams)
 
-def multiply_list(inlist):
-    out = 1
-    for number in inlist:
-        out *= number
-    return(out)
-
 def get_bigram_probability(first,second):
-    if not second in cfd[first]:
-        print('Backing Off to Unigram Probability for',second)
-        unigram_probability = get_unigram_probability(second)
-        return(unigram_probability)
-    else:
-        bigram_frequency = cfd[first][second]
-    unigram_frequency = fdist2[first]
-    bigram_probability = bigram_frequency/unigram_frequency
-    return(bigram_probability)
+	#if not second in cfd[first]:
+	#	print('Backing Off to Unigram Probability for',second)
+	#	unigram_probability = get_unigram_probability(second)
+	#	return(unigram_probability)
+	#else:
+	bigram_frequency = cfd[first][second]
+	unigram_frequency = fdist[first]
+	bigram_probability = bigram_frequency/unigram_frequency
+	return(bigram_probability)
 
-def calculate_bigram_freq_of_sentence_token_list(tokens):
-    prob_list = []
-    ## assume that 'START' precedes the first token
-    previous = '*start_end*'
-    for token in tokens:
-        if not token  in fdist2:
-            token = '*oov*'
-        next_probability = get_bigram_probability(previous,token)
-        print(previous,token,(float('%.3g' % next_probability)))
-        prob_list.append(next_probability)
-        previous = token
-    ## assume that 'END' follows the last token
-    next_probability = get_bigram_probability(previous,'*start_end*')
-    print(previous,'*start_end*',next_probability)
-    prob_list.append(next_probability)
-    probability = multiply_list(prob_list)
-    print('Total Probability',float('%.3g' % probability))
-    return(probability)
+# Places bigram frequencies in dictionary of dictionaries
+previous = "*start_end*"
+for tag in tags:
+	next_probability = get_bigram_probability(previous, tag)
+	if previous in pos_prob_table: 
+		dic = pos_prob_table[previous]
+	else: 
+		dic = {}
+	dic[tag] = (float('%.3g' % next_probability))
+	pos_prob_table[previous] = dic
+	previous = tag
+next_probability = get_bigram_probability(previous, "*start_end*")
+if previous in pos_prob_table: 
+	dic = pos_prob_table[previous]
+else: 
+	dic = {}
+dic[tag] = (float('%.3g' % next_probability))
+pos_prob_table[previous] = dic
 
-result = calculate_bigram_freq_of_sentence_token_list(test)
-
-
+# Prints POS tag probabilities
+for key in pos_prob_table:
+	print(key)
+	for key2 in pos_prob_table[key]:
+		d = pos_prob_table[key]
+		print("\t{} {}".format(key2, d[key2]))
 
