@@ -7,17 +7,21 @@
 import nltk
 
 pos_prob_table = {}
-test = ["NNP", "VBP", "NN"]
 training = open("training.txt", 'r')
 tags = []
+words = []
 
-# Places POS tags from the training corpus into a list
+# Places words, POS tags from the training corpus into two lists
 for line in training:
 	line = line.strip("\n")		
 	p = line.split("\t")
 	if len(p) == 1:
 		continue
+	words.append(p[0])
 	tags.append(p[1])
+
+# Frequency distribution of words
+fd_words = nltk.FreqDist(words)
 
 # Adds sentence boundaries
 final_tags = []
@@ -30,10 +34,25 @@ for tag in tags:
 	previous = tag
 final_tags.append("*start_end*")
 
-# Calculate bigram frequency of POS tags
-fdist = nltk.FreqDist(final_tags)
+final_words = []
+previous = "EMPTY"
+for word in words:
+	if previous in ["EMPTY", ".", "!", "?"]:
+		final_words.append("*start_end*")
+	else:
+		final_words.append(word)
+	previous = word
+final_words.append("*start_end*")
+
+# Conditional Frequency Distribution for POS tags
+fd_tags = nltk.FreqDist(final_tags)
 bigrams = nltk.bigrams(final_tags) #puts list of tags into pairs
 cfd = nltk.ConditionalFreqDist(bigrams)
+
+# Conditional Frequency Distribution for words
+fd_words2 = nltk.FreqDist(final_words)
+bigrams2 = nltk.bigrams(final_words)
+cfd = nltk.ConditionalFreqDist(bigrams2)
 
 def get_bigram_probability(first,second):
 	#if not second in cfd[first]:
@@ -42,7 +61,7 @@ def get_bigram_probability(first,second):
 	#	return(unigram_probability)
 	#else:
 	bigram_frequency = cfd[first][second]
-	unigram_frequency = fdist[first]
+	unigram_frequency = fd_tags[first]
 	bigram_probability = bigram_frequency/unigram_frequency
 	return(bigram_probability)
 
