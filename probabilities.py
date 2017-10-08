@@ -1,5 +1,5 @@
 ##
-## File runs on Python3
+## File runs on python3
 ## Makes two tables of the prior probabilities: one for
 ## the POS tags, and one for words in the training corpus
 ## assuming the bigram model.
@@ -121,7 +121,7 @@ else:
 dic[word] = (float('%.3g' % next_probability))
 word_prob_table[previous] = dic
 
-# Prints POS tag probabilities
+# Prints POS tag probabilities for DEBUGGING
 for key in pos_prob_table:
 	print(key)
 	for key2 in pos_prob_table[key]:
