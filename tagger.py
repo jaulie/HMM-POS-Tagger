@@ -7,5 +7,12 @@
 import nltk
 import probabilities
 
-dev = open("development.txt", "r")
+dev = open("dev.txt", "r")
+corpus = []
+prob = []
+
+for line in dev:
+	line = line.strip("\n")
+	corpus.append(line)
+
 

@@ -63,34 +63,36 @@ else:
 dic[tag] = (float('%.3g' % next_probability))
 pos_prob_table[previous] = dic
 
-# Goes through all words in corpus and stores the occurrence of
-# a word's various tags in a dictionary of dictionaries
-# called word_likelihood
+# Goes through all words in corpus and stores the word under each
+# tag it is associated to along with the number of times it 
+# appears as that tag
 for i in range(len(words)):
 	word = words[i]
 	tag = tags[i]
-	if word in word_likelihood:
-		word_tags = word_likelihood[word]
+	if tag in word_likelihood:
+		word_dic = word_likelihood[tag]
 	else:
-		word_likelihood[word] = {}
-		word_tags = word_likelihood[word]
-	if tag in word_tags: 
-		word_tags[tag] = word_tags[tag] + 1
+		word_likelihood[tag] = {}
+		word_dic = word_likelihood[tag]
+	if word in word_dic: 
+		word_dic[word] = word_dic[word] + 1
 	else: 
-		word_tags[tag] = 1
+		word_dic[word] = 1
+#tags map to dictionaries
+#dictionaries have words which map to probabilities
 
-# Goes through nested dictionaries of each word and
-# finds probability of each tag
+# Goes through nested dictionaries of each tag and
+# finds probability of each word
 total_words = 0
-for word in word_likelihood:
-	for word_tag in word_likelihood[word]: 
-		occurrences = word_likelihood[word]
-		total_words = total_words + occurrences[word_tag]
-	for word_tag in word_likelihood[word]:
-		occurences = word_likelihood[word]
-		probability = occurences[word_tag]/total_words
-		occurences[word_tag] = (float('%.3g' % probability))
-		word_likelihood[word] = occurrences
+for tag in word_likelihood:
+	for word in word_likelihood[tag]: 
+		occurrences = word_likelihood[tag]
+		total_words = total_words + occurrences[word]
+	for word in word_likelihood[tag]:
+		occurences = word_likelihood[tag]
+		probability = occurences[word]/total_words
+		occurences[word] = (float('%.3g' % probability))
+		word_likelihood[tag] = occurrences
 	total_words = 0
 
 # Prints POS tag probabilities for DEBUGGING
