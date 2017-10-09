@@ -105,12 +105,14 @@ for i in range(len(words)):
 	tag_list = []
 	if word in word_tags:
 		tag_list = word_tags[word]
-		tag_list.append(tag)
+		if tag not in tag_list:
+			tag_list.append(tag)
 	else:
 		word_tags[word] = []
 		tag_list = word_tags[word]
 		tag_list.append(tag)
 	word_tags[word] = tag_list
+	
 """
 
 # Prints POS tag probabilities for DEBUGGING

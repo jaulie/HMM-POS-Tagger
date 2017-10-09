@@ -7,6 +7,9 @@
 
 import nltk
 import probabilities
+from probabilities import word_tags
+from probabilities import word_likelihood
+from probabilities import pos_prob_table
 
 dev = open("dev.txt", "r")
 output = open("output.txt", "w")
@@ -19,19 +22,17 @@ for line in dev:
 
 previous = "*start_end*"
 k = 0
-previous_prob = []
-previous_prob[0] = 1
+previous_prob = [1]
 viterbi = {}
-for i in range(lone(corpus)):
-	# Get a word from the corpus and check to see if
-	# it corresponds to one tag (in which case set that tag)
-	word = corpus[i]
+for word in corpus:
 	# Handle OOV
 	if word not in word_tags:
-		output.write(word, "OOV")
+		output.write(word)
+		output.write(" OOV \n")
 		continue
+	# Check if word corresponds to one or multiple tags
 	if len(word_tags[word]) == 1:
-		output.write(word, word_tags[word])
+		output.write('{} {} \n'.format(word, word_tags[word][0]))
 	# If the word corresponds to multiple tags, find the probability
 	# of each tag by iterating through each of the corresponding tags
 	else:
@@ -46,12 +47,10 @@ for i in range(lone(corpus)):
 				# Place it in the Viterbi dictionary
 				viterbi[tag] = prob 
 			# Then get the maximum probability from Viterbi, this is the final probability of this tag corresponding to word
-			output.write(max(viterbi, key = mydict.get))
-			previous_prob[k] = max(viterbi.values())
+			output.write('{} {}\n'.format(word, max(viterbi, key = viterbi.get)))
+			previous_prob.insert(k, max(viterbi.values()))
 			k = k + 1
 		k = 0
-
-
 
 
 
