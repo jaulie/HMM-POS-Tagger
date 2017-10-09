@@ -120,15 +120,15 @@ for key in pos_prob_table:
 		d = pos_prob_table[key]
 		print("\t{:<4} {}".format(key2, d[key2]))
 
-'''
+
 # Prints likelihood of a words' tag(s)
 for word in word_likelihood:
 	print(word)
 	for tag in word_likelihood[word]:
 		tag_dictionary = word_likelihood[word]
-		print("\t{} {}".format(tag, tag_dictionary[tag]))
+		print("\t{:<12} {}".format(tag, tag_dictionary[tag]))
 
-'''
+
 
 
 
