@@ -10,6 +10,7 @@ import nltk
 training = open("training.txt", 'r')
 pos_prob_table = {}
 word_likelihood = {}
+word_tags = {}
 words = []
 tags = []
 
@@ -95,6 +96,23 @@ for tag in word_likelihood:
 		word_likelihood[tag] = occurrences
 	total_words = 0
 
+# Goes through all words in corpus and stores the occurrence of
+# a word's various tags in a dictionary of lists
+# called word_tags
+for i in range(len(words)):
+	word = words[i]
+	tag = tags[i]
+	tag_list = []
+	if word in word_tags:
+		tag_list = word_tags[word]
+		tag_list.append(tag)
+	else:
+		word_tags[word] = []
+		tag_list = word_tags[word]
+		tag_list.append(tag)
+	word_tags[word] = tag_list
+"""
+
 # Prints POS tag probabilities for DEBUGGING
 for key in pos_prob_table:
 	print(key)
@@ -102,13 +120,14 @@ for key in pos_prob_table:
 		d = pos_prob_table[key]
 		print("\t{} {}".format(key2, d[key2]))
 
+
 # Prints likelihood of a words' tag(s)
 for word in word_likelihood:
 	print(word)
 	for tag in word_likelihood[word]:
 		tag_dictionary = word_likelihood[word]
 		print("\t{} {}".format(tag, tag_dictionary[tag]))
-
+"""
 
 
 
