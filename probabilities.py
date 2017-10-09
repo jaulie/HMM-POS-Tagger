@@ -111,24 +111,24 @@ for i in range(len(words)):
 		tag_list = word_tags[word]
 		tag_list.append(tag)
 	word_tags[word] = tag_list
-"""
+
 
 # Prints POS tag probabilities for DEBUGGING
 for key in pos_prob_table:
 	print(key)
 	for key2 in pos_prob_table[key]:
 		d = pos_prob_table[key]
-		print("\t{} {}".format(key2, d[key2]))
+		print("\t{:<4} {}".format(key2, d[key2]))
 
-
+'''
 # Prints likelihood of a words' tag(s)
 for word in word_likelihood:
 	print(word)
 	for tag in word_likelihood[word]:
 		tag_dictionary = word_likelihood[word]
 		print("\t{} {}".format(tag, tag_dictionary[tag]))
-"""
 
+'''
 
 
 
