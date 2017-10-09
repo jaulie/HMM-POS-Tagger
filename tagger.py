@@ -7,3 +7,5 @@
 import nltk
 import probabilities
 
+dev = open("development.txt", "r")
+
