@@ -30,6 +30,7 @@ for word in corpus:
 	# Handle OOV
 	if word not in word_tags:
 		output.write('{} OOV\n'.format(word))
+		
 		continue
 	# Check if word corresponds to one or multiple tags
 	if len(word_tags[word]) == 1:
