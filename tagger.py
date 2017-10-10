@@ -25,7 +25,7 @@ previous_prob = {previous: 1}
 viterbi = {}
 final = {}
 for word in corpus:
-	if word == r'\s':
+	if not word:
 		output.write('\n')
 		continue
 	# Handle OOV
