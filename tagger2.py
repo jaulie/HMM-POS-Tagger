@@ -31,14 +31,16 @@ for word in corpus:
 		continue
 	# Handle OOV
 	if word not in word_tags:
-		
 		assigned_tag = random.choice(['OOV1','OOV2']) #default: randomly assign either NNP or JJP
 		if (previous != "*start_end*")and(list(word)[0].isupper()):
 			assigned_tag = 'NNP'
-
+		elif()
 		output2.write('{} {} \n'.format(word, assigned_tag))
-		continue
-		'''
+
+	previous = word
+
+'''
+pre
 	# Check if word corresponds to one or multiple tags
 	if len(word_tags[word]) == 1:
 		output2.write('{}\t{} \n'.format(word, word_tags[word][0]))
@@ -68,4 +70,4 @@ for word in corpus:
 
 
 
-
+'''

@@ -20,55 +20,55 @@ severalx1 OOV2
 
 
 
-quicken OOV2 
+quicken OOV1 
 1,350,000 OOV1 
 
 
-Two-Way OOV2 
+Two-Way NNP 
 
-sixty-day OOV1 
+sixty-day OOV2 
 plant-closing OOV1 
 writ OOV2 
 
-Rollin OOV2 
-Trexler OOV1 
+Rollin NNP 
+Trexler NNP 
 
 
 
-C.E. OOV1 
+C.E. NNP 
 
 
-Thames OOV2 
+Thames NNP 
 
 rerun OOV2 
 
 
-Longman OOV2 
+Longman NNP 
 mid-sized OOV2 
 
 
 
-slickly OOV2 
+slickly OOV1 
 
-Turned OOV2 
-Longman OOV1 
+Turned NNP 
+Longman NNP 
 
-Longman OOV2 
+Longman NNP 
 
 
 
 blabs OOV1 
 
-Longman OOV2 
+Longman NNP 
 
 
-perfidious OOV2 
+perfidious OOV1 
 
 
 
 
-Surprisingly OOV2 
-Longman OOV1 
+Surprisingly NNP 
+Longman NNP 
 innocently OOV1 
 
 loutish OOV2 
@@ -82,95 +82,95 @@ conspicuously OOV1
 
 
 canary-colored OOV2 
-Porsche OOV1 
+Porsche NNP 
 beat-up OOV2 
-pliers OOV1 
-ignition OOV1 
+pliers OOV2 
+ignition OOV2 
 
-Declan OOV1 
+Declan NNP 
 
-anomalies OOV2 
+anomalies OOV1 
 class-conscious OOV2 
-Thatcherian OOV1 
+Thatcherian NNP 
 free-enterprise OOV2 
 
 
 
-Yuppily OOV1 
+Yuppily NNP 
 
-palatable OOV1 
+palatable OOV2 
 inflates OOV1 
 pony-tailed OOV1 
 
 laundromat OOV2 
-punky OOV2 
-dupes OOV1 
-piranha OOV1 
-Dieppe OOV2 
+punky OOV1 
+dupes OOV2 
+piranha OOV2 
+Dieppe NNP 
 
-Thames OOV2 
-Longman OOV1 
+Thames NNP 
+Longman NNP 
 
-inconsiderable OOV1 
+inconsiderable OOV2 
 
 quid OOV2 
-volley OOV2 
+volley OOV1 
 
-flog OOV2 
-Yank-oriented OOV1 
+flog OOV1 
+Yank-oriented NNP 
 
-Thames OOV1 
-Taffner OOV1 
+Thames NNP 
+Taffner NNP 
 
 discreetly OOV1 
 antecedents OOV2 
 
-Taffner OOV2 
-Carry OOV2 
+Taffner NNP 
+Carry NNP 
 
 
-marvelously OOV2 
-trading-room OOV2 
+marvelously OOV1 
+trading-room OOV1 
 minded OOV1 
 
-resemblances OOV1 
+resemblances OOV2 
 
-Joanna OOV2 
-Kanska OOV2 
-Conreid OOV2 
-Hodge OOV1 
-Declan OOV2 
-Farentino OOV1 
-Rolf OOV1 
-Saxon OOV2 
-Noonan OOV1 
-Dorian OOV1 
-Healy OOV1 
-Huntz OOV2 
+Joanna NNP 
+Kanska NNP 
+Conreid NNP 
+Hodge NNP 
+Declan NNP 
+Farentino NNP 
+Rolf NNP 
+Saxon NNP 
+Noonan NNP 
+Dorian NNP 
+Healy NNP 
+Huntz NNP 
 blank-faced OOV1 
-Bowery OOV2 
+Bowery NNP 
 
-Carry OOV1 
+Carry NNP 
 
 
-backflips OOV2 
+backflips OOV1 
 explodes OOV1 
-Huntz OOV1 
-microchips OOV1 
+Huntz NNP 
+microchips OOV2 
 
 
 
-Rustin OOV2 
-
-
-
-
+Rustin NNP 
 
 
 
 
 
-non-insurance OOV1 
+
+
+
+
+non-insurance OOV2 
 
 
 
@@ -185,22 +185,22 @@ very-highly OOV1
 
 
 
-pare OOV1 
+pare OOV2 
 
-Dismal OOV1 
+Dismal NNP 
 
-160,510 OOV2 
+160,510 OOV1 
 
-Domestically OOV1 
+Domestically NNP 
 86,555 OOV1 
-pickups OOV2 
+pickups OOV1 
 
 
 
 
 
 
-Wink OOV2 
+Wink NNP 
 
 
 
@@ -228,61 +228,61 @@ month-end OOV1
 
 
 
-Savoca OOV1 
+Savoca NNP 
 
-Savoca OOV2 
-rocket-propulsion OOV2 
+Savoca NNP 
+rocket-propulsion OOV1 
 
-Savoca OOV2 
-Borten OOV1 
-
-
-electro-optics OOV2 
+Savoca NNP 
+Borten NNP 
 
 
-
-Szabad OOV1 
-
-Barnabas OOV2 
-Bueky OOV1 
+electro-optics OOV1 
 
 
+
+Szabad NNP 
+
+Barnabas NNP 
+Bueky NNP 
 
 
 
 
-imperialism OOV1 
 
-Deak OOV2 
+
+imperialism OOV2 
+
+Deak NNP 
 computer-science OOV1 
 
 
 
-stripe OOV1 
+stripe OOV2 
 
-Newsstands OOV2 
+Newsstands NNP 
 
-livelier OOV1 
-
-
+livelier OOV2 
 
 
 
 
-tongues OOV2 
-Belorussian OOV1 
-Kazakh OOV2 
-Kirghiz OOV2 
+
+
+tongues OOV1 
+Belorussian NNP 
+Kazakh NNP 
+Kirghiz NNP 
 
 
 rename OOV2 
 
 
-Geza OOV2 
-Szocs OOV1 
+Geza NNP 
+Szocs NNP 
 
 
-frequencies OOV1 
+frequencies OOV2 
 messengers OOV1 
 
 
@@ -299,46 +299,46 @@ messengers OOV1
 
 influencing OOV2 
 
-Nagykanizsa OOV2 
-Nyiregyhaza OOV2 
+Nagykanizsa NNP 
+Nyiregyhaza NNP 
 
 40-minute OOV1 
-Newsreel OOV2 
+Newsreel NNP 
 
 
 35-minute OOV2 
 tidbits OOV2 
-lighthearted OOV1 
+lighthearted OOV2 
 
 
 intersperses OOV1 
 
 
-Deak OOV2 
+Deak NNP 
 
 
-Proposals OOV2 
-government-operated OOV1 
+Proposals NNP 
+government-operated OOV2 
 influenza OOV2 
 flare OOV1 
-politic OOV2 
+politic OOV1 
 mutate OOV2 
-afflict OOV1 
+afflict OOV2 
 
-aspersion OOV1 
+aspersion OOV2 
 
-smallpox OOV2 
+smallpox OOV1 
 
 
 national-service OOV2 
 
-utopian OOV2 
-evokes OOV1 
+utopian OOV1 
+evokes OOV2 
 
-wastrel OOV2 
+wastrel OOV1 
 self-discipline OOV1 
 
-curing OOV1 
+curing OOV2 
 
 national-service OOV2 
 
@@ -349,52 +349,52 @@ recipient OOV2
 
 national-service OOV2 
 
-infecting OOV1 
+infecting OOV2 
 
-Leadership OOV1 
-
-
-DLC OOV1 
-emptying OOV1 
-bedpans OOV1 
-tutoring OOV1 
-librarians OOV2 
-
-voucher OOV2 
-
-Mind OOV1 
-unskilled OOV2 
-18-year-olds OOV1 
+Leadership NNP 
 
 
-national-service OOV2 
+DLC NNP 
+emptying OOV2 
+bedpans OOV2 
+tutoring OOV2 
+librarians OOV1 
+
+voucher OOV1 
+
+Mind NNP 
+unskilled OOV1 
+18-year-olds OOV2 
+
+
+national-service OOV1 
 devotees OOV1 
 
-Opposition OOV2 
+Opposition NNP 
 military-service OOV1 
 
 
-stove OOV2 
+stove OOV1 
 expansionism OOV1 
 porridge OOV2 
-nouvelle OOV1 
+nouvelle OOV2 
 
 leftovers OOV2 
-DLC OOV2 
-work-study OOV1 
+DLC NNP 
+work-study OOV2 
 palate OOV1 
 engorgement OOV1 
-VISTA OOV1 
-Volunteer OOV2 
-Grandparent OOV2 
-Companion OOV1 
+VISTA NNP 
+Volunteer NNP 
+Grandparent NNP 
+Companion NNP 
 
 
-spoil OOV2 
-broth OOV2 
+spoil OOV1 
+broth OOV1 
 
 unwholesome OOV2 
-glop OOV2 
+glop OOV1 
 
 
 
@@ -404,44 +404,44 @@ glop OOV2
 scholarships OOV2 
 
 
-GI OOV2 
+GI NNP 
 
-menial OOV1 
+menial OOV2 
 labor-saving OOV1 
-overpay OOV2 
+overpay OOV1 
 
-exert OOV2 
+exert OOV1 
 
 
-generalized OOV1 
+generalized OOV2 
 
 
 ill-disposed OOV2 
 endow OOV2 
-Points OOV2 
-exhort OOV2 
+Points NNP 
+exhort OOV1 
 volunteerism OOV2 
 
 
 
 
-utopian OOV1 
+utopian OOV2 
 knee-socked OOV2 
 progenitors OOV1 
 
 
-Szanton OOV1 
+Szanton NNP 
 
-Wilber OOV2 
+Wilber NNP 
 
-Wilber OOV1 
+Wilber NNP 
 
-Wilber OOV2 
-
-
+Wilber NNP 
 
 
-Bedminster OOV1 
+
+
+Bedminster NNP 
 
 
 
@@ -456,31 +456,31 @@ Bedminster OOV1
 
 
 localities OOV1 
-prerequisite OOV1 
+prerequisite OOV2 
 
 
-McCurdy OOV2 
+McCurdy NNP 
 
-Nunn-McCurdy OOV1 
-Mikulski OOV2 
-
-
-Youth OOV1 
-Entering OOV2 
-YES OOV1 
+Nunn-McCurdy NNP 
+Mikulski NNP 
 
 
+Youth NNP 
+Entering NNP 
+YES NNP 
 
-dues OOV1 
 
-re-energized OOV2 
+
+dues OOV2 
+
+re-energized OOV1 
 
 
 abomination OOV1 
 
 
 
-Elements OOV2 
+Elements NNP 
 regimentation OOV1 
 
 
@@ -489,9 +489,9 @@ regimentation OOV1
 compulsory OOV2 
 
 
-Part-time OOV1 
+Part-time NNP 
 
-Paid OOV1 
+Paid NNP 
 
 barracks OOV2 
 
@@ -500,9 +500,9 @@ barracks OOV2
 
 
 
-Youth OOV1 
+Youth NNP 
 
-Middle-class OOV1 
+Middle-class NNP 
 cross-section OOV2 
 
 
@@ -514,41 +514,41 @@ cross-section OOV2
 
 
 
-Nunn-McCurdy OOV2 
+Nunn-McCurdy NNP 
 
-GI OOV2 
-GI OOV1 
+GI NNP 
+GI NNP 
 
 
 
-Encouragement OOV1 
-compulsion OOV2 
+Encouragement NNP 
+compulsion OOV1 
 
-Compelled OOV2 
+Compelled NNP 
 
-unenforceable OOV2 
+unenforceable OOV1 
 
-refusers OOV2 
+refusers OOV1 
 
 
 
 volunteering OOV2 
 
 
-tutored OOV1 
+tutored OOV2 
 
 
 
-stipends OOV1 
+stipends OOV2 
 
-Full-time OOV2 
+Full-time NNP 
 
-Non-residential OOV1 
+Non-residential NNP 
 
 
-Evaluations OOV1 
+Evaluations NNP 
 
-challengeable OOV1 
+challengeable OOV2 
 
 
 
@@ -566,19 +566,19 @@ reoriented OOV2
 
 
 
-playgrounds OOV2 
+playgrounds OOV1 
 dune-grass OOV1 
 
-Strictly OOV2 
+Strictly NNP 
 
 incurring OOV2 
 
 
 
 
-Szanton OOV2 
+Szanton NNP 
 
-Mean OOV2 
+Mean NNP 
 
 
 
@@ -590,11 +590,11 @@ overt OOV1
 
 
 
-portrayals OOV2 
+portrayals OOV1 
 
 
 
-reticence OOV2 
+reticence OOV1 
 
 
 
@@ -620,10 +620,10 @@ non-answer OOV2
 
 
 
-Aides OOV1 
+Aides NNP 
 
 
-consultations OOV1 
+consultations OOV2 
 
 render OOV1 
 
@@ -637,15 +637,15 @@ render OOV1
 
 
 
-g OOV2 
-10.06.89 OOV2 
-NAV:22.15 OOV1 
+g OOV1 
+10.06.89 OOV1 
+NAV:22.15 NNP 
 
 
 
 breaths OOV1 
 
-Resist OOV2 
+Resist NNP 
 
 
 
@@ -655,7 +655,7 @@ Resist OOV2
 
 
 
-massacres OOV1 
+massacres OOV2 
 
 
 
@@ -664,7 +664,7 @@ pat OOV1
 
 pundits OOV2 
 
-Farnham OOV2 
+Farnham NNP 
 
 
 
@@ -675,17 +675,17 @@ Farnham OOV2
 
 
 
+
+panics OOV1 
 
 panics OOV2 
 
-panics OOV2 
 
 
 
 
 
-
-Janus OOV2 
+Janus NNP 
 
 
 
@@ -696,28 +696,28 @@ Janus OOV2
 
 
 
-Fleckenstein OOV2 
+Fleckenstein NNP 
 
 
-Fleckenstein OOV2 
+Fleckenstein NNP 
 
 
-rekindled OOV2 
+rekindled OOV1 
 
-Fleckenstein OOV2 
+Fleckenstein NNP 
 
-Aubrey OOV2 
-Lanston OOV2 
-
-
-
+Aubrey NNP 
+Lanston NNP 
 
 
 
 
 
 
-put-option OOV1 
+
+
+
+put-option OOV2 
 
 
 praiseworthy OOV1 
@@ -726,23 +726,23 @@ praiseworthy OOV1
 
 
 
-Didion OOV2 
+Didion NNP 
 
-fork OOV1 
+fork OOV2 
 
-Didion OOV2 
-
-
+Didion NNP 
 
 
 
 
 
-Malek OOV2 
+
+
+Malek NNP 
 
 
 
-Ubberroth OOV1 
+Ubberroth NNP 
 
 
 
@@ -758,46 +758,46 @@ cross-market OOV2
 
 
 
-2:07 OOV2 
+2:07 OOV1 
 2:30 OOV1 
-CDT OOV1 
+CDT NNP 
 2:45 OOV2 
 
-Sidecar OOV1 
+Sidecar NNP 
 
 computer-generated OOV2 
 
 well-drilled OOV1 
 
-Dubnow OOV2 
+Dubnow NNP 
 
 
 
-30-point OOV1 
+30-point OOV2 
 
-Dubnow OOV2 
-
-
-250-point OOV2 
+Dubnow NNP 
 
 
-
-remake OOV1 
-
-awash OOV2 
+250-point OOV1 
 
 
 
+remake OOV2 
+
+awash OOV1 
 
 
-Sporkin OOV1 
+
+
+
+Sporkin NNP 
 barnacles OOV1 
 
 
 
-Arguing OOV2 
-marketplaces OOV2 
-super-regulator OOV2 
+Arguing NNP 
+marketplaces OOV1 
+super-regulator OOV1 
 unify OOV2 
 
 
@@ -805,7 +805,7 @@ unify OOV2
 
 
 sops OOV2 
-interventionists OOV2 
+interventionists OOV1 
 
 
 
@@ -819,39 +819,39 @@ interventionists OOV2
 
 
 
-Establish OOV2 
+Establish NNP 
 
-Unify OOV2 
-trade-clearing OOV2 
+Unify NNP 
+trade-clearing OOV1 
 
 
 
-Require OOV1 
+Require NNP 
 
-risk-taking OOV2 
+risk-taking OOV1 
 
-Transfer OOV1 
+Transfer NNP 
 stock-related OOV1 
 
-Opposed OOV1 
+Opposed NNP 
 
 
 
-Create OOV1 
+Create NNP 
 
 
-Lutsenko OOV2 
-Nika OOV2 
-Nedelya OOV1 
+Lutsenko NNP 
+Nika NNP 
+Nedelya NNP 
 
 
-Lutsenko OOV2 
-Nedelya OOV1 
+Lutsenko NNP 
+Nedelya NNP 
 
-Nedelya OOV1 
-Lutsenko OOV1 
+Nedelya NNP 
+Lutsenko NNP 
 
-Nika OOV1 
+Nika NNP 
 
 
 
@@ -859,33 +859,33 @@ deadlock OOV2
 
 pinball-parlor OOV2 
 
-Japanese-style OOV1 
-infiltrated OOV2 
+Japanese-style NNP 
+infiltrated OOV1 
 
-Tsuruo OOV1 
+Tsuruo NNP 
 
-Wide OOV1 
+Wide NNP 
 
-U.N.-sponsored OOV1 
-parakeets OOV2 
+U.N.-sponsored NNP 
+parakeets OOV1 
 orchids OOV2 
 
-Lyster OOV1 
+Lyster NNP 
 
-frigate OOV1 
-torpedoed OOV2 
+frigate OOV2 
+torpedoed OOV1 
 
 
 
-affinity OOV1 
+affinity OOV2 
 
 
 
 high-interest-rate OOV1 
-Co-operative OOV1 
+Co-operative NNP 
 
-year-long OOV1 
-harnessing OOV1 
+year-long OOV2 
+harnessing OOV2 
 
 non-staple OOV2 
 
@@ -894,34 +894,34 @@ yuan OOV2
 
 
 
-Orthodox OOV1 
-priests OOV1 
+Orthodox NNP 
+priests OOV2 
 400th OOV1 
 patriarchate OOV2 
 15th-century OOV2 
-Uspensky OOV1 
-crowned OOV2 
+Uspensky NNP 
+crowned OOV1 
 
 34-foot-tall OOV2 
-Buddha OOV1 
+Buddha NNP 
 
-Sik OOV2 
-Wan OOV2 
-Po OOV1 
-Monastery OOV2 
+Sik NNP 
+Wan NNP 
+Po NNP 
+Monastery NNP 
 
-Iken OOV2 
+Iken NNP 
 
-Iken OOV2 
+Iken NNP 
 prototypes OOV1 
 
-Replied OOV1 
+Replied NNP 
 
 
 
 underselling OOV1 
 
-Iken OOV2 
+Iken NNP 
 
 
 
@@ -932,14 +932,14 @@ Iken OOV2
 wrathful OOV2 
 
 
-undersold OOV1 
+undersold OOV2 
+look-alike OOV2 
+
+premium-priced OOV1 
 look-alike OOV1 
 
-premium-priced OOV2 
-look-alike OOV1 
-
-Rubik OOV2 
-Cube OOV2 
+Rubik NNP 
+Cube NNP 
 
 
 
@@ -952,13 +952,13 @@ grind OOV1
 
 
 
-Capetronic OOV1 
+Capetronic NNP 
 
 
 
-teddy OOV1 
+teddy OOV2 
 
-Walkman OOV1 
+Walkman NNP 
 
 brightly OOV2 
 
@@ -966,15 +966,15 @@ brightly OOV2
 
 
 
-fire-engine OOV1 
+fire-engine OOV2 
 
 prototypes OOV2 
-fairs OOV2 
+fairs OOV1 
 
 
 
 
-Recalls OOV1 
+Recalls NNP 
 
 
 
@@ -985,26 +985,26 @@ strong-arm OOV2
 
 
 
-debilitating OOV1 
+debilitating OOV2 
 
 
 
 
 
 
-Tenney OOV2 
-Unitil OOV1 
-34,602 OOV1 
-Unitil OOV2 
+Tenney NNP 
+Unitil NNP 
+34,602 OOV2 
+Unitil NNP 
 
 
-Unitil OOV2 
-Exeter OOV2 
-Fitchburg OOV1 
-Fitchburg OOV2 
+Unitil NNP 
+Exeter NNP 
+Fitchburg NNP 
+Fitchburg NNP 
 
-Unitil OOV1 
-Fitchburg OOV2 
+Unitil NNP 
+Fitchburg NNP 
 
 
 
@@ -1014,36 +1014,36 @@ Fitchburg OOV2
 
 9.69 OOV1 
 
-Rocha OOV1 
-Garza OOV1 
+Rocha NNP 
+Garza NNP 
 
-Rocha OOV1 
-Garza OOV2 
-Biscayne OOV1 
-Syndicate OOV2 
-Lahus OOV2 
-Lahus OOV2 
+Rocha NNP 
+Garza NNP 
+Biscayne NNP 
+Syndicate NNP 
+Lahus NNP 
+Lahus NNP 
 
-Rocha OOV2 
-Garza OOV1 
-Clarendon OOV1 
-Biscayne OOV1 
-Lahus OOV1 
-Lahus OOV1 
+Rocha NNP 
+Garza NNP 
+Clarendon NNP 
+Biscayne NNP 
+Lahus NNP 
+Lahus NNP 
 1,234,100 OOV1 
 
-Rocha OOV2 
-Garza OOV1 
+Rocha NNP 
+Garza NNP 
 
-Wollaeger OOV2 
+Wollaeger NNP 
 
-Investcorp OOV2 
-10-store OOV2 
-Unlimited OOV1 
+Investcorp NNP 
+10-store OOV1 
+Unlimited NNP 
 
-Investcorp OOV2 
+Investcorp NNP 
 
-Unlimited OOV1 
+Unlimited NNP 
 
 
 
@@ -1053,51 +1053,51 @@ Unlimited OOV1
 
 23.57 OOV1 
 
-Statements OOV2 
+Statements NNP 
 
-Aspen OOV1 
+Aspen NNP 
 connector OOV2 
 
-Aspen OOV2 
+Aspen NNP 
 
 
-Aspen OOV1 
+Aspen NNP 
 
 
 
 
-AGF OOV2 
+AGF NNP 
 
-AGF OOV2 
+AGF NNP 
 
-AGF OOV1 
+AGF NNP 
 
-Aermacchi OOV1 
-Varese OOV1 
-trainers OOV2 
-
+Aermacchi NNP 
+Varese NNP 
 trainers OOV1 
 
-T-37 OOV2 
-
-T34C OOV1 
 trainers OOV2 
 
-Aermacchi OOV1 
-Aermacchi OOV2 
-MB-339 OOV2 
-tandem-trainer OOV2 
+T-37 NNP 
+
+T34C NNP 
+trainers OOV1 
+
+Aermacchi NNP 
+Aermacchi NNP 
+MB-339 NNP 
+tandem-trainer OOV1 
 
 tandem-seat OOV1 
 
 
-19-day OOV2 
+19-day OOV1 
 
 
-metalworkers OOV1 
+metalworkers OOV2 
 
 
-Frenchman OOV1 
+Frenchman NNP 
 
 job-rating OOV1 
 
@@ -1108,29 +1108,29 @@ job-rating OOV1
 
 stoke OOV1 
 
-Simultaneously OOV1 
+Simultaneously NNP 
 
-pervaded OOV2 
-Lonski OOV1 
-
-
-7-11 OOV2 
+pervaded OOV1 
+Lonski NNP 
 
 
-
-
-Bloomingdales OOV2 
+7-11 OOV1 
 
 
 
 
-Carleton OOV2 
+Bloomingdales NNP 
+
+
+
+
+Carleton NNP 
 hysteria OOV2 
 
 
-Penniman OOV2 
-Crisanti OOV1 
-Maffei OOV1 
+Penniman NNP 
+Crisanti NNP 
+Maffei NNP 
 
 
 
@@ -1142,28 +1142,28 @@ Maffei OOV1
 
 
 
-Abbett OOV2 
+Abbett NNP 
 
 
-creamed OOV1 
-
-
-
-
-
-
-
-Carleton OOV2 
-
-
-
-well-structured OOV2 
+creamed OOV2 
 
 
 
 
 
-iota OOV1 
+
+
+Carleton NNP 
+
+
+
+well-structured OOV1 
+
+
+
+
+
+iota OOV2 
 
 
 
@@ -1193,35 +1193,35 @@ speculative-grade OOV1
 
 
 
-eying OOV1 
+eying OOV2 
 
 
 
 9.28 OOV2 
 
 
-higher-quality OOV1 
+higher-quality OOV2 
 
 
 
 
 
-Lowenstein OOV2 
+Lowenstein NNP 
 
 
 
 
 
-observation OOV1 
+observation OOV2 
 ticker OOV1 
 
-impacted OOV2 
+impacted OOV1 
 
 
 
 
 one-by-one OOV1 
-trickery OOV1 
+trickery OOV2 
 
 
 fogged OOV1 
@@ -1233,17 +1233,17 @@ sticky OOV2
 
 
 
-anti-airline OOV1 
+anti-airline OOV2 
 
 
 
-Congratulations OOV1 
+Congratulations NNP 
 
-existance OOV2 
+existance OOV1 
 
 
 thankfully OOV1 
-1987-style OOV2 
+1987-style OOV1 
 
 binges OOV1 
 
@@ -1252,7 +1252,7 @@ binges OOV1
 
 liaison OOV1 
 
-underpriced OOV2 
+underpriced OOV1 
 
 
 
@@ -1268,159 +1268,159 @@ foreign-loan OOV1
 
 
 
-misadventure OOV2 
+misadventure OOV1 
 pseudosocialism OOV2 
-conservative-communist OOV1 
-Papandreou OOV2 
-carcass OOV2 
+conservative-communist OOV2 
+Papandreou NNP 
+carcass OOV1 
 
-Greeks OOV1 
+Greeks NNP 
 
 post-electoral OOV2 
-hagglings OOV1 
+hagglings OOV2 
 miscegenation OOV2 
-Constantine OOV2 
-Mitsotakis OOV1 
+Constantine NNP 
+Mitsotakis NNP 
 
 quaint OOV1 
 pro-Soviet OOV1 
-Euro-Communist OOV1 
-Hellenic OOV2 
+Euro-Communist NNP 
+Hellenic NNP 
 
-PASOK OOV2 
-Papandreou OOV2 
+PASOK NNP 
+Papandreou NNP 
 
 ostensible OOV2 
 mop-up OOV1 
 purportedly OOV2 
-Papandreou OOV2 
+Papandreou NNP 
 
-catharsis OOV2 
+catharsis OOV1 
 
 parte OOV1 
 
-long-bubbling OOV1 
+long-bubbling OOV2 
 bank-looting OOV2 
-Papandreou OOV2 
-accuser OOV2 
+Papandreou NNP 
+accuser OOV1 
 self-confessed OOV1 
 embezzler OOV2 
-residing OOV2 
+residing OOV1 
 
 
 forthright OOV1 
 
-PASOK OOV2 
+PASOK NNP 
 
 unanswered OOV2 
-Papandreou OOV2 
-734,000 OOV1 
-PASOK OOV1 
-pinched OOV2 
+Papandreou NNP 
+734,000 OOV2 
+PASOK NNP 
+pinched OOV1 
 
-PASOK OOV1 
+PASOK NNP 
 
 eluding OOV1 
 drachmas OOV2 
 
 circumstantial OOV2 
-PASOK OOV2 
-clinching OOV1 
+PASOK NNP 
+clinching OOV2 
 
-Greeks OOV2 
-EYP OOV1 
-PASOK OOV2 
+Greeks NNP 
+EYP NNP 
+PASOK NNP 
 
-Papandreou OOV2 
-
-
-PASOK OOV2 
-OKing OOV1 
-U.S.based OOV1 
+Papandreou NNP 
 
 
-Mitsotakis OOV2 
+PASOK NNP 
+OKing NNP 
+U.S.based NNP 
+
+
+Mitsotakis NNP 
 chums OOV2 
 unwittingly OOV1 
-Papandreou OOV1 
+Papandreou NNP 
 platter OOV1 
-PASOK OOV1 
+PASOK NNP 
 traipse OOV1 
-Papandreou OOV1 
+Papandreou NNP 
 
-jinks OOV1 
-PASOK OOV1 
-Papandreou OOV2 
+jinks OOV2 
+PASOK NNP 
+Papandreou NNP 
 
-ousting OOV2 
-PASOK OOV1 
-thwarting OOV1 
+ousting OOV1 
+PASOK NNP 
+thwarting OOV2 
 
-enticed OOV2 
-PASOK OOV1 
+enticed OOV1 
+PASOK NNP 
 
-PASOK OOV2 
-well-respected OOV1 
+PASOK NNP 
+well-respected OOV2 
 
-disaffected OOV1 
-Mitsotakis OOV2 
+disaffected OOV2 
+Mitsotakis NNP 
 
-PASOK OOV1 
-scandal-stench OOV2 
+PASOK NNP 
+scandal-stench OOV1 
 seals OOV2 
-harshest OOV2 
+harshest OOV1 
 
-Crucial OOV2 
-
-
-
-bilateral OOV1 
+Crucial NNP 
 
 
 
-Mohammed OOV2 
-Rashid OOV2 
+bilateral OOV2 
 
-Rashid OOV1 
 
-Greeks OOV2 
 
-PASOK OOV2 
-PASOK OOV1 
-Papandreou OOV2 
+Mohammed NNP 
+Rashid NNP 
+
+Rashid NNP 
+
+Greeks NNP 
+
+PASOK NNP 
+PASOK NNP 
+Papandreou NNP 
 wild-eyed OOV1 
 
-lash-up OOV2 
+lash-up OOV1 
 
-Papandreou OOV1 
-hamstring OOV2 
-conservative-led OOV2 
+Papandreou NNP 
+hamstring OOV1 
+conservative-led OOV1 
 
 
 glaringly OOV1 
-PASOK OOV1 
-clarity OOV1 
+PASOK NNP 
+clarity OOV2 
 rectification OOV1 
 
-Papandreou OOV1 
+Papandreou NNP 
 
 
 slingers OOV1 
 raked OOV1 
 
 
-MOVED OOV2 
+MOVED NNP 
 
 
 mapped OOV1 
 
 
-2569.26 OOV1 
+2569.26 OOV2 
 
 
 
 
-Prospects OOV2 
+Prospects NNP 
 
 
 management-pilot OOV2 
@@ -1431,16 +1431,16 @@ management-pilot OOV2
 
 
 
-Gruber OOV1 
+Gruber NNP 
 
 
-shopping-center OOV1 
+shopping-center OOV2 
 
 
 
 
 
-guided-missile OOV1 
+guided-missile OOV2 
 
 steel-import OOV1 
 unsubsidized OOV2 
@@ -1448,29 +1448,29 @@ unsubsidized OOV2
 
 
 
-251,170,000 OOV1 
+251,170,000 OOV2 
 
-2569.26 OOV2 
+2569.26 OOV1 
 1406.29 OOV2 
 78.06 OOV1 
 211.96 OOV2 
-7.29 OOV1 
+7.29 OOV2 
 
 3421.29 OOV2 
 
-129.87 OOV1 
+129.87 OOV2 
 129.25 OOV2 
 
 1.8740 OOV1 
 0.0343 OOV1 
 
-concurrently OOV1 
+concurrently OOV2 
 
 
 
 
 
-63.50 OOV1 
+63.50 OOV2 
 
 17.37 OOV2 
 
@@ -1478,126 +1478,126 @@ concurrently OOV1
 counterbalanced OOV2 
 
 
-pertains OOV2 
-Twiggy OOV1 
+pertains OOV1 
+Twiggy NNP 
 
-Twiggy OOV2 
-
-
-Grannon OOV2 
-Chimicles OOV1 
+Twiggy NNP 
 
 
-Milberg OOV1 
-Bershad OOV2 
-Specthrie OOV2 
-Lerach OOV1 
+Grannon NNP 
+Chimicles NNP 
+
+
+Milberg NNP 
+Bershad NNP 
+Specthrie NNP 
+Lerach NNP 
 petitioned OOV2 
 
 
-ORDERED OOV1 
+ORDERED NNP 
 
 
-USFL OOV1 
+USFL NNP 
 
-USFL OOV1 
-trebled OOV1 
+USFL NNP 
+trebled OOV2 
 
 
-Myerson OOV1 
-Myerson OOV1 
-Kuhn OOV1 
-Finley OOV2 
-Kumble OOV2 
-Wagner OOV1 
-Underberg OOV2 
-Myerson OOV2 
+Myerson NNP 
+Myerson NNP 
+Kuhn NNP 
+Finley NNP 
+Kumble NNP 
+Wagner NNP 
+Underberg NNP 
+Myerson NNP 
 
-Pappas OOV2 
-Myerson OOV2 
-Kuhn OOV1 
-USFL OOV1 
+Pappas NNP 
+Myerson NNP 
+Kuhn NNP 
+USFL NNP 
 
-Myerson OOV2 
-Kuhn OOV1 
+Myerson NNP 
+Kuhn NNP 
 260,000 OOV1 
 
-USFL OOV2 
+USFL NNP 
 
 
-Shepard OOV1 
-Goldfein OOV1 
+Shepard NNP 
+Goldfein NNP 
 
-Goldfein OOV2 
-USFL OOV1 
+Goldfein NNP 
+USFL NNP 
 
-USFL OOV1 
-Goldfein OOV2 
+USFL NNP 
+Goldfein NNP 
 
-HOUSTON-CALGARY OOV2 
-ALLIANCE OOV1 
+HOUSTON-CALGARY NNP 
+ALLIANCE NNP 
 
-Fulbright OOV2 
-Jaworski OOV1 
-Fenerty OOV2 
-energy-industry OOV1 
+Fulbright NNP 
+Jaworski NNP 
+Fenerty NNP 
+energy-industry OOV2 
 
 
 
-fair-trade-related OOV2 
-Gayle OOV1 
-585-lawyer OOV2 
-Fulbright OOV2 
-Jaworski OOV2 
+fair-trade-related OOV1 
+Gayle NNP 
+585-lawyer OOV1 
+Fulbright NNP 
+Jaworski NNP 
 
-Fulbright OOV1 
-Jaworski OOV1 
+Fulbright NNP 
+Jaworski NNP 
 
 80-lawyer OOV1 
-Fenerty OOV2 
-Saville OOV1 
-Fenerty OOV1 
+Fenerty NNP 
+Saville NNP 
+Fenerty NNP 
 
-SIGNAL OOV1 
-1\/2-week OOV1 
+SIGNAL NNP 
+1\/2-week OOV2 
 
 respiratory OOV2 
 
-retardant OOV2 
+retardant OOV1 
 
 
-COUNSEL OOV1 
-JOINS OOV2 
+COUNSEL NNP 
+JOINS NNP 
 
-Killory OOV1 
+Killory NNP 
 500-lawyer OOV1 
-Foerster OOV1 
+Foerster NNP 
 
-mass-media OOV2 
+mass-media OOV1 
 
-Killory OOV1 
-
-
-RICHARD OOV1 
-MAGURNO OOV2 
-
-Magurno OOV1 
+Killory NNP 
 
 
-Magurno OOV1 
+RICHARD NNP 
+MAGURNO NNP 
+
+Magurno NNP 
+
+
+Magurno NNP 
 200-lawyer OOV1 
 
-31. OOV1 
-holiday-season OOV1 
+31. OOV2 
+holiday-season OOV2 
 
-IIGS OOV2 
-SE OOV1 
-cpu OOV2 
-
+IIGS NNP 
+SE NNP 
 cpu OOV1 
 
+cpu OOV2 
 
-million-mark OOV2 
+
+million-mark OOV1 
 
 74.9 OOV1 
 25.1 OOV1 
@@ -1610,26 +1610,26 @@ million-mark OOV2
 
 
 
-Rosenblatt OOV2 
+Rosenblatt NNP 
 
-Rosenblatt OOV1 
+Rosenblatt NNP 
 
-Rosenblatt OOV2 
+Rosenblatt NNP 
 
-Rosenblatt OOV2 
+Rosenblatt NNP 
 
-Newsweek OOV1 
+Newsweek NNP 
 
-Zuckerman OOV2 
-Rosenblatt OOV2 
-McLoughlin OOV1 
+Zuckerman NNP 
+Rosenblatt NNP 
+McLoughlin NNP 
 
-McLoughlin OOV1 
+McLoughlin NNP 
 
-Zuckerman OOV1 
+Zuckerman NNP 
 service-oriented OOV2 
 
-Rosenblatt OOV1 
+Rosenblatt NNP 
 
 
 
@@ -1641,83 +1641,83 @@ irregular OOV1
 9.934 OOV1 
 
 
-18.819 OOV1 
+18.819 OOV2 
 
 
-Keystone OOV1 
+Keystone NNP 
 
-780,000 OOV2 
-Keystone OOV1 
+780,000 OOV1 
+Keystone NNP 
 
-Keystone OOV1 
-
-
-
-Keystone OOV1 
-
-3.15 OOV1 
+Keystone NNP 
 
 
-Keystone OOV1 
-milion OOV2 
+
+Keystone NNP 
+
+3.15 OOV2 
+
+
+Keystone NNP 
+milion OOV1 
 
 
 230.5 OOV1 
 190.4 OOV1 
 
-Keystone OOV2 
-585,000 OOV1 
-413,000 OOV1 
+Keystone NNP 
+585,000 OOV2 
+413,000 OOV2 
 
-Keystone OOV1 
-Keystone OOV2 
-billet OOV1 
+Keystone NNP 
+Keystone NNP 
+billet OOV2 
 
-Keystone OOV1 
+Keystone NNP 
 
-Keystone OOV1 
+Keystone NNP 
 coasts OOV2 
 
-Keystone OOV2 
-order-taker OOV1 
+Keystone NNP 
+order-taker OOV2 
 
-wholesalers OOV2 
+wholesalers OOV1 
 
 100-year-old OOV1 
-premium-priced OOV1 
+premium-priced OOV2 
 red-tipped OOV2 
-fencing OOV2 
+fencing OOV1 
 
 barbed OOV2 
 
-uranium-recovery OOV2 
-Donaldsonville OOV1 
+uranium-recovery OOV1 
+Donaldsonville NNP 
 
 
 uranium OOV2 
 mothballing OOV2 
 
-uranium OOV1 
-
-uranium-recovery OOV1 
 uranium OOV2 
 
-Uranium OOV2 
+uranium-recovery OOV2 
+uranium OOV1 
+
+Uranium NNP 
 
 uranium-recovery OOV2 
 
 
-Elite OOV1 
-synthesizer OOV2 
-laminated OOV2 
+Elite NNP 
+synthesizer OOV1 
+laminated OOV1 
 
-human-sounding OOV1 
+human-sounding OOV2 
 15-second OOV2 
 
 per-ad OOV2 
 
 tone-generating OOV2 
-synthesizer OOV2 
+synthesizer OOV1 
 
 
 
@@ -1729,45 +1729,40 @@ bank-credit OOV2
 
 
 
-Bowder OOV1 
-non-Mexican OOV1 
+Bowder NNP 
+non-Mexican OOV2 
 
 
 
-Bowder OOV2 
+Bowder NNP 
 
-577 OOV1 
+577 OOV2 
 
-Bowder OOV2 
-604 OOV1 
-
-
-Bowder OOV1 
+Bowder NNP 
+604 OOV2 
 
 
-carnage OOV2 
+Bowder NNP 
+
+
+carnage OOV1 
 mega-mergers OOV1 
 
-Suitors OOV2 
-expansion-minded OOV2 
+Suitors NNP 
+expansion-minded OOV1 
 debt-happy OOV2 
 
 
 
 
-Gaines OOV2 
-Gaines OOV2 
-Berland OOV1 
+Gaines NNP 
+Gaines NNP 
+Berland NNP 
 
 
 
 
-Rattner OOV2 
-
-
-
-
-
+Rattner NNP 
 
 
 
@@ -1775,34 +1770,39 @@ Rattner OOV2
 
 
 
-weeked OOV2 
+
+
+
+
+
+weeked OOV1 
 commerical OOV2 
-
-20-a-share OOV1 
-
-
-Vitro-Anchor OOV2 
-
-
-
-
 
 20-a-share OOV2 
 
 
-well-financed OOV1 
+Vitro-Anchor NNP 
 
 
-Rattner OOV1 
+
+
+
+20-a-share OOV1 
+
+
+well-financed OOV2 
+
+
+Rattner NNP 
 
 200-point OOV2 
-Rattner OOV2 
+Rattner NNP 
 
 
 
-Tomilson OOV2 
+Tomilson NNP 
 
-junkbond-financed OOV2 
+junkbond-financed OOV1 
 
 whisper OOV1 
 
@@ -1812,32 +1812,32 @@ whisper OOV1
 
 
 
-Vernitron OOV1 
+Vernitron NNP 
 
 
 
 
 
-68.8 OOV2 
+68.8 OOV1 
 
 
 worst-hit OOV2 
 
 
 
-signified OOV2 
+signified OOV1 
 
 
-Lebo OOV1 
+Lebo NNP 
 
-Lebo OOV2 
+Lebo NNP 
 
 junkbond OOV2 
 
 
-waking OOV2 
+waking OOV1 
 
-Yoshihashi OOV1 
+Yoshihashi NNP 
 
 
 
@@ -1884,48 +1884,48 @@ skyline OOV2
 
 
 
-self-fulfilling OOV2 
-prophecy OOV1 
+self-fulfilling OOV1 
+prophecy OOV2 
 
 
-beltway OOV2 
+beltway OOV1 
 
 
 
 
-Vacancy OOV1 
+Vacancy NNP 
 mid-20 OOV2 
 
 flattening OOV1 
 realestate OOV1 
-catches OOV1 
+catches OOV2 
 
 
-Leinberger OOV2 
+Leinberger NNP 
 
-Kysor OOV1 
+Kysor NNP 
 
 
 
 powerboat OOV1 
-marine-related OOV2 
+marine-related OOV1 
 
 
-Kysor OOV2 
+Kysor NNP 
 
-Cause OOV1 
-interceded OOV1 
+Cause NNP 
+interceded OOV2 
 
 anti-racketeering OOV1 
 insolvency OOV1 
 
-Cause OOV2 
+Cause NNP 
 
 
 forceful OOV1 
 
 
-ticking OOV2 
+ticking OOV1 
 
 zealous OOV1 
 
@@ -1937,24 +1937,24 @@ zealous OOV1
 
 
 
-fending OOV2 
+fending OOV1 
 
 belatedly OOV1 
-13,433 OOV2 
-Cat OOV1 
-Cay OOV1 
+13,433 OOV1 
+Cat NNP 
+Cay NNP 
 
 
 
 
 
-850,000 OOV2 
+850,000 OOV1 
 
 
 
 
 
-Abney OOV2 
+Abney NNP 
 
 
 
@@ -1962,93 +1962,93 @@ Abney OOV2
 
 
 
-Cause OOV2 
+Cause NNP 
 
 
 
 
-1,450 OOV2 
+1,450 OOV1 
 
 
-Ting OOV1 
+Ting NNP 
 
 
-shootings OOV1 
-
-
-
-Yeh OOV1 
-Matchbox OOV2 
-
-Matchbox OOV1 
+shootings OOV2 
 
 
 
+Yeh NNP 
+Matchbox NNP 
+
+Matchbox NNP 
 
 
-Hu OOV1 
-Shing OOV1 
 
 
 
-re-exports OOV1 
-15.92 OOV2 
+Hu NNP 
+Shing NNP 
 
-re-exports OOV1 
+
+
+re-exports OOV2 
+15.92 OOV1 
+
+re-exports OOV2 
 11.28 OOV1 
 
 
-Perfecta OOV2 
+Perfecta NNP 
 
 
-Matchbox OOV2 
-Shing OOV2 
-Kader OOV2 
-Ting OOV1 
+Matchbox NNP 
+Shing NNP 
+Kader NNP 
+Ting NNP 
 
 
 
-Worries OOV1 
-Worlds OOV1 
-Wonder OOV1 
+Worries NNP 
+Worlds NNP 
+Wonder NNP 
 
 chastened OOV1 
 
 
 mega-hit OOV1 
-excite OOV1 
+excite OOV2 
 
 mega-hit OOV2 
-Teenage OOV2 
-Mutant OOV1 
-Ninja OOV2 
-Turtles OOV1 
-Playmates OOV2 
+Teenage NNP 
+Mutant NNP 
+Ninja NNP 
+Turtles NNP 
+Playmates NNP 
 
-Introduced OOV1 
+Introduced NNP 
 mid-1988 OOV1 
-15-centimeter-tall OOV2 
-turtles OOV2 
+15-centimeter-tall OOV1 
+turtles OOV1 
 
-Kwan OOV1 
-Playmates OOV1 
-Ninja OOV2 
-Turtles OOV2 
+Kwan NNP 
+Playmates NNP 
+Ninja NNP 
+Turtles NNP 
 reptilian OOV2 
-biggest-selling OOV1 
+biggest-selling OOV2 
 
-Kwan OOV1 
-Ninja OOV1 
-Turtles OOV1 
-Playmates OOV2 
+Kwan NNP 
+Ninja NNP 
+Turtles NNP 
+Playmates NNP 
 
 
 fast-selling OOV1 
 
 
-overstrained OOV1 
+overstrained OOV2 
 
-industrialization OOV2 
+industrialization OOV1 
 
 
 
@@ -2056,37 +2056,37 @@ harder-line OOV2
 
 
 
-Kwan OOV1 
-Playmates OOV1 
+Kwan NNP 
+Playmates NNP 
 
 
-Solicitor OOV1 
-
-
-
-
-Rehnquist OOV2 
+Solicitor NNP 
 
 
 
 
-Hodgson OOV1 
+Rehnquist NNP 
+
+
+
+
+Hodgson NNP 
 
 
 
 2.83 OOV1 
 
 
-Siedenburg OOV2 
+Siedenburg NNP 
 
 
 
 
-Atwell OOV1 
+Atwell NNP 
 
-Atwell OOV2 
+Atwell NNP 
 
-679,000 OOV1 
+679,000 OOV2 
 671,000 OOV1 
 buffing OOV1 
 
@@ -2095,19 +2095,19 @@ buffing OOV1
 
 
 
-rerun OOV1 
+rerun OOV2 
 
 
-sidestep OOV2 
+sidestep OOV1 
 fin-syn OOV2 
-Syndication OOV1 
+Syndication NNP 
 
-now-scuttled OOV1 
-
-
+now-scuttled OOV2 
 
 
-program-maker OOV2 
+
+
+program-maker OOV1 
 
 fin-syn OOV2 
 
@@ -2117,84 +2117,84 @@ fin-syn OOV2
 privy OOV2 
 
 uninhibited OOV2 
-Valenti OOV1 
+Valenti NNP 
 vociferous OOV1 
 
 rerun OOV2 
 
 
-Studio OOV2 
-Fries OOV2 
+Studio NNP 
+Fries NNP 
 
-Valenti OOV2 
-
-
+Valenti NNP 
 
 
 
 
 
-unshackled OOV1 
 
 
-Sony\/Columbia OOV1 
-Trinitron OOV2 
-Evening OOV1 
-J.B. OOV1 
-Holston OOV2 
-
-Holston OOV1 
-fin-syn OOV1 
+unshackled OOV2 
 
 
-Holston OOV1 
+Sony\/Columbia NNP 
+Trinitron NNP 
+Evening NNP 
+J.B. NNP 
+Holston NNP 
+
+Holston NNP 
+fin-syn OOV2 
+
+
+Holston NNP 
 
 drumbeat OOV2 
 
-fin-syn OOV2 
+fin-syn OOV1 
 
 decrying OOV1 
-Time-Warner OOV1 
+Time-Warner NNP 
 
 
 
 
-Lilley OOV2 
+Lilley NNP 
 
 
-Fin-syn OOV1 
-rerun OOV2 
+Fin-syn NNP 
+rerun OOV1 
 
 
 
 convolutions OOV2 
 
-100%-owned OOV2 
-crime\/comedy OOV2 
-Moonlighting OOV2 
+100%-owned OOV1 
+crime\/comedy OOV1 
+Moonlighting NNP 
 
 
 
-tantalizingly OOV1 
+tantalizingly OOV2 
 
 
-wield OOV2 
-
-
-
-
-
-
-D-Mass. OOV2 
-Sony-Columbia OOV1 
+wield OOV1 
 
 
 
 
-contract-steering OOV1 
 
 
-ex-member OOV2 
+D-Mass. NNP 
+Sony-Columbia NNP 
+
+
+
+
+contract-steering OOV2 
+
+
+ex-member OOV1 
 
 
 
@@ -2209,71 +2209,71 @@ ex-member OOV2
 142.7 OOV1 
 
 
-Earning OOV1 
-microchip OOV2 
+Earning NNP 
+microchip OOV1 
 
-771.4 OOV1 
+771.4 OOV2 
 784.9 OOV2 
 
 99.3 OOV1 
-747.3 OOV1 
+747.3 OOV2 
 
 succumbed OOV1 
 
 
-S.Grove OOV2 
+S.Grove NNP 
 
 
-book-to-bill OOV1 
+book-to-bill OOV2 
 
-367.1 OOV1 
-
-
+367.1 OOV2 
 
 
-reunited OOV1 
 
 
-hoisted OOV1 
+reunited OOV2 
+
+
+hoisted OOV2 
 rickety OOV1 
 scarves OOV1 
 
 four-room OOV1 
-Elias OOV1 
-Motsoaledi OOV1 
+Elias NNP 
+Motsoaledi NNP 
 unionist OOV2 
-Umkhonto OOV2 
-Sizwe OOV2 
+Umkhonto NNP 
+Sizwe NNP 
 well-wishers OOV2 
 tooted OOV2 
 
-dapper OOV1 
+dapper OOV2 
 
 fists OOV2 
 
 
-Lusaka OOV2 
-Zambia OOV2 
+Lusaka NNP 
+Zambia NNP 
 
-unconditional OOV2 
+unconditional OOV1 
 rebirth OOV2 
 
-Cassim OOV1 
-Saloojee OOV2 
+Cassim NNP 
+Saloojee NNP 
 
 
 
-Anglican OOV2 
+Anglican NNP 
 
-Deafening OOV2 
+Deafening NNP 
 chants OOV1 
-Umkhonto OOV2 
-Sizwe OOV1 
+Umkhonto NNP 
+Sizwe NNP 
 
 
 half-measure OOV2 
 
-Africanist OOV2 
+Africanist NNP 
 
 
 repressive OOV2 
@@ -2281,23 +2281,23 @@ repressive OOV2
 
 disillusionment OOV1 
 
-agitation OOV1 
+agitation OOV2 
 
 
 
 
 
-Lusaka OOV1 
+Lusaka NNP 
 
+lions OOV1 
 lions OOV2 
-lions OOV2 
 
-Mokaba OOV2 
-Youth OOV2 
-
+Mokaba NNP 
+Youth NNP 
 
 
-Mlangeni OOV2 
-Umkhonto OOV2 
+
+Mlangeni NNP 
+Umkhonto NNP 
 
 
