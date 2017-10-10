@@ -11,7 +11,7 @@ import random
 from probabilities import word_tags
 from probabilities import word_likelihood
 from probabilities import pos_prob_table
-from test import *
+
 
 dev = open("dev.txt", "r")
 output2 = open("output2.pos", "w")
@@ -32,11 +32,17 @@ for word in corpus:
 		continue
 	# Handle OOV
 	if word not in word_tags:
-		assigned_tag = random.choice(['DEFAULT1','DEFAULT2']) #default: randomly assign either NNP or JJP
+		assigned_tag = random.choice(['NNP','JJP']) #default: randomly assign either NNP or JJP
 		if (previous != "*start_end*")and(list(word)[0].isupper()):
 			assigned_tag = 'NNP'
-		elif(ends_in_inflection(word)):
-			assigned_tag = random.choice(['VBZ','NNS'])
+		elif(word.endswith('ed')):
+			assigned_tag = 'VBD'
+		elif(word.endswith('ing')):
+			assigned_tag = 'VBG'
+		elif(word.endswith('er')):
+			assigned_tag = 'JJR' #comparative
+		elif(word.endswith('s')):
+			assigned_tag = random.choice(['NNS','VB']) #plural or verb
 		output2.write('{} {} \n'.format(word, assigned_tag))
 
 	previous = word

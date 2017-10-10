@@ -1,5 +1,5 @@
-The DEFAULT2 
-severalx1 DEFAULT1 
+The NNP 
+severalx1 NNP 
 
 The NNP 
 August NNP 
@@ -83,9 +83,9 @@ He NNP
 He NNP 
 
 Housing NNP 
-quicken DEFAULT1 
+quicken JJP 
 August NNP 
-1,350,000 DEFAULT2 
+1,350,000 JJP 
 
 Economists NNP 
 August NNP 
@@ -95,10 +95,10 @@ Two-Way NNP
 Street NNP 
 
 If NNP 
-sixty-day DEFAULT1 
-plant-closing NNS 
+sixty-day NNP 
+plant-closing VBG 
 Why NNP 
-writ DEFAULT1 
+writ NNP 
 To NNP 
 Similar NNP 
 
@@ -124,7 +124,7 @@ Thames NNP
 Television NNP 
 
 The NNP 
-rerun DEFAULT2 
+rerun JJP 
 
 Let NNP 
 
@@ -139,7 +139,7 @@ But NNP
 You NNP 
 
 The NNP 
-slickly DEFAULT1 
+slickly JJP 
 London NNP 
 
 Turned NNP 
@@ -157,7 +157,7 @@ Trouble NNP
 
 Rather NNP 
 Michelle NNP 
-blabs NNS 
+blabs VB 
 
 Little NNP 
 Shane NNP 
@@ -181,31 +181,31 @@ Japanese NNP
 Surprisingly NNP 
 Shane NNP 
 Longman NNP 
-innocently DEFAULT1 
+innocently JJP 
 
 Instead NNP 
-loutish DEFAULT1 
+loutish NNP 
 American NNP 
 
 The NNP 
-kelp DEFAULT2 
+kelp NNP 
 hurries NNS 
 
 But NNP 
 
 If NNP 
-conspicuously DEFAULT2 
+conspicuously NNP 
 
 In NNP 
 
 Two NNP 
 
 Michelle NNP 
-canary-colored VBZ 
+canary-colored VBD 
 Porsche NNP 
-beat-up DEFAULT1 
+beat-up JJP 
 pliers NNS 
-ignition DEFAULT1 
+ignition JJP 
 
 And NNP 
 Declan NNP 
@@ -215,7 +215,7 @@ anomalies NNS
 class-conscious NNS 
 Britain NNP 
 Thatcherian NNP 
-free-enterprise DEFAULT1 
+free-enterprise JJP 
 
 After NNP 
 
@@ -225,18 +225,18 @@ Max NNP
 Yuppily NNP 
 
 But NNP 
-palatable DEFAULT2 
+palatable NNP 
 inflates NNS 
-pony-tailed VBZ 
+pony-tailed VBD 
 Max NNP 
 Chinese NNP 
 
 He NNP 
-laundromat DEFAULT2 
-punky DEFAULT2 
+laundromat NNP 
+punky JJP 
 French NNP 
-dupes NNS 
-piranha DEFAULT1 
+dupes VB 
+piranha NNP 
 Dieppe NNP 
 
 In NNP 
@@ -247,20 +247,20 @@ Shane NNP
 Longman NNP 
 
 The NNP 
-inconsiderable DEFAULT1 
+inconsiderable JJP 
 Dealers NNP 
-made-for-TV DEFAULT1 
+made-for-TV NNP 
 
 Another NNP 
-quid DEFAULT2 
-volley DEFAULT2 
+quid JJP 
+volley JJP 
 British NNP 
 London NNP 
 
 These NNP 
 Capital NNP 
 City NNP 
-flog DEFAULT1 
+flog NNP 
 Yank-oriented NNP 
 America NNP 
 
@@ -270,7 +270,7 @@ Donald NNP
 Taffner NNP 
 
 He NNP 
-discreetly DEFAULT1 
+discreetly NNP 
 U.S. NNP 
 Three NNP 
 Company NNP 
@@ -281,7 +281,7 @@ Check NNP
 It NNP 
 Out NNP 
 British NNP 
-antecedents NNS 
+antecedents VB 
 
 Perhaps NNP 
 Mr. NNP 
@@ -295,12 +295,12 @@ On NNP
 The NNP 
 
 The NNP 
-marvelously DEFAULT1 
-trading-room DEFAULT2 
-minded VBZ 
+marvelously NNP 
+trading-room JJP 
+minded VBD 
 
 And NNP 
-resemblances VBZ 
+resemblances NNS 
 American NNP 
 TV NNP 
 
@@ -327,7 +327,7 @@ Dorian NNP
 Healy NNP 
 Huntz NNP 
 Hall NNP 
-blank-faced VBZ 
+blank-faced VBD 
 Bowery NNP 
 Boys NNP 
 
@@ -349,11 +349,11 @@ Zsa NNP
 Zsa NNP 
 
 He NNP 
-backflips VBZ 
-explodes NNS 
+backflips VB 
+explodes VB 
 Huntz NNP 
 Hall NNP 
-microchips NNS 
+microchips VB 
 
 And NNP 
 
@@ -436,7 +436,7 @@ Axa-Midi NNP
 Group NNP 
 
 He NNP 
-non-insurance DEFAULT2 
+non-insurance NNP 
 Farmers NNP 
 
 We NNP 
@@ -467,8 +467,8 @@ James NNP
 British NNP 
 
 Hoylake NNP 
-20.71 DEFAULT2 
-propsed NNS 
+20.71 NNP 
+propsed VBD 
 Farmers NNP 
 Axa NNP 
 
@@ -477,7 +477,7 @@ B.A.T NNP
 It NNP 
 
 The NNP 
-very-highly DEFAULT2 
+very-highly NNP 
 Axa NNP 
 Farmers NNP 
 
@@ -492,7 +492,7 @@ To NNP
 Sir NNP 
 James NNP 
 B.A.T NNP 
-pare DEFAULT1 
+pare NNP 
 
 Dismal NNP 
 General NNP 
@@ -502,14 +502,14 @@ U.S. NNP
 October NNP 
 
 The NNP 
-160,510 DEFAULT1 
+160,510 NNP 
 North NNP 
 American-made NNP 
 October NNP 
 
 Domestically NNP 
-86,555 DEFAULT1 
-pickups VBZ 
+86,555 NNP 
+pickups NNS 
 
 The NNP 
 Oct. NNP 
@@ -554,14 +554,14 @@ Cadillac NNP
 
 Cadillac NNP 
 Lexus NNP 
-fledging NNS 
+fledging VBG 
 Toyota NNP 
 Motor NNP 
 Corp NNP 
 
 Lexus NNP 
 Toyota NNP 
-month-end DEFAULT1 
+month-end NNP 
 
 The NNP 
 No. NNP 
@@ -622,7 +622,7 @@ Corp. NNP
 
 Mr. NNP 
 Savoca NNP 
-rocket-propulsion DEFAULT2 
+rocket-propulsion NNP 
 
 Mr. NNP 
 Savoca NNP 
@@ -633,7 +633,7 @@ Borten NNP
 Sequa NNP 
 
 It NNP 
-electro-optics NNS 
+electro-optics VB 
 
 It NNP 
 U.S. NNP 
@@ -680,7 +680,7 @@ Budapest NNP
 In NNP 
 
 Instead NNP 
-imperialism DEFAULT2 
+imperialism JJP 
 Radio NNP 
 Free NNP 
 Europe NNP 
@@ -689,7 +689,7 @@ They NNP
 Hungarian NNP 
 Andrew NNP 
 Deak NNP 
-computer-science DEFAULT1 
+computer-science NNP 
 Technical NNP 
 University NNP 
 Budapest NNP 
@@ -701,12 +701,12 @@ Indeed NNP
 Hungary NNP 
 
 Boys NNP 
-stripe DEFAULT2 
+stripe NNP 
 
 Newsstands NNP 
 
 Radio NNP 
-livelier DEFAULT1 
+livelier JJR 
 
 The NNP 
 British NNP 
@@ -764,7 +764,7 @@ Months NNP
 Hungarian NNP 
 Communist NNP 
 Party NNP 
-rename DEFAULT2 
+rename JJP 
 Socialist NNP 
 
 It NNP 
@@ -794,8 +794,8 @@ Budapest NNP
 That NNP 
 
 It NNP 
-frequencies VBZ 
-messengers VBZ 
+frequencies NNS 
+messengers NNS 
 
 In NNP 
 Hungarian NNP 
@@ -813,7 +813,7 @@ There NNP
 The NNP 
 
 Through NNP 
-post-World DEFAULT1 
+post-World NNP 
 War NNP 
 II NNP 
 Western NNP 
@@ -848,7 +848,7 @@ Hungarian NNP
 Radio NNP 
 
 The NNP 
-influencing VBZ 
+influencing VBG 
 Radio NNP 
 Free NNP 
 Europe NNP 
@@ -861,18 +861,18 @@ Nyiregyhaza NNP
 
 The NNP 
 Hungarian NNP 
-40-minute DEFAULT2 
+40-minute JJP 
 Newsreel NNP 
 
 There NNP 
 
 A NNP 
-35-minute DEFAULT2 
+35-minute NNP 
 The NNP 
 March NNP 
 Time NNP 
-tidbits VBZ 
-lighthearted VBZ 
+tidbits VB 
+lighthearted VBD 
 
 There NNP 
 
@@ -896,18 +896,18 @@ Deak NNP
 Every NNP 
 
 Proposals NNP 
-government-operated VBZ 
-influenza DEFAULT1 
-flare DEFAULT2 
-politic DEFAULT1 
-mutate DEFAULT2 
-afflict DEFAULT2 
+government-operated VBD 
+influenza NNP 
+flare NNP 
+politic JJP 
+mutate NNP 
+afflict JJP 
 
 The NNP 
-aspersion DEFAULT1 
+aspersion NNP 
 
 Rather NNP 
-smallpox DEFAULT1 
+smallpox JJP 
 
 It NNP 
 National NNP 
@@ -916,22 +916,22 @@ Service NNP
 Act NNP 
 
 Why NNP 
-national-service DEFAULT1 
+national-service NNP 
 
 Perhaps NNP 
-utopian DEFAULT1 
-evokes VBZ 
+utopian NNP 
+evokes NNS 
 
 If NNP 
 America NNP 
-wastrel DEFAULT2 
-self-discipline DEFAULT1 
+wastrel NNP 
+self-discipline NNP 
 
 A NNP 
-curing NNS 
+curing VBG 
 
 Those NNP 
-national-service DEFAULT2 
+national-service JJP 
 
 Choice NNP 
 
@@ -940,13 +940,13 @@ But NNP
 This NNP 
 
 Why NNP 
-recipient DEFAULT2 
+recipient JJP 
 
 Military NNP 
-national-service DEFAULT1 
+national-service NNP 
 
 Thus NNP 
-infecting VBZ 
+infecting VBG 
 
 The NNP 
 Democratic NNP 
@@ -957,26 +957,26 @@ A NNP
 
 The NNP 
 DLC NNP 
-emptying VBZ 
-bedpans NNS 
-tutoring VBZ 
-librarians VBZ 
+emptying VBG 
+bedpans VB 
+tutoring VBG 
+librarians VB 
 
 With NNP 
-voucher DEFAULT1 
+voucher JJR 
 
 Mind NNP 
-unskilled NNS 
-18-year-olds VBZ 
+unskilled VBD 
+18-year-olds NNS 
 
 They NNP 
 
 As NNP 
-national-service DEFAULT2 
+national-service NNP 
 
 Opposition NNP 
 Pentagon NNP 
-military-service DEFAULT1 
+military-service NNP 
 
 Clearly NNP 
 
@@ -986,10 +986,10 @@ Edward NNP
 Kennedy NNP 
 Labor NNP 
 Committee NNP 
-stove DEFAULT1 
-expansionism DEFAULT1 
-porridge DEFAULT2 
-nouvelle DEFAULT2 
+stove NNP 
+expansionism NNP 
+porridge JJP 
+nouvelle NNP 
 
 In NNP 
 DLC NNP 
@@ -1000,12 +1000,12 @@ Sen. NNP
 Chris NNP 
 Dodd NNP 
 Kennedy NNP 
-work-study DEFAULT1 
-palate DEFAULT1 
+work-study JJP 
+palate JJP 
 Sen. NNP 
 Dale NNP 
 Bumpers NNP 
-engorgement DEFAULT1 
+engorgement JJP 
 VISTA NNP 
 Retired NNP 
 Senior NNP 
@@ -1019,13 +1019,13 @@ Before NNP
 House NNP 
 
 It NNP 
-spoil DEFAULT2 
-broth DEFAULT2 
+spoil NNP 
+broth NNP 
 
 The NNP 
 Congress NNP 
-unwholesome DEFAULT2 
-glop DEFAULT2 
+unwholesome NNP 
+glop JJP 
 
 The NNP 
 
@@ -1050,29 +1050,29 @@ GI NNP
 Bill NNP 
 
 To NNP 
-menial DEFAULT2 
-labor-saving NNS 
-overpay DEFAULT1 
+menial NNP 
+labor-saving VBG 
+overpay JJP 
 
 Will NNP 
-exert DEFAULT2 
+exert NNP 
 
 Not NNP 
 
 Polls NNP 
-generalized VBZ 
+generalized VBD 
 
 Nonetheless NNP 
 Senate NNP 
 Democrats NNP 
 
 So NNP 
-ill-disposed NNS 
-endow DEFAULT2 
+ill-disposed VBD 
+endow JJP 
 Points NNP 
 Light NNP 
-exhort DEFAULT2 
-volunteerism DEFAULT1 
+exhort JJP 
+volunteerism JJP 
 
 However NNP 
 White NNP 
@@ -1084,8 +1084,8 @@ There NNP
 The NNP 
 
 National NNP 
-utopian DEFAULT2 
-knee-socked VBZ 
+utopian NNP 
+knee-socked VBD 
 progenitors NNS 
 
 Mr. NNP 
@@ -1193,7 +1193,7 @@ Service NNP
 
 After NNP 
 localities NNS 
-prerequisite DEFAULT1 
+prerequisite JJP 
 Washington NNP 
 
 At NNP 
@@ -1245,22 +1245,22 @@ What NNP
 Doctrine NNP 
 
 People NNP 
-dues NNS 
+dues VB 
 
 So NNP 
-re-energized VBZ 
+re-energized VBD 
 
 Then NNP 
 
 To NNP 
-abomination DEFAULT1 
+abomination NNP 
 
 Devotees NNP 
 
 If NNP 
 
 Elements NNP 
-regimentation DEFAULT2 
+regimentation NNP 
 
 But NNP 
 
@@ -1269,7 +1269,7 @@ How NNP
 Let NNP 
 
 Would NNP 
-compulsory DEFAULT1 
+compulsory JJP 
 
 Short NNP 
 
@@ -1278,7 +1278,7 @@ Part-time NNP
 Paid NNP 
 
 Would NNP 
-barracks NNS 
+barracks VB 
 
 What NNP 
 
@@ -1293,7 +1293,7 @@ Only NNP
 Youth NNP 
 
 Middle-class NNP 
-cross-section DEFAULT2 
+cross-section NNP 
 
 Many NNP 
 
@@ -1328,35 +1328,35 @@ But NNP
 Why NNP 
 
 Encouragement NNP 
-compulsion DEFAULT2 
+compulsion JJP 
 
 Compelled NNP 
 
 It NNP 
-unenforceable DEFAULT2 
+unenforceable NNP 
 
 Who NNP 
-refusers VBZ 
+refusers NNS 
 
 But NNP 
 
 It NNP 
 
 Its NNP 
-volunteering NNS 
+volunteering VBG 
 U.S. NNP 
 
 Good NNP 
 
 Enthusiasts NNP 
-tutored VBZ 
+tutored VBD 
 
 There NNP 
 
 Good NNP 
 
 They NNP 
-stipends VBZ 
+stipends VB 
 
 Full-time NNP 
 Stanford NNP 
@@ -1369,7 +1369,7 @@ Are NNP
 Evaluations NNP 
 
 But NNP 
-challengeable DEFAULT1 
+challengeable NNP 
 
 Underclass NNP 
 
@@ -1388,11 +1388,11 @@ They NNP
 They NNP 
 
 And NNP 
-unprecedentedly DEFAULT1 
-behaviors NNS 
+unprecedentedly NNP 
+behaviors VB 
 
 But NNP 
-reoriented NNS 
+reoriented VBD 
 
 Some NNP 
 
@@ -1401,13 +1401,13 @@ But NNP
 Learning NNP 
 
 Even NNP 
-playgrounds VBZ 
-dune-grass VBZ 
+playgrounds VB 
+dune-grass VB 
 
 Strictly NNP 
 
 They NNP 
-incurring VBZ 
+incurring VBG 
 
 But NNP 
 
@@ -1461,7 +1461,7 @@ But NNP
 In NNP 
 Fed NNP 
 Bush NNP 
-overt DEFAULT2 
+overt JJP 
 Friday NNP 
 
 The NNP 
@@ -1483,7 +1483,7 @@ Greenspan NNP
 
 Nevertheless NNP 
 Fed NNP 
-portrayals NNS 
+portrayals VB 
 
 It NNP 
 October NNP 
@@ -1492,7 +1492,7 @@ The NNP
 Fed NNP 
 
 The NNP 
-reticence DEFAULT2 
+reticence NNP 
 Sunday NNP 
 Budget NNP 
 Director NNP 
@@ -1512,11 +1512,11 @@ SEC NNP
 I NNP 
 
 When NNP 
-non-answer DEFAULT1 
+non-answer JJR 
 Mr. NNP 
 Darman NNP 
 It NNP 
-non-answer DEFAULT2 
+non-answer JJR 
 
 But NNP 
 
@@ -1620,14 +1620,14 @@ Camp NNP
 David NNP 
 
 He NNP 
-consultations VBZ 
+consultations VB 
 Mr. NNP 
 Brady NNP 
 Michael NNP 
 Boskin NNP 
 
 Government NNP 
-render DEFAULT2 
+render JJR 
 
 Treasury NNP 
 Undersecretary NNP 
@@ -1677,7 +1677,7 @@ Canadian NNP
 As NNP 
 Wednesday NNP 
 
-10.06.89 DEFAULT2 
+10.06.89 JJP 
 NAV:22.15 NNP 
 
 Not NNP 
@@ -1685,7 +1685,7 @@ Not NNP
 Put NNP 
 
 Walk NNP 
-breaths VBZ 
+breaths VB 
 
 Resist NNP 
 
@@ -1746,7 +1746,7 @@ Brouwer NNP
 Janachowski NNP 
 
 Even NNP 
-pundits NNS 
+pundits VB 
 Wait NNP 
 
 The NNP 
@@ -1797,10 +1797,10 @@ Corp. NNP
 We NNP 
 
 We NNP 
-panics NNS 
+panics VB 
 
 And NNP 
-panics NNS 
+panics VB 
 
 One NNP 
 Friday NNP 
@@ -1882,7 +1882,7 @@ Fleckenstein NNP
 He NNP 
 
 So NNP 
-rekindled NNS 
+rekindled VBD 
 
 As NNP 
 Mr. NNP 
@@ -1922,12 +1922,12 @@ Thursday NNP
 Friday NNP 
 
 But NNP 
-put-option DEFAULT2 
+put-option JJP 
 
 It NNP 
 
 But NNP 
-praiseworthy DEFAULT2 
+praiseworthy JJP 
 
 Paying NNP 
 
@@ -1955,7 +1955,7 @@ Didion NNP
 We NNP 
 
 He NNP 
-fork DEFAULT2 
+fork JJP 
 
 They NNP 
 Mr. NNP 
@@ -2080,7 +2080,7 @@ Treasury NNP
 
 The NNP 
 Brady NNP 
-cross-market DEFAULT1 
+cross-market NNP 
 
 But NNP 
 
@@ -2092,10 +2092,10 @@ Standard NNP
 Poor NNP 
 
 Those NNP 
-2:07 DEFAULT1 
-2:30 DEFAULT2 
+2:07 JJP 
+2:30 JJP 
 CDT NNP 
-2:45 DEFAULT1 
+2:45 NNP 
 
 During NNP 
 S&P NNP 
@@ -2108,7 +2108,7 @@ That NNP
 One NNP 
 Merc NNP 
 S&P NNP 
-well-drilled VBZ 
+well-drilled VBD 
 
 You NNP 
 Howard NNP 
@@ -2121,7 +2121,7 @@ The NNP
 
 After NNP 
 S&P NNP 
-30-point DEFAULT2 
+30-point NNP 
 
 Traders NNP 
 Dow NNP 
@@ -2132,7 +2132,7 @@ One NNP
 S&P NNP 
 
 But NNP 
-250-point DEFAULT1 
+250-point JJP 
 Chicago NNP 
 Board NNP 
 Trade NNP 
@@ -2147,12 +2147,12 @@ S&P NNP
 The NNP 
 
 The NNP 
-remake DEFAULT1 
+remake JJP 
 
 In NNP 
 October NNP 
 Washington NNP 
-awash DEFAULT1 
+awash NNP 
 
 Over NNP 
 
@@ -2169,7 +2169,7 @@ Federal NNP
 Judge NNP 
 Stanley NNP 
 Sporkin NNP 
-barnacles NNS 
+barnacles VB 
 
 And NNP 
 New NNP 
@@ -2184,9 +2184,9 @@ Force NNP
 January NNP 
 
 Arguing NNP 
-marketplaces NNS 
-super-regulator DEFAULT2 
-unify DEFAULT2 
+marketplaces VB 
+super-regulator JJP 
+unify JJP 
 
 Only NNP 
 
@@ -2222,7 +2222,7 @@ Industrial NNP
 Average NNP 
 
 Privately NNP 
-sops VBZ 
+sops NNS 
 interventionists NNS 
 
 After NNP 
@@ -2273,7 +2273,7 @@ Jan. NNP
 Establish NNP 
 
 Unify NNP 
-trade-clearing VBZ 
+trade-clearing VBG 
 
 Make NNP 
 
@@ -2284,10 +2284,10 @@ Require NNP
 
 Give NNP 
 SEC NNP 
-risk-taking NNS 
+risk-taking VBG 
 
 Transfer NNP 
-stock-related VBZ 
+stock-related VBD 
 SEC NNP 
 CFTC NNP 
 
@@ -2350,14 +2350,14 @@ De NNP
 Beers NNP 
 
 The NNP 
-deadlock DEFAULT2 
+deadlock JJP 
 De NNP 
 Beers NNP 
 
 Japan NNP 
 Socialist NNP 
 Party NNP 
-pinball-parlor DEFAULT2 
+pinball-parlor NNP 
 
 The NNP 
 Parliament NNP 
@@ -2365,7 +2365,7 @@ Liberal NNP
 Democratic NNP 
 Party NNP 
 Japanese-style NNP 
-infiltrated NNS 
+infiltrated VBD 
 
 Tsuruo NNP 
 Yamaguchi NNP 
@@ -2390,7 +2390,7 @@ Trade NNP
 Endangered NNP 
 Species NNP 
 Lausanne NNP 
-parakeets VBZ 
+parakeets NNS 
 orchids NNS 
 
 Fund NNP 
@@ -2399,8 +2399,8 @@ Lyster NNP
 
 A NNP 
 NATO NNP 
-frigate DEFAULT2 
-torpedoed VBZ 
+frigate JJP 
+torpedoed VBD 
 
 Britain NNP 
 France NNP 
@@ -2413,7 +2413,7 @@ Labor NNP
 Party NNP 
 
 A NNP 
-affinity DEFAULT2 
+affinity NNP 
 Tories NNP 
 
 Labor NNP 
@@ -2424,26 +2424,26 @@ Labor NNP
 
 As NNP 
 Britain NNP 
-high-interest-rate DEFAULT2 
+high-interest-rate NNP 
 Labor NNP 
 Co-operative NNP 
 Bank NNP 
 
 China NNP 
-year-long DEFAULT1 
-harnessing VBZ 
+year-long NNP 
+harnessing VBG 
 
 The NNP 
 China NNP 
 Daily NNP 
-non-staple DEFAULT1 
+non-staple NNP 
 December NNP 
 
 The NNP 
 State NNP 
 Statistical NNP 
 Bureau NNP 
-yuan DEFAULT1 
+yuan NNP 
 
 The NNP 
 
@@ -2455,17 +2455,17 @@ In NNP
 Russian NNP 
 Orthodox NNP 
 priests NNS 
-400th DEFAULT1 
+400th NNP 
 Moscow NNP 
-patriarchate DEFAULT2 
+patriarchate JJP 
 Kremlin NNP 
-15th-century DEFAULT1 
+15th-century NNP 
 Uspensky NNP 
 Cathedral NNP 
-crowned NNS 
+crowned VBD 
 
 A NNP 
-34-foot-tall DEFAULT1 
+34-foot-tall JJP 
 Buddha NNP 
 Hong NNP 
 Kong NNP 
@@ -2513,7 +2513,7 @@ Sony NNP
 The NNP 
 
 But NNP 
-underselling VBZ 
+underselling VBG 
 Sony NNP 
 Justin NNP 
 
@@ -2546,22 +2546,22 @@ His NNP
 Sony NNP 
 
 Justin NNP 
-wrathful DEFAULT2 
+wrathful NNP 
 
 With NNP 
 Japan NNP 
 U.S. NNP 
 
 Americans NNP 
-undersold DEFAULT1 
-look-alike DEFAULT2 
+undersold NNP 
+look-alike JJP 
 Japan NNP 
 
 Now NNP 
 Sony NNP 
-premium-priced NNS 
+premium-priced VBD 
 U.S. NNP 
-look-alike DEFAULT1 
+look-alike NNP 
 China NNP 
 
 The NNP 
@@ -2584,7 +2584,7 @@ Eslinger NNP
 
 At NNP 
 They NNP 
-grind DEFAULT1 
+grind NNP 
 
 Mr. NNP 
 Kaye NNP 
@@ -2647,7 +2647,7 @@ First NNP
 Sony NNP 
 
 The NNP 
-brightly DEFAULT2 
+brightly NNP 
 
 In NNP 
 Sony NNP 
@@ -2663,7 +2663,7 @@ Sony NNP
 Justin NNP 
 
 To NNP 
-fire-engine DEFAULT1 
+fire-engine JJP 
 Charles NNP 
 E. NNP 
 Baxley NNP 
@@ -2671,8 +2671,8 @@ Justin NNP
 
 By NNP 
 Justin NNP 
-prototypes NNS 
-fairs VBZ 
+prototypes VB 
+fairs NNS 
 Hong NNP 
 Kong NNP 
 New NNP 
@@ -2713,13 +2713,13 @@ Sony NNP
 Sony NNP 
 
 Off NNP 
-skirmished VBZ 
+skirmished VBD 
 
 And NNP 
 Justin NNP 
 Once NNP 
 Sony NNP 
-strong-arm DEFAULT2 
+strong-arm JJP 
 American NNP 
 
 Sony NNP 
@@ -2735,7 +2735,7 @@ Sony NNP
 
 Whatever NNP 
 Sony NNP 
-debilitating NNS 
+debilitating VBG 
 Justin NNP 
 
 It NNP 
@@ -2761,7 +2761,7 @@ Tenney NNP
 II NNP 
 Unitil NNP 
 Corp. NNP 
-34,602 DEFAULT1 
+34,602 JJP 
 Unitil NNP 
 Securities NNP 
 Exchange NNP 
@@ -2816,7 +2816,7 @@ Germany NNP
 
 Dresdner NNP 
 BIP NNP 
-156.82 DEFAULT2 
+156.82 JJP 
 
 The NNP 
 
@@ -2827,7 +2827,7 @@ Societe NNP
 Generale NNP 
 Belgique NNP 
 S.A. NNP 
-9.69 DEFAULT2 
+9.69 NNP 
 Financiere NNP 
 Tradition NNP 
 
@@ -2868,7 +2868,7 @@ Lahus NNP
 II NNP 
 Lahus NNP 
 III NNP 
-1,234,100 DEFAULT2 
+1,234,100 NNP 
 
 Mr. NNP 
 Rocha NNP 
@@ -2889,7 +2889,7 @@ York NNP
 Sports NNP 
 Recreation NNP 
 Inc. NNP 
-10-store DEFAULT2 
+10-store JJP 
 Sports NNP 
 Unlimited NNP 
 
@@ -2944,7 +2944,7 @@ Calif. NNP
 
 Fidelity NNP 
 Hammond NNP 
-23.57 DEFAULT2 
+23.57 JJP 
 
 Statements NNP 
 Securities NNP 
@@ -2960,7 +2960,7 @@ Airways NNP
 Denver-based NNP 
 United NNP 
 Express NNP 
-connector DEFAULT2 
+connector NNP 
 UAL NNP 
 Corp. NNP 
 United NNP 
@@ -3025,7 +3025,7 @@ S.p NNP
 A. NNP 
 Varese NNP 
 Italy NNP 
-trainers NNS 
+trainers VB 
 U.S. NNP 
 Air NNP 
 Force NNP 
@@ -3033,7 +3033,7 @@ Force NNP
 The NNP 
 Air NNP 
 Force NNP 
-trainers VBZ 
+trainers NNS 
 
 The NNP 
 T-37 NNP 
@@ -3063,10 +3063,10 @@ Aermacchi NNP
 Lockheed NNP 
 Aermacchi NNP 
 MB-339 NNP 
-tandem-trainer DEFAULT1 
+tandem-trainer JJR 
 
 Lockheed NNP 
-tandem-seat DEFAULT2 
+tandem-seat NNP 
 Marietta NNP 
 Ga. NNP 
 Air NNP 
@@ -3080,7 +3080,7 @@ Air NNP
 Force NNP 
 
 Striking NNP 
-19-day DEFAULT1 
+19-day NNP 
 Peugeot NNP 
 S.A. NNP 
 France NNP 
@@ -3093,7 +3093,7 @@ Ministry NNP
 
 The NNP 
 Peugeot NNP 
-metalworkers VBZ 
+metalworkers NNS 
 Mulhouse NNP 
 
 Their NNP 
@@ -3106,7 +3106,7 @@ Finance NNP
 Frenchman NNP 
 
 Ministry NNP 
-job-rating VBZ 
+job-rating VBG 
 
 The NNP 
 Friday NNP 
@@ -3123,7 +3123,7 @@ Sass NNP
 This NNP 
 
 Junk NNP 
-stoke DEFAULT2 
+stoke JJP 
 Dow NNP 
 Jones NNP 
 Industrial NNP 
@@ -3134,7 +3134,7 @@ Simultaneously NNP
 U.S. NNP 
 
 But NNP 
-pervaded VBZ 
+pervaded VBD 
 Friday NNP 
 John NNP 
 Lonski NNP 
@@ -3153,7 +3153,7 @@ Co. NNP
 But NNP 
 Goldman NNP 
 Southland NNP 
-7-11 DEFAULT1 
+7-11 JJP 
 
 Goldman NNP 
 
@@ -3191,7 +3191,7 @@ Carleton NNP
 First NNP 
 Boston NNP 
 Corp. NNP 
-hysteria DEFAULT1 
+hysteria JJP 
 
 In NNP 
 August NNP 
@@ -3227,7 +3227,7 @@ Group NNP
 
 The NNP 
 Treasury NNP 
-7.16 DEFAULT2 
+7.16 JJP 
 
 The NNP 
 Dow NNP 
@@ -3269,7 +3269,7 @@ It NNP
 
 He NNP 
 The NNP 
-creamed VBZ 
+creamed VBD 
 
 I NNP 
 I NNP 
@@ -3316,7 +3316,7 @@ Co NNP
 When NNP 
 
 There NNP 
-well-structured NNS 
+well-structured VBD 
 
 But NNP 
 
@@ -3331,7 +3331,7 @@ Last NNP
 This NNP 
 
 And NNP 
-iota DEFAULT1 
+iota NNP 
 
 However NNP 
 Mr. NNP 
@@ -3411,9 +3411,9 @@ What NNP
 Businesses NNP 
 
 What NNP 
-wrenching VBZ 
-readjustment DEFAULT1 
-speculative-grade DEFAULT1 
+wrenching VBG 
+readjustment NNP 
+speculative-grade NNP 
 
 Friday NNP 
 Market NNP 
@@ -3443,7 +3443,7 @@ September NNP
 Bond NNP 
 
 Many NNP 
-eying NNS 
+eying VBG 
 Federal NNP 
 Reserve NNP 
 October NNP 
@@ -3461,12 +3461,12 @@ The NNP
 Ginnie NNP 
 Mae NNP 
 November NNP 
-9.28 DEFAULT2 
+9.28 NNP 
 
 Investment-grade NNP 
 
 But NNP 
-higher-quality DEFAULT1 
+higher-quality JJP 
 
 And NNP 
 Tennessee NNP 
@@ -3499,15 +3499,15 @@ Still NNP
 U.S. NNP 
 
 This NNP 
-observation DEFAULT2 
+observation NNP 
 Dow NNP 
 Jones NNP 
-ticker DEFAULT1 
+ticker JJR 
 Senate NNP 
 Democrats NNP 
 
 The NNP 
-impacted VBZ 
+impacted VBD 
 
 And NNP 
 House NNP 
@@ -3519,14 +3519,14 @@ There NNP
 
 It NNP 
 Congress NNP 
-one-by-one DEFAULT2 
-trickery DEFAULT2 
+one-by-one JJP 
+trickery NNP 
 
 For NNP 
 
 Since NNP 
 Senate NNP 
-fogged VBZ 
+fogged VBD 
 smokescreens NNS 
 
 Especially NNP 
@@ -3537,7 +3537,7 @@ Panama NNP
 To NNP 
 UAL NNP 
 Washington NNP 
-sticky DEFAULT2 
+sticky JJP 
 
 As NNP 
 
@@ -3561,7 +3561,7 @@ Public NNP
 Works NNP 
 Transportation NNP 
 Committee NNP 
-anti-airline DEFAULT1 
+anti-airline JJP 
 American NNP 
 United NNP 
 Air NNP 
@@ -3584,18 +3584,18 @@ Congressman NNP
 In NNP 
 Danny NNP 
 Rostenkowski NNP 
-existance DEFAULT1 
+existance JJP 
 
 Even NNP 
 Treasury NNP 
 
 The NNP 
 Treasury NNP 
-thankfully DEFAULT2 
-1987-style DEFAULT1 
+thankfully NNP 
+1987-style JJP 
 
 Also NNP 
-binges VBZ 
+binges VB 
 
 They NNP 
 
@@ -3612,7 +3612,7 @@ Board NNP
 Trade NNP 
 
 In NNP 
-underpriced NNS 
+underpriced VBD 
 
 There NNP 
 Washington NNP 
@@ -3630,7 +3630,7 @@ Bank NNP
 Chicago NNP 
 
 The NNP 
-foreign-loan DEFAULT1 
+foreign-loan NNP 
 
 First NNP 
 Chicago NNP 
@@ -3640,7 +3640,7 @@ First NNP
 Chicago NNP 
 
 During NNP 
-60.4 DEFAULT1 
+60.4 JJP 
 First NNP 
 Chicago NNP 
 Investment NNP 
@@ -3659,9 +3659,9 @@ Nov. NNP
 
 For NNP 
 Greece NNP 
-misadventure DEFAULT2 
-pseudosocialism DEFAULT1 
-conservative-communist DEFAULT2 
+misadventure JJP 
+pseudosocialism NNP 
+conservative-communist JJP 
 The NNP 
 Prime NNP 
 Minister NNP 
@@ -3670,13 +3670,13 @@ Papandreou NNP
 carcass NNS 
 
 In NNP 
-mid-June DEFAULT1 
+mid-June JJP 
 Greeks NNP 
 
 The NNP 
-post-electoral DEFAULT2 
+post-electoral NNP 
 hagglings NNS 
-miscegenation DEFAULT1 
+miscegenation NNP 
 On NNP 
 New NNP 
 Democracy NNP 
@@ -3688,8 +3688,8 @@ On NNP
 Coalition NNP 
 Left NNP 
 Progress NNP 
-quaint DEFAULT1 
-pro-Soviet DEFAULT2 
+quaint NNP 
+pro-Soviet NNP 
 Communist NNP 
 Party NNP 
 Greece NNP 
@@ -3703,9 +3703,9 @@ Mr. NNP
 Papandreou NNP 
 
 The NNP 
-ostensible DEFAULT2 
-mop-up DEFAULT1 
-purportedly DEFAULT2 
+ostensible NNP 
+mop-up JJP 
+purportedly NNP 
 Mr. NNP 
 Papandreou NNP 
 
@@ -3713,22 +3713,22 @@ In NNP
 catharsis NNS 
 
 When NNP 
-parte DEFAULT1 
+parte NNP 
 
 With NNP 
 Greece NNP 
-long-bubbling VBZ 
-bank-looting NNS 
+long-bubbling VBG 
+bank-looting VBG 
 Mr. NNP 
 Papandreou NNP 
-accuser DEFAULT2 
+accuser JJR 
 George NNP 
 Koskotas NNP 
 Bank NNP 
 Crete NNP 
-self-confessed NNS 
-embezzler DEFAULT2 
-residing VBZ 
+self-confessed VBD 
+embezzler JJR 
+residing VBG 
 Salem NNP 
 Mass. NNP 
 Greece NNP 
@@ -3737,7 +3737,7 @@ Mr. NNP
 Koskotas NNP 
 
 He NNP 
-forthright DEFAULT1 
+forthright NNP 
 
 Nevertheless NNP 
 New NNP 
@@ -3746,18 +3746,18 @@ Communist NNP
 PASOK NNP 
 
 Among NNP 
-unanswered NNS 
+unanswered VBD 
 Mr. NNP 
 Papandreou NNP 
 Bank NNP 
 Crete NNP 
-734,000 DEFAULT2 
+734,000 JJP 
 Mr. NNP 
 Koskotas NNP 
 PASOK NNP 
 Mr. NNP 
 Koskotas NNP 
-pinched NNS 
+pinched VBD 
 
 Two NNP 
 Koskotas NNP 
@@ -3765,17 +3765,17 @@ PASOK NNP
 Parliament NNP 
 
 But NNP 
-eluding NNS 
-drachmas VBZ 
+eluding VBG 
+drachmas VB 
 Mr. NNP 
 Koskotas NNP 
 New NNP 
 Democracy NNP 
 
 In NNP 
-circumstantial DEFAULT2 
+circumstantial NNP 
 PASOK NNP 
-clinching NNS 
+clinching VBG 
 
 On NNP 
 Greeks NNP 
@@ -3814,17 +3814,17 @@ So NNP
 Mr. NNP 
 Mitsotakis NNP 
 chums NNS 
-unwittingly DEFAULT2 
+unwittingly JJP 
 Mr. NNP 
 Papandreou NNP 
-platter DEFAULT1 
+platter JJR 
 PASOK NNP 
-traipse DEFAULT1 
+traipse NNP 
 Mr. NNP 
 Papandreou NNP 
 
 But NNP 
-jinks VBZ 
+jinks NNS 
 PASOK NNP 
 Mr. NNP 
 Papandreou NNP 
@@ -3834,23 +3834,23 @@ He NNP
 Coalition NNP 
 Left NNP 
 Progress NNP 
-ousting NNS 
+ousting VBG 
 PASOK NNP 
-thwarting NNS 
+thwarting VBG 
 Greece NNP 
 
 Then NNP 
-enticed NNS 
+enticed VBD 
 PASOK NNP 
 
 Next NNP 
 PASOK NNP 
-well-respected NNS 
+well-respected VBD 
 Communist NNP 
 Party NNP 
 
 For NNP 
-disaffected VBZ 
+disaffected VBD 
 New NNP 
 Democracy NNP 
 Party NNP 
@@ -3859,9 +3859,9 @@ Mitsotakis NNP
 
 Thus NNP 
 PASOK NNP 
-scandal-stench DEFAULT1 
-seals NNS 
-harshest DEFAULT2 
+scandal-stench JJP 
+seals VB 
+harshest JJP 
 
 Crucial NNP 
 Greece NNP 
@@ -3874,7 +3874,7 @@ Common NNP
 Market NNP 
 
 Greece NNP 
-bilateral DEFAULT1 
+bilateral NNP 
 U.S. NNP 
 
 For NNP 
@@ -3909,26 +3909,26 @@ Greek NNP
 PASOK NNP 
 Mr. NNP 
 Papandreou NNP 
-wild-eyed NNS 
+wild-eyed VBD 
 
 Yet NNP 
-lash-up DEFAULT2 
+lash-up JJP 
 
 If NNP 
 Mr. NNP 
 Papandreou NNP 
-hamstring VBZ 
-conservative-led NNS 
+hamstring VBG 
+conservative-led VBD 
 
 Also NNP 
 March NNP 
 
 New NNP 
 Democracy NNP 
-glaringly DEFAULT1 
+glaringly NNP 
 PASOK NNP 
-clarity DEFAULT2 
-rectification DEFAULT2 
+clarity JJP 
+rectification NNP 
 
 As NNP 
 Mr. NNP 
@@ -3937,8 +3937,8 @@ Papandreou NNP
 He NNP 
 
 But NNP 
-slingers NNS 
-raked NNS 
+slingers VB 
+raked VBD 
 
 Mr. NNP 
 Carpenter NNP 
@@ -3959,7 +3959,7 @@ Greenspan NNP
 
 Other NNP 
 U.S. NNP 
-mapped VBZ 
+mapped VBD 
 
 Friday NNP 
 UAL NNP 
@@ -3967,7 +3967,7 @@ UAL NNP
 The NNP 
 Dow NNP 
 Jones NNP 
-2569.26 DEFAULT1 
+2569.26 JJP 
 
 The NNP 
 Treasury NNP 
@@ -3985,7 +3985,7 @@ Many NNP
 
 The NNP 
 UAL NNP 
-management-pilot DEFAULT2 
+management-pilot JJP 
 
 The NNP 
 September NNP 
@@ -4020,7 +4020,7 @@ U.S. NNP
 
 Hooker NNP 
 U.S. NNP 
-shopping-center DEFAULT2 
+shopping-center JJR 
 
 The NNP 
 Bonwit NNP 
@@ -4044,12 +4044,12 @@ British NNP
 Aerospace NNP 
 France NNP 
 Thomson-CSF NNP 
-guided-missile DEFAULT2 
+guided-missile JJP 
 
 New NNP 
 U.S. NNP 
-steel-import DEFAULT2 
-unsubsidized NNS 
+steel-import NNP 
+unsubsidized VBD 
 
 Japan NNP 
 
@@ -4060,37 +4060,37 @@ Markets NNP
 
 Stocks NNP 
 Volume NNP 
-251,170,000 DEFAULT2 
+251,170,000 JJP 
 
 Dow NNP 
 Jones NNP 
-2569.26 DEFAULT2 
-1406.29 DEFAULT2 
-78.06 DEFAULT2 
-211.96 DEFAULT2 
-7.29 DEFAULT1 
+2569.26 NNP 
+1406.29 JJP 
+78.06 NNP 
+211.96 JJP 
+7.29 NNP 
 
 Bonds NNP 
 Shearson NNP 
 Lehman NNP 
 Hutton NNP 
 Treasury NNP 
-3421.29 DEFAULT1 
+3421.29 NNP 
 
 Commodities NNP 
 Dow NNP 
 Jones NNP 
-129.87 DEFAULT2 
-129.25 DEFAULT1 
+129.87 JJP 
+129.25 NNP 
 
 Dollar NNP 
-1.8740 DEFAULT1 
-0.0343 DEFAULT1 
+1.8740 JJP 
+0.0343 NNP 
 
 A NNP 
 San NNP 
 Francisco NNP 
-concurrently DEFAULT2 
+concurrently JJP 
 
 The NNP 
 Apple NNP 
@@ -4109,24 +4109,24 @@ Lisa NNP
 
 The NNP 
 Apple NNP 
-63.50 DEFAULT2 
+63.50 NNP 
 
 But NNP 
 Lisa NNP 
-17.37 DEFAULT2 
+17.37 NNP 
 
 The NNP 
 
 In NNP 
 San NNP 
 Francisco NNP 
-counterbalanced VBZ 
+counterbalanced VBD 
 Lisa NNP 
 
 Late NNP 
 
 However NNP 
-pertains VBZ 
+pertains NNS 
 Lisa NNP 
 Twiggy NNP 
 
@@ -4154,7 +4154,7 @@ Weiss NNP
 Bershad NNP 
 Specthrie NNP 
 Lerach NNP 
-petitioned VBZ 
+petitioned VBD 
 
 They NNP 
 The NNP 
@@ -4177,7 +4177,7 @@ NFL NNP
 
 But NNP 
 USFL NNP 
-trebled NNS 
+trebled VBD 
 
 Last NNP 
 U.S. NNP 
@@ -4209,7 +4209,7 @@ USFL NNP
 
 Myerson NNP 
 Kuhn NNP 
-260,000 DEFAULT1 
+260,000 JJP 
 
 The NNP 
 USFL NNP 
@@ -4253,18 +4253,18 @@ Fraser NNP
 Hatch NNP 
 Calgary NNP 
 Alberta NNP 
-energy-industry DEFAULT1 
+energy-industry NNP 
 
 The NNP 
 
 The NNP 
 
 But NNP 
-fair-trade-related VBZ 
+fair-trade-related VBD 
 Gibson NNP 
 Gayle NNP 
 Jr. NNP 
-585-lawyer DEFAULT2 
+585-lawyer JJR 
 Fulbright NNP 
 Jaworski NNP 
 
@@ -4275,7 +4275,7 @@ Washington NNP
 D.C. NNP 
 
 The NNP 
-80-lawyer DEFAULT2 
+80-lawyer JJR 
 Fenerty NNP 
 Robertson NNP 
 U.S. NNP 
@@ -4294,7 +4294,7 @@ SIGNAL NNP
 W.R. NNP 
 Grace NNP 
 Co. NNP 
-1\/2-week DEFAULT2 
+1\/2-week JJP 
 Pittsburgh NNP 
 
 Mount NNP 
@@ -4303,10 +4303,10 @@ High NNP
 School NNP 
 Pittsburgh NNP 
 Grace NNP 
-respiratory DEFAULT2 
+respiratory JJP 
 
 Grace NNP 
-retardant DEFAULT2 
+retardant JJP 
 
 A NNP 
 
@@ -4318,15 +4318,15 @@ FIRM NNP
 Diane NNP 
 S. NNP 
 Killory NNP 
-500-lawyer DEFAULT1 
+500-lawyer JJR 
 Morrison NNP 
 Foerster NNP 
 Washington NNP 
 D.C. NNP 
-mid-November DEFAULT2 
+mid-November JJR 
 
 She NNP 
-mass-media DEFAULT2 
+mass-media JJP 
 San NNP 
 Francisco-based NNP 
 
@@ -4364,7 +4364,7 @@ He NNP
 
 Mr. NNP 
 Magurno NNP 
-200-lawyer DEFAULT2 
+200-lawyer JJR 
 Washington NNP 
 D.C. NNP 
 New NNP 
@@ -4375,8 +4375,8 @@ Computer NNP
 Inc. NNP 
 Oct. NNP 
 Dec. NNP 
-31. DEFAULT2 
-holiday-season DEFAULT2 
+31. JJP 
+holiday-season NNP 
 
 Apple NNP 
 Apple NNP 
@@ -4389,14 +4389,14 @@ Macintosh NNP
 SE NNP 
 Macintosh NNP 
 SE\/30 NNP 
-cpu DEFAULT1 
+cpu NNP 
 Macintosh NNP 
 IIcx NNP 
 Apple NNP 
 Apple NNP 
 
 The NNP 
-cpu DEFAULT2 
+cpu NNP 
 
 The NNP 
 
@@ -4409,17 +4409,17 @@ Siemens NNP
 AG NNP 
 West NNP 
 Germany NNP 
-million-mark DEFAULT1 
+million-mark NNP 
 
 In NNP 
 Siemens NNP 
-74.9 DEFAULT2 
+74.9 JJP 
 Matsushita NNP 
 Matsushita NNP 
 Electronic NNP 
 Components NNP 
 Co. NNP 
-25.1 DEFAULT1 
+25.1 JJP 
 
 A NNP 
 June NNP 
@@ -4504,7 +4504,7 @@ McLoughlin NNP
 
 Mr. NNP 
 Zuckerman NNP 
-service-oriented VBZ 
+service-oriented VBD 
 
 Mr. NNP 
 Rosenblatt NNP 
@@ -4523,21 +4523,21 @@ Marcel NNP
 Dassault-Breguet NNP 
 Aviation NNP 
 S.A. NNP 
-839 DEFAULT2 
+839 NNP 
 
 The NNP 
 French NNP 
-irregular DEFAULT1 
+irregular JJP 
 
 It NNP 
-8.734 DEFAULT2 
-9.934 DEFAULT2 
+8.734 NNP 
+9.934 NNP 
 
 Still NNP 
 
 For NNP 
 Dassault NNP 
-18.819 DEFAULT1 
+18.819 NNP 
 
 The NNP 
 
@@ -4550,7 +4550,7 @@ R. NNP
 Simmons NNP 
 
 After NNP 
-780,000 DEFAULT2 
+780,000 NNP 
 Keystone NNP 
 Mr. NNP 
 Simmons NNP 
@@ -4569,31 +4569,31 @@ Mr. NNP
 Simmons NNP 
 
 As NNP 
-3.15 DEFAULT2 
+3.15 NNP 
 
 Revenue NNP 
 
 For NNP 
 Sept. NNP 
 Keystone NNP 
-milion DEFAULT1 
+milion NNP 
 
 Last NNP 
 
 Revenue NNP 
-230.5 DEFAULT2 
-190.4 DEFAULT2 
+230.5 JJP 
+190.4 NNP 
 
 Mr. NNP 
 Simmons NNP 
 Keystone NNP 
-585,000 DEFAULT1 
-413,000 DEFAULT2 
+585,000 NNP 
+413,000 NNP 
 
 Production NNP 
 Keystone NNP 
 Keystone NNP 
-billet DEFAULT1 
+billet NNP 
 
 Keystone NNP 
 Mr. NNP 
@@ -4606,11 +4606,11 @@ Singer NNP
 Keystone NNP 
 East NNP 
 West NNP 
-coasts VBZ 
+coasts VB 
 
 Prior NNP 
 Keystone NNP 
-order-taker DEFAULT1 
+order-taker JJR 
 
 Now NNP 
 I NNP 
@@ -4619,20 +4619,20 @@ Mr. NNP
 Simmons NNP 
 
 Still NNP 
-100-year-old DEFAULT2 
-premium-priced NNS 
-red-tipped NNS 
-fencing NNS 
+100-year-old NNP 
+premium-priced VBD 
+red-tipped VBD 
+fencing VBG 
 
 The NNP 
 U.S. NNP 
-barbed NNS 
+barbed VBD 
 
 Freeport-McMoRan NNP 
 Inc. NNP 
 Sunshine NNP 
 Bridge NNP 
-uranium-recovery DEFAULT2 
+uranium-recovery JJP 
 Donaldsonville NNP 
 La. NNP 
 Freeport-McMoRan NNP 
@@ -4644,18 +4644,18 @@ Partnership NNP
 The NNP 
 
 The NNP 
-uranium DEFAULT1 
-mothballing VBZ 
+uranium JJP 
+mothballing VBG 
 
 More NNP 
-uranium DEFAULT2 
+uranium NNP 
 
 A NNP 
-uranium-recovery DEFAULT1 
+uranium-recovery NNP 
 Uncle NNP 
 Sam NNP 
 La. NNP 
-uranium DEFAULT1 
+uranium JJP 
 
 Freeport-McMoRan NNP 
 Freeport NNP 
@@ -4666,7 +4666,7 @@ Co. NNP
 Freeport-McMoRan NNP 
 Resource NNP 
 Partners NNP 
-uranium-recovery DEFAULT1 
+uranium-recovery NNP 
 
 Business NNP 
 Week NNP 
@@ -4680,16 +4680,16 @@ Corporate NNP
 Elite NNP 
 McGraw-Hill NNP 
 Inc. NNP 
-synthesizer DEFAULT2 
-laminated NNS 
+synthesizer JJR 
+laminated VBD 
 
 Readers NNP 
-human-sounding NNS 
+human-sounding VBG 
 I NNP 
-15-second DEFAULT1 
+15-second JJP 
 
 The NNP 
-per-ad DEFAULT2 
+per-ad NNP 
 Texas NNP 
 Instruments NNP 
 Business NNP 
@@ -4698,8 +4698,8 @@ Texas NNP
 Instruments NNP 
 
 Previous NNP 
-tone-generating VBZ 
-synthesizer DEFAULT1 
+tone-generating VBG 
+synthesizer JJR 
 
 And NNP 
 Three NNP 
@@ -4726,7 +4726,7 @@ Co. NNP
 The NNP 
 
 Without NNP 
-bank-credit DEFAULT1 
+bank-credit JJP 
 Lomas NNP 
 Sept. NNP 
 
@@ -4761,7 +4761,7 @@ Don NNP
 Bowder NNP 
 Canadian NNP 
 C$ NNP 
-non-Mexican DEFAULT1 
+non-Mexican JJP 
 LDC NNP 
 
 It NNP 
@@ -4779,13 +4779,13 @@ C$ NNP
 The NNP 
 July NNP 
 C$ NNP 
-577 DEFAULT2 
+577 NNP 
 C$ NNP 
 
 Mr. NNP 
 Bowder NNP 
 C$ NNP 
-604 DEFAULT2 
+604 JJP 
 Mexican NNP 
 C$ NNP 
 Mexican NNP 
@@ -4806,15 +4806,15 @@ He NNP
 LDC NNP 
 
 The NNP 
-carnage DEFAULT1 
+carnage NNP 
 Friday NNP 
-mega-mergers NNS 
+mega-mergers VB 
 Wall NNP 
 Street NNP 
 
 Suitors NNP 
-expansion-minded VBZ 
-debt-happy DEFAULT1 
+expansion-minded VBD 
+debt-happy JJP 
 
 And NNP 
 
@@ -4900,8 +4900,8 @@ Group NNP
 Friday NNP 
 
 Over NNP 
-weeked VBZ 
-commerical DEFAULT1 
+weeked VBD 
+commerical NNP 
 Wall NNP 
 Street NNP 
 
@@ -4911,7 +4911,7 @@ Mexican NNP
 Anchor NNP 
 Glass NNP 
 Container NNP 
-20-a-share DEFAULT2 
+20-a-share JJP 
 Vitro NNP 
 
 On NNP 
@@ -4955,7 +4955,7 @@ Broadcasting NNP
 McCaw NNP 
 LIN NNP 
 LIN NNP 
-20-a-share DEFAULT2 
+20-a-share NNP 
 BellSouth NNP 
 
 On NNP 
@@ -4965,7 +4965,7 @@ LIN NNP
 Traders NNP 
 LIN NNP 
 BellSouth NNP 
-well-financed NNS 
+well-financed VBD 
 
 Investment NNP 
 
@@ -4975,7 +4975,7 @@ Rattner NNP
 Lazard NNP 
 
 Nothing NNP 
-200-point DEFAULT2 
+200-point NNP 
 Dow NNP 
 Mr. NNP 
 Rattner NNP 
@@ -4994,7 +4994,7 @@ Lehman NNP
 Hutton NNP 
 
 Now NNP 
-junkbond-financed NNS 
+junkbond-financed VBD 
 
 Many NNP 
 Friday NNP 
@@ -5002,7 +5002,7 @@ Friday NNP
 Columbia NNP 
 Pictures NNP 
 Entertainment NNP 
-27-a-share DEFAULT1 
+27-a-share NNP 
 Sony NNP 
 Japan NNP 
 
@@ -5051,13 +5051,13 @@ The NNP
 American NNP 
 Medical NNP 
 July NNP 
-68.8 DEFAULT2 
+68.8 JJP 
 
 But NNP 
 
 Hilton NNP 
 Hotels NNP 
-worst-hit DEFAULT1 
+worst-hit NNP 
 Friday NNP 
 
 Hilton NNP 
@@ -5068,7 +5068,7 @@ Hilton NNP
 
 However NNP 
 UAL NNP 
-signified NNS 
+signified VBD 
 
 Hilton NNP 
 
@@ -5082,7 +5082,7 @@ Mr. NNP
 Lebo NNP 
 
 But NNP 
-junkbond DEFAULT1 
+junkbond NNP 
 
 For NNP 
 New NNP 
@@ -5093,7 +5093,7 @@ Chilmark NNP
 Capital NNP 
 
 The NNP 
-waking NNS 
+waking VBG 
 
 Pauline NNP 
 Yoshihashi NNP 
@@ -5109,7 +5109,7 @@ It NNP
 Specifically NNP 
 
 When NNP 
-catches NNS 
+catches VB 
 
 In NNP 
 
@@ -5149,7 +5149,7 @@ Denver NNP
 Of NNP 
 Houston NNP 
 Denver NNP 
-counter-cyclical DEFAULT1 
+counter-cyclical JJP 
 
 But NNP 
 
@@ -5166,8 +5166,8 @@ The NNP
 
 To NNP 
 Houston NNP 
-see-through DEFAULT2 
-skyline DEFAULT1 
+see-through JJP 
+skyline NNP 
 
 As NNP 
 
@@ -5182,7 +5182,7 @@ Today NNP
 Houston NNP 
 
 More NNP 
-42,000 DEFAULT2 
+42,000 NNP 
 Houston NNP 
 
 This NNP 
@@ -5206,8 +5206,8 @@ Buying NNP
 The NNP 
 
 In NNP 
-self-fulfilling VBZ 
-prophecy DEFAULT1 
+self-fulfilling VBG 
+prophecy NNP 
 
 Housing NNP 
 
@@ -5229,11 +5229,11 @@ Los NNP
 Angeles NNP 
 
 Vacancy NNP 
-mid-20 DEFAULT2 
+mid-20 JJP 
 
 Under NNP 
-flattening VBZ 
-realestate DEFAULT2 
+flattening VBG 
+realestate JJP 
 catches NNS 
 
 Those NNP 
@@ -5253,8 +5253,8 @@ Analysts NNP
 The NNP 
 
 The NNP 
-powerboat DEFAULT2 
-marine-related NNS 
+powerboat NNP 
+marine-related VBD 
 
 Also NNP 
 
@@ -5271,17 +5271,17 @@ Arizona NNP
 Charles NNP 
 Keating NNP 
 U.S. NNP 
-interceded VBZ 
+interceded VBD 
 
 Mr. NNP 
 Keating NNP 
-anti-racketeering VBZ 
+anti-racketeering VBG 
 California NNP 
 Lincoln NNP 
 Savings NNP 
 Loan NNP 
 Association NNP 
-insolvency DEFAULT2 
+insolvency JJP 
 
 Fred NNP 
 Wertheimer NNP 
@@ -5320,7 +5320,7 @@ April NNP
 One NNP 
 
 I NNP 
-forceful DEFAULT1 
+forceful JJP 
 I NNP 
 I NNP 
 
@@ -5332,7 +5332,7 @@ Lincoln NNP
 
 According NNP 
 Lincoln NNP 
-ticking VBZ 
+ticking VBG 
 
 Mr. NNP 
 Keating NNP 
@@ -5402,7 +5402,7 @@ Lincoln NNP
 In NNP 
 Sen. NNP 
 McCain NNP 
-13,433 DEFAULT1 
+13,433 JJP 
 American NNP 
 Continental NNP 
 Mr. NNP 
@@ -5437,7 +5437,7 @@ July NNP
 California NNP 
 Mr. NNP 
 Keating NNP 
-850,000 DEFAULT2 
+850,000 NNP 
 Sen. NNP 
 Cranston NNP 
 
@@ -5525,7 +5525,7 @@ Trinity NNP
 Trinity NNP 
 
 It NNP 
-1,450 DEFAULT2 
+1,450 JJP 
 Norfolk NNP 
 Southern NNP 
 Norfolk NNP 
@@ -5554,7 +5554,7 @@ The NNP
 British NNP 
 
 But NNP 
-shootings VBZ 
+shootings VB 
 Beijing NNP 
 June NNP 
 Hong NNP 
@@ -5616,16 +5616,16 @@ HK$ NNP
 US$ NNP 
 
 But NNP 
-re-exports NNS 
+re-exports VB 
 China NNP 
 HK$ NNP 
-15.92 DEFAULT2 
+15.92 NNP 
 
 In NNP 
 HK$ NNP 
-re-exports VBZ 
+re-exports VB 
 HK$ NNP 
-11.28 DEFAULT2 
+11.28 NNP 
 
 Manufacturers NNP 
 China NNP 
@@ -5682,20 +5682,20 @@ Inc NNP
 
 Hong NNP 
 Kong NNP 
-chastened NNS 
+chastened VBD 
 
 The NNP 
 
 Still NNP 
-mega-hit DEFAULT2 
-excite DEFAULT2 
+mega-hit NNP 
+excite JJP 
 U.S. NNP 
 Hong NNP 
 Kong NNP 
 
 The NNP 
 U.S. NNP 
-mega-hit DEFAULT2 
+mega-hit NNP 
 Teenage NNP 
 Mutant NNP 
 Ninja NNP 
@@ -5705,9 +5705,9 @@ Holdings NNP
 Ltd NNP 
 
 Introduced NNP 
-mid-1988 DEFAULT2 
-15-centimeter-tall DEFAULT1 
-turtles VBZ 
+mid-1988 NNP 
+15-centimeter-tall JJP 
+turtles VB 
 American NNP 
 
 Paul NNP 
@@ -5715,8 +5715,8 @@ Kwan NNP
 Playmates NNP 
 Ninja NNP 
 Turtles NNP 
-reptilian DEFAULT1 
-biggest-selling NNS 
+reptilian NNP 
+biggest-selling VBG 
 U.S. NNP 
 
 Should NNP 
@@ -5733,7 +5733,7 @@ Hong NNP
 Kong NNP 
 
 Besides NNP 
-fast-selling NNS 
+fast-selling VBG 
 U.S. NNP 
 Nintendo NNP 
 Entertainment NNP 
@@ -5746,12 +5746,12 @@ Nintendo NNP
 
 Many NNP 
 June NNP 
-overstrained VBZ 
+overstrained VBD 
 Beijing NNP 
 
 Toy NNP 
 Guangdong NNP 
-industrialization DEFAULT1 
+industrialization NNP 
 
 Manufacturers NNP 
 
@@ -5760,7 +5760,7 @@ China NNP
 June NNP 
 
 Also NNP 
-harder-line DEFAULT1 
+harder-line NNP 
 Beijing NNP 
 Guangdong NNP 
 
@@ -5832,7 +5832,7 @@ The NNP
 No. NNP 
 
 Revenue NNP 
-2.83 DEFAULT2 
+2.83 NNP 
 
 Analysts NNP 
 Alcoa NNP 
@@ -5865,9 +5865,9 @@ Mr. NNP
 Atwell NNP 
 
 Nevertheless NNP 
-679,000 DEFAULT2 
-671,000 DEFAULT2 
-buffing VBZ 
+679,000 NNP 
+671,000 JJP 
+buffing VBG 
 
 The NNP 
 
@@ -5893,14 +5893,14 @@ U.S. NNP
 They NNP 
 Hollywood NNP 
 Congress NNP 
-rerun DEFAULT2 
+rerun JJP 
 
 Even NNP 
 Congress NNP 
 
 And NNP 
-sidestep DEFAULT2 
-fin-syn DEFAULT2 
+sidestep NNP 
+fin-syn NNP 
 Financial NNP 
 Interest NNP 
 Syndication NNP 
@@ -5916,7 +5916,7 @@ Co. NNP
 Qintex NNP 
 Australia NNP 
 Ltd. NNP 
-now-scuttled NNS 
+now-scuttled VBD 
 MGM\/UA NNP 
 Communications NNP 
 Co NNP 
@@ -5932,7 +5932,7 @@ Our NNP
 NBC NNP 
 
 NBC NNP 
-program-maker DEFAULT1 
+program-maker JJR 
 
 And NNP 
 NBC NNP 
@@ -5942,16 +5942,16 @@ ABC NNP
 Capital NNP 
 Cities\/ABC NNP 
 Inc. NNP 
-fin-syn DEFAULT1 
+fin-syn JJP 
 
 But NNP 
 Hollywood NNP 
 
 Both NNP 
-fin-syn DEFAULT1 
+fin-syn NNP 
 
 Few NNP 
-privy DEFAULT1 
+privy NNP 
 
 The NNP 
 Motion NNP 
@@ -5963,7 +5963,7 @@ Valenti NNP
 vociferous NNS 
 
 Studios NNP 
-rerun DEFAULT2 
+rerun NNP 
 
 And NNP 
 
@@ -6003,7 +6003,7 @@ NBC NNP
 President NNP 
 Robert NNP 
 Wright NNP 
-unshackled NNS 
+unshackled VBD 
 
 The NNP 
 Sony NNP 
@@ -6038,8 +6038,8 @@ In NNP
 Mr. NNP 
 Holston NNP 
 Europe NNP 
-fin-syn DEFAULT2 
-non-U.S. DEFAULT2 
+fin-syn JJP 
+non-U.S. NNP 
 
 He NNP 
 NBC NNP 
@@ -6059,7 +6059,7 @@ Sony NNP
 The NNP 
 Big NNP 
 Three NNP 
-drumbeat DEFAULT2 
+drumbeat NNP 
 Time NNP 
 Inc. NNP 
 Warner NNP 
@@ -6073,12 +6073,12 @@ Box NNP
 Office NNP 
 Warner NNP 
 HBO NNP 
-fin-syn DEFAULT2 
+fin-syn NNP 
 
 NBC NNP 
 Mr. NNP 
 Wright NNP 
-decrying NNS 
+decrying VBG 
 Time-Warner NNP 
 
 He NNP 
@@ -6109,7 +6109,7 @@ Communications NNP
 Washington NNP 
 
 Fin-syn NNP 
-rerun DEFAULT1 
+rerun JJP 
 
 Hence NNP 
 NBC NNP 
@@ -6121,9 +6121,9 @@ But NNP
 convolutions NNS 
 
 Under NNP 
-100%-owned NNS 
+100%-owned VBD 
 ABC NNP 
-crime\/comedy DEFAULT1 
+crime\/comedy NNP 
 Moonlighting NNP 
 
 Instead NNP 
@@ -6132,7 +6132,7 @@ ABC NNP
 The NNP 
 
 Six NNP 
-tantalizingly DEFAULT2 
+tantalizingly JJP 
 
 The NNP 
 Reagan-era NNP 
@@ -6143,7 +6143,7 @@ Commission NNP
 Various NNP 
 Brookings NNP 
 Institution NNP 
-wield DEFAULT1 
+wield JJP 
 
 But NNP 
 President NNP 
@@ -6195,7 +6195,7 @@ Service NNP
 
 The NNP 
 April NNP 
-contract-steering VBZ 
+contract-steering VBG 
 
 The NNP 
 William NNP 
@@ -6210,7 +6210,7 @@ The NNP
 Peter NNP 
 E. NNP 
 Voss NNP 
-ex-member DEFAULT2 
+ex-member JJR 
 Postal NNP 
 Service NNP 
 
@@ -6255,7 +6255,7 @@ Intel NNP
 Corp. NNP 
 
 The NNP 
-142.7 DEFAULT2 
+142.7 JJP 
 
 The NNP 
 Siemens NNP 
@@ -6264,20 +6264,20 @@ West NNP
 Germany NNP 
 
 Earning NNP 
-microchip DEFAULT2 
+microchip JJP 
 
 Sales NNP 
-771.4 DEFAULT2 
-784.9 DEFAULT2 
+771.4 JJP 
+784.9 NNP 
 
 Intel NNP 
 Friday NNP 
-99.3 DEFAULT1 
-747.3 DEFAULT1 
+99.3 NNP 
+747.3 JJP 
 
 But NNP 
 Intel NNP 
-succumbed VBZ 
+succumbed VBD 
 
 In NNP 
 August NNP 
@@ -6294,11 +6294,11 @@ Our NNP
 September NNP 
 
 For NNP 
-book-to-bill DEFAULT2 
+book-to-bill NNP 
 
 For NNP 
 Intel NNP 
-367.1 DEFAULT2 
+367.1 NNP 
 
 Revenue NNP 
 
@@ -6314,7 +6314,7 @@ Sisulu NNP
 
 At NNP 
 ANC NNP 
-reunited VBZ 
+reunited VBD 
 
 And NNP 
 ANC NNP 
@@ -6323,35 +6323,35 @@ Africa NNP
 
 A NNP 
 ANC NNP 
-hoisted VBZ 
-rickety DEFAULT1 
+hoisted VBD 
+rickety JJP 
 Mr. NNP 
 Sisulu NNP 
 ANC NNP 
 scarves NNS 
 
 At NNP 
-four-room DEFAULT1 
+four-room JJP 
 Elias NNP 
 Motsoaledi NNP 
 ANC NNP 
-unionist DEFAULT2 
+unionist NNP 
 Umkhonto NNP 
 Sizwe NNP 
-well-wishers NNS 
+well-wishers VB 
 ANC NNP 
-tooted NNS 
+tooted VBD 
 ANC NNP 
 
 I NNP 
 Mr. NNP 
 Sisulu NNP 
-dapper DEFAULT1 
+dapper JJR 
 
 As NNP 
 ANC NNP 
 ANC NNP 
-fists VBZ 
+fists NNS 
 
 I NNP 
 
@@ -6361,9 +6361,9 @@ Lusaka NNP
 Zambia NNP 
 
 But NNP 
-unconditional DEFAULT1 
+unconditional NNP 
 ANC NNP 
-rebirth DEFAULT1 
+rebirth NNP 
 
 The NNP 
 ANC NNP 
@@ -6386,7 +6386,7 @@ Soweto NNP
 ANC NNP 
 
 Deafening NNP 
-chants NNS 
+chants VB 
 ANC NNP 
 Umkhonto NNP 
 Sizwe NNP 
@@ -6400,7 +6400,7 @@ ANC NNP
 Without NNP 
 Mr. NNP 
 Sisulu NNP 
-half-measure DEFAULT1 
+half-measure NNP 
 
 President NNP 
 F.W. NNP 
@@ -6414,7 +6414,7 @@ But NNP
 Pretoria NNP 
 
 As NNP 
-repressive DEFAULT2 
+repressive NNP 
 Poland NNP 
 Soviet NNP 
 Union NNP 
@@ -6428,10 +6428,10 @@ ANC NNP
 
 If NNP 
 ANC NNP 
-disillusionment DEFAULT2 
+disillusionment JJP 
 
 If NNP 
-agitation DEFAULT1 
+agitation NNP 
 
 The NNP 
 ANC NNP 
@@ -6453,8 +6453,8 @@ ANC NNP
 Lusaka NNP 
 
 The NNP 
-lions VBZ 
-lions VBZ 
+lions VB 
+lions NNS 
 
 Says NNP 
 Peter NNP 
