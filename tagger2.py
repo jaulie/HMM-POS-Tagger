@@ -20,8 +20,8 @@ for line in dev:
 	line = line.strip("\n")
 	corpus.append(line)
 
-print(word_tags['\'s'])
-
+print(word_tags['63'])
+#####---------------------------------------------
 previous = "*start_end*"
 k = 0
 previous_prob = {previous: 1}
@@ -30,7 +30,7 @@ for word in corpus:
 	# Handle OOV
 	if word not in word_tags:
 		output.write('{} OOV\n'.format(word))
-		
+
 		continue
 	# Check if word corresponds to one or multiple tags
 	if len(word_tags[word]) == 1:
@@ -54,10 +54,5 @@ for word in corpus:
 			max_prob = max(viterbi, key = viterbi.get)
 			previous_prob[tag] = max_prob
 			k = k + 1
-		for each in previous_prob:
-k = 0
-
-
-
-
-
+			for each in previous_prob:
+				k = 0
