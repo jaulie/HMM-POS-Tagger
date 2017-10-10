@@ -32,17 +32,19 @@ for word in corpus:
 		continue
 	# Handle OOV
 	if word not in word_tags:
-		assigned_tag = random.choice(['NNP','JJP']) #default: randomly assign either NNP or JJP
+		assigned_tag = random.choice(['NN','JJ']) #default: randomly assign either noun or adjective
 		if (previous != "*start_end*")and(list(word)[0].isupper()):
-			assigned_tag = 'NNP'
-		elif(word.endswith('ed')):
-			assigned_tag = 'VBD'
-		elif(word.endswith('ing')):
-			assigned_tag = 'VBG'
-		elif(word.endswith('er')):
-			assigned_tag = 'JJR' #comparative
-		elif(word.endswith('s')):
-			assigned_tag = random.choice(['NNS','VB']) #plural or verb
+			assigned_tag = 'NNP' 
+		elif("-" in word):
+			assigned_tag = random.choice(['JJ','NN'])
+		elif(word.endswith('ed')): #past particple or past tense
+			assigned_tag = random.choice(['VBN','VBD'])
+		elif(word.endswith('ing')):#past participle
+			assigned_tag = 'VBG' 
+		elif(word.endswith('er')): #comparative
+			assigned_tag = 'JJR' 
+		elif(word.endswith('s')):  #plural
+			assigned_tag = 'NNS' 
 		output2.write('{} {} \n'.format(word, assigned_tag))
 
 	previous = word

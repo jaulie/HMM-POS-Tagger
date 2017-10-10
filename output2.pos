@@ -95,7 +95,7 @@ Two-Way NNP
 Street NNP 
 
 If NNP 
-sixty-day NNP 
+sixty-day JJP 
 plant-closing VBG 
 Why NNP 
 writ NNP 
@@ -139,7 +139,7 @@ But NNP
 You NNP 
 
 The NNP 
-slickly JJP 
+slickly NNP 
 London NNP 
 
 Turned NNP 
@@ -181,10 +181,10 @@ Japanese NNP
 Surprisingly NNP 
 Shane NNP 
 Longman NNP 
-innocently JJP 
+innocently NNP 
 
 Instead NNP 
-loutish NNP 
+loutish JJP 
 American NNP 
 
 The NNP 
@@ -203,16 +203,16 @@ Two NNP
 Michelle NNP 
 canary-colored VBD 
 Porsche NNP 
-beat-up JJP 
-pliers NNS 
-ignition JJP 
+beat-up NNP 
+pliers VB 
+ignition NNP 
 
 And NNP 
 Declan NNP 
 
 Perhaps NNP 
 anomalies NNS 
-class-conscious NNS 
+class-conscious VB 
 Britain NNP 
 Thatcherian NNP 
 free-enterprise JJP 
@@ -226,7 +226,7 @@ Yuppily NNP
 
 But NNP 
 palatable NNP 
-inflates NNS 
+inflates VB 
 pony-tailed VBD 
 Max NNP 
 Chinese NNP 
@@ -247,20 +247,20 @@ Shane NNP
 Longman NNP 
 
 The NNP 
-inconsiderable JJP 
+inconsiderable NNP 
 Dealers NNP 
-made-for-TV NNP 
+made-for-TV JJP 
 
 Another NNP 
 quid JJP 
-volley JJP 
+volley NNP 
 British NNP 
 London NNP 
 
 These NNP 
 Capital NNP 
 City NNP 
-flog NNP 
+flog JJP 
 Yank-oriented NNP 
 America NNP 
 
@@ -270,7 +270,7 @@ Donald NNP
 Taffner NNP 
 
 He NNP 
-discreetly NNP 
+discreetly JJP 
 U.S. NNP 
 Three NNP 
 Company NNP 
@@ -281,7 +281,7 @@ Check NNP
 It NNP 
 Out NNP 
 British NNP 
-antecedents VB 
+antecedents NNS 
 
 Perhaps NNP 
 Mr. NNP 
@@ -300,7 +300,7 @@ trading-room JJP
 minded VBD 
 
 And NNP 
-resemblances NNS 
+resemblances VB 
 American NNP 
 TV NNP 
 
@@ -349,8 +349,8 @@ Zsa NNP
 Zsa NNP 
 
 He NNP 
-backflips VB 
-explodes VB 
+backflips NNS 
+explodes NNS 
 Huntz NNP 
 Hall NNP 
 microchips VB 
@@ -477,7 +477,7 @@ B.A.T NNP
 It NNP 
 
 The NNP 
-very-highly NNP 
+very-highly JJP 
 Axa NNP 
 Farmers NNP 
 
@@ -492,7 +492,7 @@ To NNP
 Sir NNP 
 James NNP 
 B.A.T NNP 
-pare NNP 
+pare JJP 
 
 Dismal NNP 
 General NNP 
@@ -509,7 +509,7 @@ October NNP
 
 Domestically NNP 
 86,555 NNP 
-pickups NNS 
+pickups VB 
 
 The NNP 
 Oct. NNP 
@@ -561,7 +561,7 @@ Corp NNP
 
 Lexus NNP 
 Toyota NNP 
-month-end NNP 
+month-end JJP 
 
 The NNP 
 No. NNP 
@@ -622,7 +622,7 @@ Corp. NNP
 
 Mr. NNP 
 Savoca NNP 
-rocket-propulsion NNP 
+rocket-propulsion JJP 
 
 Mr. NNP 
 Savoca NNP 
@@ -633,7 +633,7 @@ Borten NNP
 Sequa NNP 
 
 It NNP 
-electro-optics VB 
+electro-optics NNS 
 
 It NNP 
 U.S. NNP 
@@ -701,7 +701,7 @@ Indeed NNP
 Hungary NNP 
 
 Boys NNP 
-stripe NNP 
+stripe JJP 
 
 Newsstands NNP 
 
@@ -748,7 +748,7 @@ Radio NNP
 Liberty NNP 
 
 They NNP 
-tongues NNS 
+tongues VB 
 Bulgarian NNP 
 Belorussian NNP 
 Kazakh NNP 
@@ -861,17 +861,17 @@ Nyiregyhaza NNP
 
 The NNP 
 Hungarian NNP 
-40-minute JJP 
+40-minute NNP 
 Newsreel NNP 
 
 There NNP 
 
 A NNP 
-35-minute NNP 
+35-minute JJP 
 The NNP 
 March NNP 
 Time NNP 
-tidbits VB 
+tidbits NNS 
 lighthearted VBD 
 
 There NNP 
@@ -897,17 +897,17 @@ Every NNP
 
 Proposals NNP 
 government-operated VBD 
-influenza NNP 
+influenza JJP 
 flare NNP 
-politic JJP 
-mutate NNP 
-afflict JJP 
+politic NNP 
+mutate JJP 
+afflict NNP 
 
 The NNP 
 aspersion NNP 
 
 Rather NNP 
-smallpox JJP 
+smallpox NNP 
 
 It NNP 
 National NNP 
@@ -916,16 +916,16 @@ Service NNP
 Act NNP 
 
 Why NNP 
-national-service NNP 
+national-service JJP 
 
 Perhaps NNP 
-utopian NNP 
-evokes NNS 
+utopian JJP 
+evokes VB 
 
 If NNP 
 America NNP 
-wastrel NNP 
-self-discipline NNP 
+wastrel JJP 
+self-discipline JJP 
 
 A NNP 
 curing VBG 
@@ -943,7 +943,7 @@ Why NNP
 recipient JJP 
 
 Military NNP 
-national-service NNP 
+national-service JJP 
 
 Thus NNP 
 infecting VBG 
@@ -972,11 +972,11 @@ unskilled VBD
 They NNP 
 
 As NNP 
-national-service NNP 
+national-service JJP 
 
 Opposition NNP 
 Pentagon NNP 
-military-service NNP 
+military-service JJP 
 
 Clearly NNP 
 
@@ -986,10 +986,10 @@ Edward NNP
 Kennedy NNP 
 Labor NNP 
 Committee NNP 
-stove NNP 
-expansionism NNP 
-porridge JJP 
-nouvelle NNP 
+stove JJP 
+expansionism JJP 
+porridge NNP 
+nouvelle JJP 
 
 In NNP 
 DLC NNP 
@@ -1000,12 +1000,12 @@ Sen. NNP
 Chris NNP 
 Dodd NNP 
 Kennedy NNP 
-work-study JJP 
-palate JJP 
+work-study NNP 
+palate NNP 
 Sen. NNP 
 Dale NNP 
 Bumpers NNP 
-engorgement JJP 
+engorgement NNP 
 VISTA NNP 
 Retired NNP 
 Senior NNP 
@@ -1020,12 +1020,12 @@ House NNP
 
 It NNP 
 spoil NNP 
-broth NNP 
+broth JJP 
 
 The NNP 
 Congress NNP 
 unwholesome NNP 
-glop JJP 
+glop NNP 
 
 The NNP 
 
@@ -1050,7 +1050,7 @@ GI NNP
 Bill NNP 
 
 To NNP 
-menial NNP 
+menial JJP 
 labor-saving VBG 
 overpay JJP 
 
@@ -1072,7 +1072,7 @@ endow JJP
 Points NNP 
 Light NNP 
 exhort JJP 
-volunteerism JJP 
+volunteerism NNP 
 
 However NNP 
 White NNP 
@@ -1084,9 +1084,9 @@ There NNP
 The NNP 
 
 National NNP 
-utopian NNP 
+utopian JJP 
 knee-socked VBD 
-progenitors NNS 
+progenitors VB 
 
 Mr. NNP 
 Chapman NNP 
@@ -1245,7 +1245,7 @@ What NNP
 Doctrine NNP 
 
 People NNP 
-dues VB 
+dues NNS 
 
 So NNP 
 re-energized VBD 
@@ -1253,14 +1253,14 @@ re-energized VBD
 Then NNP 
 
 To NNP 
-abomination NNP 
+abomination JJP 
 
 Devotees NNP 
 
 If NNP 
 
 Elements NNP 
-regimentation NNP 
+regimentation JJP 
 
 But NNP 
 
@@ -1356,7 +1356,7 @@ There NNP
 Good NNP 
 
 They NNP 
-stipends VB 
+stipends NNS 
 
 Full-time NNP 
 Stanford NNP 
@@ -1388,7 +1388,7 @@ They NNP
 They NNP 
 
 And NNP 
-unprecedentedly NNP 
+unprecedentedly JJP 
 behaviors VB 
 
 But NNP 
@@ -1402,7 +1402,7 @@ Learning NNP
 
 Even NNP 
 playgrounds VB 
-dune-grass VB 
+dune-grass NNS 
 
 Strictly NNP 
 
@@ -1483,7 +1483,7 @@ Greenspan NNP
 
 Nevertheless NNP 
 Fed NNP 
-portrayals VB 
+portrayals NNS 
 
 It NNP 
 October NNP 
@@ -1620,7 +1620,7 @@ Camp NNP
 David NNP 
 
 He NNP 
-consultations VB 
+consultations NNS 
 Mr. NNP 
 Brady NNP 
 Michael NNP 
@@ -1685,7 +1685,7 @@ Not NNP
 Put NNP 
 
 Walk NNP 
-breaths VB 
+breaths NNS 
 
 Resist NNP 
 
@@ -1720,7 +1720,7 @@ Depression NNP
 
 The NNP 
 October NNP 
-massacres NNS 
+massacres VB 
 
 Indeed NNP 
 Friday NNP 
@@ -1746,7 +1746,7 @@ Brouwer NNP
 Janachowski NNP 
 
 Even NNP 
-pundits VB 
+pundits NNS 
 Wait NNP 
 
 The NNP 
@@ -1800,7 +1800,7 @@ We NNP
 panics VB 
 
 And NNP 
-panics VB 
+panics NNS 
 
 One NNP 
 Friday NNP 
@@ -1955,7 +1955,7 @@ Didion NNP
 We NNP 
 
 He NNP 
-fork JJP 
+fork NNP 
 
 They NNP 
 Mr. NNP 
@@ -2121,7 +2121,7 @@ The NNP
 
 After NNP 
 S&P NNP 
-30-point NNP 
+30-point JJP 
 
 Traders NNP 
 Dow NNP 
@@ -2132,7 +2132,7 @@ One NNP
 S&P NNP 
 
 But NNP 
-250-point JJP 
+250-point NNP 
 Chicago NNP 
 Board NNP 
 Trade NNP 
@@ -2184,9 +2184,9 @@ Force NNP
 January NNP 
 
 Arguing NNP 
-marketplaces VB 
-super-regulator JJP 
-unify JJP 
+marketplaces NNS 
+super-regulator NNP 
+unify NNP 
 
 Only NNP 
 
@@ -2222,7 +2222,7 @@ Industrial NNP
 Average NNP 
 
 Privately NNP 
-sops NNS 
+sops VB 
 interventionists NNS 
 
 After NNP 
@@ -2357,7 +2357,7 @@ Beers NNP
 Japan NNP 
 Socialist NNP 
 Party NNP 
-pinball-parlor NNP 
+pinball-parlor JJP 
 
 The NNP 
 Parliament NNP 
@@ -2413,7 +2413,7 @@ Labor NNP
 Party NNP 
 
 A NNP 
-affinity NNP 
+affinity JJP 
 Tories NNP 
 
 Labor NNP 
@@ -2430,13 +2430,13 @@ Co-operative NNP
 Bank NNP 
 
 China NNP 
-year-long NNP 
+year-long JJP 
 harnessing VBG 
 
 The NNP 
 China NNP 
 Daily NNP 
-non-staple NNP 
+non-staple JJP 
 December NNP 
 
 The NNP 
@@ -2457,7 +2457,7 @@ Orthodox NNP
 priests NNS 
 400th NNP 
 Moscow NNP 
-patriarchate JJP 
+patriarchate NNP 
 Kremlin NNP 
 15th-century NNP 
 Uspensky NNP 
@@ -2495,7 +2495,7 @@ It NNP
 Sony NNP 
 Mr. NNP 
 Iken NNP 
-prototypes NNS 
+prototypes VB 
 
 Replied NNP 
 Justin NNP 
@@ -2546,7 +2546,7 @@ His NNP
 Sony NNP 
 
 Justin NNP 
-wrathful NNP 
+wrathful JJP 
 
 With NNP 
 Japan NNP 
@@ -2561,7 +2561,7 @@ Now NNP
 Sony NNP 
 premium-priced VBD 
 U.S. NNP 
-look-alike NNP 
+look-alike JJP 
 China NNP 
 
 The NNP 
@@ -2663,7 +2663,7 @@ Sony NNP
 Justin NNP 
 
 To NNP 
-fire-engine JJP 
+fire-engine NNP 
 Charles NNP 
 E. NNP 
 Baxley NNP 
@@ -2719,7 +2719,7 @@ And NNP
 Justin NNP 
 Once NNP 
 Sony NNP 
-strong-arm JJP 
+strong-arm NNP 
 American NNP 
 
 Sony NNP 
@@ -2761,7 +2761,7 @@ Tenney NNP
 II NNP 
 Unitil NNP 
 Corp. NNP 
-34,602 JJP 
+34,602 NNP 
 Unitil NNP 
 Securities NNP 
 Exchange NNP 
@@ -2816,7 +2816,7 @@ Germany NNP
 
 Dresdner NNP 
 BIP NNP 
-156.82 JJP 
+156.82 NNP 
 
 The NNP 
 
@@ -2889,7 +2889,7 @@ York NNP
 Sports NNP 
 Recreation NNP 
 Inc. NNP 
-10-store JJP 
+10-store NNP 
 Sports NNP 
 Unlimited NNP 
 
@@ -2944,7 +2944,7 @@ Calif. NNP
 
 Fidelity NNP 
 Hammond NNP 
-23.57 JJP 
+23.57 NNP 
 
 Statements NNP 
 Securities NNP 
@@ -3033,7 +3033,7 @@ Force NNP
 The NNP 
 Air NNP 
 Force NNP 
-trainers NNS 
+trainers VB 
 
 The NNP 
 T-37 NNP 
@@ -3050,7 +3050,7 @@ Lockheed NNP
 U.S. NNP 
 Navy NNP 
 T34C NNP 
-trainers NNS 
+trainers VB 
 Beech NNP 
 Aircraft NNP 
 Corp. NNP 
@@ -3080,7 +3080,7 @@ Air NNP
 Force NNP 
 
 Striking NNP 
-19-day NNP 
+19-day JJP 
 Peugeot NNP 
 S.A. NNP 
 France NNP 
@@ -3093,7 +3093,7 @@ Ministry NNP
 
 The NNP 
 Peugeot NNP 
-metalworkers NNS 
+metalworkers VB 
 Mulhouse NNP 
 
 Their NNP 
@@ -3191,7 +3191,7 @@ Carleton NNP
 First NNP 
 Boston NNP 
 Corp. NNP 
-hysteria JJP 
+hysteria NNP 
 
 In NNP 
 August NNP 
@@ -3227,7 +3227,7 @@ Group NNP
 
 The NNP 
 Treasury NNP 
-7.16 JJP 
+7.16 NNP 
 
 The NNP 
 Dow NNP 
@@ -3331,7 +3331,7 @@ Last NNP
 This NNP 
 
 And NNP 
-iota NNP 
+iota JJP 
 
 However NNP 
 Mr. NNP 
@@ -3412,8 +3412,8 @@ Businesses NNP
 
 What NNP 
 wrenching VBG 
-readjustment NNP 
-speculative-grade NNP 
+readjustment JJP 
+speculative-grade JJP 
 
 Friday NNP 
 Market NNP 
@@ -3461,7 +3461,7 @@ The NNP
 Ginnie NNP 
 Mae NNP 
 November NNP 
-9.28 NNP 
+9.28 JJP 
 
 Investment-grade NNP 
 
@@ -3499,7 +3499,7 @@ Still NNP
 U.S. NNP 
 
 This NNP 
-observation NNP 
+observation JJP 
 Dow NNP 
 Jones NNP 
 ticker JJR 
@@ -3520,14 +3520,14 @@ There NNP
 It NNP 
 Congress NNP 
 one-by-one JJP 
-trickery NNP 
+trickery JJP 
 
 For NNP 
 
 Since NNP 
 Senate NNP 
 fogged VBD 
-smokescreens NNS 
+smokescreens VB 
 
 Especially NNP 
 President NNP 
@@ -3537,7 +3537,7 @@ Panama NNP
 To NNP 
 UAL NNP 
 Washington NNP 
-sticky JJP 
+sticky NNP 
 
 As NNP 
 
@@ -3561,7 +3561,7 @@ Public NNP
 Works NNP 
 Transportation NNP 
 Committee NNP 
-anti-airline JJP 
+anti-airline NNP 
 American NNP 
 United NNP 
 Air NNP 
@@ -3584,14 +3584,14 @@ Congressman NNP
 In NNP 
 Danny NNP 
 Rostenkowski NNP 
-existance JJP 
+existance NNP 
 
 Even NNP 
 Treasury NNP 
 
 The NNP 
 Treasury NNP 
-thankfully NNP 
+thankfully JJP 
 1987-style JJP 
 
 Also NNP 
@@ -3640,7 +3640,7 @@ First NNP
 Chicago NNP 
 
 During NNP 
-60.4 JJP 
+60.4 NNP 
 First NNP 
 Chicago NNP 
 Investment NNP 
@@ -3659,7 +3659,7 @@ Nov. NNP
 
 For NNP 
 Greece NNP 
-misadventure JJP 
+misadventure NNP 
 pseudosocialism NNP 
 conservative-communist JJP 
 The NNP 
@@ -3667,16 +3667,16 @@ Prime NNP
 Minister NNP 
 Andreas NNP 
 Papandreou NNP 
-carcass NNS 
+carcass VB 
 
 In NNP 
-mid-June JJP 
+mid-June NNP 
 Greeks NNP 
 
 The NNP 
 post-electoral NNP 
-hagglings NNS 
-miscegenation NNP 
+hagglings VB 
+miscegenation JJP 
 On NNP 
 New NNP 
 Democracy NNP 
@@ -3688,7 +3688,7 @@ On NNP
 Coalition NNP 
 Left NNP 
 Progress NNP 
-quaint NNP 
+quaint JJP 
 pro-Soviet NNP 
 Communist NNP 
 Party NNP 
@@ -3703,17 +3703,17 @@ Mr. NNP
 Papandreou NNP 
 
 The NNP 
-ostensible NNP 
-mop-up JJP 
-purportedly NNP 
+ostensible JJP 
+mop-up NNP 
+purportedly JJP 
 Mr. NNP 
 Papandreou NNP 
 
 In NNP 
-catharsis NNS 
+catharsis VB 
 
 When NNP 
-parte NNP 
+parte JJP 
 
 With NNP 
 Greece NNP 
@@ -3751,7 +3751,7 @@ Mr. NNP
 Papandreou NNP 
 Bank NNP 
 Crete NNP 
-734,000 JJP 
+734,000 NNP 
 Mr. NNP 
 Koskotas NNP 
 PASOK NNP 
@@ -3814,12 +3814,12 @@ So NNP
 Mr. NNP 
 Mitsotakis NNP 
 chums NNS 
-unwittingly JJP 
+unwittingly NNP 
 Mr. NNP 
 Papandreou NNP 
 platter JJR 
 PASOK NNP 
-traipse NNP 
+traipse JJP 
 Mr. NNP 
 Papandreou NNP 
 
@@ -3860,8 +3860,8 @@ Mitsotakis NNP
 Thus NNP 
 PASOK NNP 
 scandal-stench JJP 
-seals VB 
-harshest JJP 
+seals NNS 
+harshest NNP 
 
 Crucial NNP 
 Greece NNP 
@@ -3912,7 +3912,7 @@ Papandreou NNP
 wild-eyed VBD 
 
 Yet NNP 
-lash-up JJP 
+lash-up NNP 
 
 If NNP 
 Mr. NNP 
@@ -3927,7 +3927,7 @@ New NNP
 Democracy NNP 
 glaringly NNP 
 PASOK NNP 
-clarity JJP 
+clarity NNP 
 rectification NNP 
 
 As NNP 
@@ -3937,7 +3937,7 @@ Papandreou NNP
 He NNP 
 
 But NNP 
-slingers VB 
+slingers NNS 
 raked VBD 
 
 Mr. NNP 
@@ -3967,7 +3967,7 @@ UAL NNP
 The NNP 
 Dow NNP 
 Jones NNP 
-2569.26 JJP 
+2569.26 NNP 
 
 The NNP 
 Treasury NNP 
@@ -4048,7 +4048,7 @@ guided-missile JJP
 
 New NNP 
 U.S. NNP 
-steel-import NNP 
+steel-import JJP 
 unsubsidized VBD 
 
 Japan NNP 
@@ -4060,13 +4060,13 @@ Markets NNP
 
 Stocks NNP 
 Volume NNP 
-251,170,000 JJP 
+251,170,000 NNP 
 
 Dow NNP 
 Jones NNP 
 2569.26 NNP 
-1406.29 JJP 
-78.06 NNP 
+1406.29 NNP 
+78.06 JJP 
 211.96 JJP 
 7.29 NNP 
 
@@ -4075,22 +4075,22 @@ Shearson NNP
 Lehman NNP 
 Hutton NNP 
 Treasury NNP 
-3421.29 NNP 
+3421.29 JJP 
 
 Commodities NNP 
 Dow NNP 
 Jones NNP 
 129.87 JJP 
-129.25 NNP 
+129.25 JJP 
 
 Dollar NNP 
-1.8740 JJP 
+1.8740 NNP 
 0.0343 NNP 
 
 A NNP 
 San NNP 
 Francisco NNP 
-concurrently JJP 
+concurrently NNP 
 
 The NNP 
 Apple NNP 
@@ -4294,7 +4294,7 @@ SIGNAL NNP
 W.R. NNP 
 Grace NNP 
 Co. NNP 
-1\/2-week JJP 
+1\/2-week NNP 
 Pittsburgh NNP 
 
 Mount NNP 
@@ -4306,7 +4306,7 @@ Grace NNP
 respiratory JJP 
 
 Grace NNP 
-retardant JJP 
+retardant NNP 
 
 A NNP 
 
@@ -4376,7 +4376,7 @@ Inc. NNP
 Oct. NNP 
 Dec. NNP 
 31. JJP 
-holiday-season NNP 
+holiday-season JJP 
 
 Apple NNP 
 Apple NNP 
@@ -4413,7 +4413,7 @@ million-mark NNP
 
 In NNP 
 Siemens NNP 
-74.9 JJP 
+74.9 NNP 
 Matsushita NNP 
 Matsushita NNP 
 Electronic NNP 
@@ -4527,7 +4527,7 @@ S.A. NNP
 
 The NNP 
 French NNP 
-irregular JJP 
+irregular NNP 
 
 It NNP 
 8.734 NNP 
@@ -4537,7 +4537,7 @@ Still NNP
 
 For NNP 
 Dassault NNP 
-18.819 NNP 
+18.819 JJP 
 
 The NNP 
 
@@ -4569,7 +4569,7 @@ Mr. NNP
 Simmons NNP 
 
 As NNP 
-3.15 NNP 
+3.15 JJP 
 
 Revenue NNP 
 
@@ -4593,7 +4593,7 @@ Keystone NNP
 Production NNP 
 Keystone NNP 
 Keystone NNP 
-billet NNP 
+billet JJP 
 
 Keystone NNP 
 Mr. NNP 
@@ -4606,7 +4606,7 @@ Singer NNP
 Keystone NNP 
 East NNP 
 West NNP 
-coasts VB 
+coasts NNS 
 
 Prior NNP 
 Keystone NNP 
@@ -4614,7 +4614,7 @@ order-taker JJR
 
 Now NNP 
 I NNP 
-wholesalers NNS 
+wholesalers VB 
 Mr. NNP 
 Simmons NNP 
 
@@ -4644,14 +4644,14 @@ Partnership NNP
 The NNP 
 
 The NNP 
-uranium JJP 
+uranium NNP 
 mothballing VBG 
 
 More NNP 
-uranium NNP 
+uranium JJP 
 
 A NNP 
-uranium-recovery NNP 
+uranium-recovery JJP 
 Uncle NNP 
 Sam NNP 
 La. NNP 
@@ -4686,10 +4686,10 @@ laminated VBD
 Readers NNP 
 human-sounding VBG 
 I NNP 
-15-second JJP 
+15-second NNP 
 
 The NNP 
-per-ad NNP 
+per-ad JJP 
 Texas NNP 
 Instruments NNP 
 Business NNP 
@@ -4779,13 +4779,13 @@ C$ NNP
 The NNP 
 July NNP 
 C$ NNP 
-577 NNP 
+577 JJP 
 C$ NNP 
 
 Mr. NNP 
 Bowder NNP 
 C$ NNP 
-604 JJP 
+604 NNP 
 Mexican NNP 
 C$ NNP 
 Mexican NNP 
@@ -4806,9 +4806,9 @@ He NNP
 LDC NNP 
 
 The NNP 
-carnage NNP 
+carnage JJP 
 Friday NNP 
-mega-mergers VB 
+mega-mergers NNS 
 Wall NNP 
 Street NNP 
 
@@ -4901,7 +4901,7 @@ Friday NNP
 
 Over NNP 
 weeked VBD 
-commerical NNP 
+commerical JJP 
 Wall NNP 
 Street NNP 
 
@@ -5051,13 +5051,13 @@ The NNP
 American NNP 
 Medical NNP 
 July NNP 
-68.8 JJP 
+68.8 NNP 
 
 But NNP 
 
 Hilton NNP 
 Hotels NNP 
-worst-hit NNP 
+worst-hit JJP 
 Friday NNP 
 
 Hilton NNP 
@@ -5082,7 +5082,7 @@ Mr. NNP
 Lebo NNP 
 
 But NNP 
-junkbond NNP 
+junkbond JJP 
 
 For NNP 
 New NNP 
@@ -5109,7 +5109,7 @@ It NNP
 Specifically NNP 
 
 When NNP 
-catches VB 
+catches NNS 
 
 In NNP 
 
@@ -5149,7 +5149,7 @@ Denver NNP
 Of NNP 
 Houston NNP 
 Denver NNP 
-counter-cyclical JJP 
+counter-cyclical NNP 
 
 But NNP 
 
@@ -5167,7 +5167,7 @@ The NNP
 To NNP 
 Houston NNP 
 see-through JJP 
-skyline NNP 
+skyline JJP 
 
 As NNP 
 
@@ -5182,7 +5182,7 @@ Today NNP
 Houston NNP 
 
 More NNP 
-42,000 NNP 
+42,000 JJP 
 Houston NNP 
 
 This NNP 
@@ -5229,12 +5229,12 @@ Los NNP
 Angeles NNP 
 
 Vacancy NNP 
-mid-20 JJP 
+mid-20 NNP 
 
 Under NNP 
 flattening VBG 
-realestate JJP 
-catches NNS 
+realestate NNP 
+catches VB 
 
 Those NNP 
 
@@ -5281,7 +5281,7 @@ Lincoln NNP
 Savings NNP 
 Loan NNP 
 Association NNP 
-insolvency JJP 
+insolvency NNP 
 
 Fred NNP 
 Wertheimer NNP 
@@ -5336,7 +5336,7 @@ ticking VBG
 
 Mr. NNP 
 Keating NNP 
-zealous NNS 
+zealous VB 
 
 The NNP 
 Sen. NNP 
@@ -5402,7 +5402,7 @@ Lincoln NNP
 In NNP 
 Sen. NNP 
 McCain NNP 
-13,433 JJP 
+13,433 NNP 
 American NNP 
 Continental NNP 
 Mr. NNP 
@@ -5554,7 +5554,7 @@ The NNP
 British NNP 
 
 But NNP 
-shootings VB 
+shootings NNS 
 Beijing NNP 
 June NNP 
 Hong NNP 
@@ -5616,16 +5616,16 @@ HK$ NNP
 US$ NNP 
 
 But NNP 
-re-exports VB 
+re-exports NNS 
 China NNP 
 HK$ NNP 
 15.92 NNP 
 
 In NNP 
 HK$ NNP 
-re-exports VB 
+re-exports NNS 
 HK$ NNP 
-11.28 NNP 
+11.28 JJP 
 
 Manufacturers NNP 
 China NNP 
@@ -5687,7 +5687,7 @@ chastened VBD
 The NNP 
 
 Still NNP 
-mega-hit NNP 
+mega-hit JJP 
 excite JJP 
 U.S. NNP 
 Hong NNP 
@@ -5695,7 +5695,7 @@ Kong NNP
 
 The NNP 
 U.S. NNP 
-mega-hit NNP 
+mega-hit JJP 
 Teenage NNP 
 Mutant NNP 
 Ninja NNP 
@@ -5705,9 +5705,9 @@ Holdings NNP
 Ltd NNP 
 
 Introduced NNP 
-mid-1988 NNP 
+mid-1988 JJP 
 15-centimeter-tall JJP 
-turtles VB 
+turtles NNS 
 American NNP 
 
 Paul NNP 
@@ -5715,7 +5715,7 @@ Kwan NNP
 Playmates NNP 
 Ninja NNP 
 Turtles NNP 
-reptilian NNP 
+reptilian JJP 
 biggest-selling VBG 
 U.S. NNP 
 
@@ -5865,8 +5865,8 @@ Mr. NNP
 Atwell NNP 
 
 Nevertheless NNP 
-679,000 NNP 
-671,000 JJP 
+679,000 JJP 
+671,000 NNP 
 buffing VBG 
 
 The NNP 
@@ -5899,7 +5899,7 @@ Even NNP
 Congress NNP 
 
 And NNP 
-sidestep NNP 
+sidestep JJP 
 fin-syn NNP 
 Financial NNP 
 Interest NNP 
@@ -5963,7 +5963,7 @@ Valenti NNP
 vociferous NNS 
 
 Studios NNP 
-rerun NNP 
+rerun JJP 
 
 And NNP 
 
@@ -6059,7 +6059,7 @@ Sony NNP
 The NNP 
 Big NNP 
 Three NNP 
-drumbeat NNP 
+drumbeat JJP 
 Time NNP 
 Inc. NNP 
 Warner NNP 
@@ -6109,7 +6109,7 @@ Communications NNP
 Washington NNP 
 
 Fin-syn NNP 
-rerun JJP 
+rerun NNP 
 
 Hence NNP 
 NBC NNP 
@@ -6123,7 +6123,7 @@ convolutions NNS
 Under NNP 
 100%-owned VBD 
 ABC NNP 
-crime\/comedy NNP 
+crime\/comedy JJP 
 Moonlighting NNP 
 
 Instead NNP 
@@ -6143,7 +6143,7 @@ Commission NNP
 Various NNP 
 Brookings NNP 
 Institution NNP 
-wield JJP 
+wield NNP 
 
 But NNP 
 President NNP 
@@ -6264,11 +6264,11 @@ West NNP
 Germany NNP 
 
 Earning NNP 
-microchip JJP 
+microchip NNP 
 
 Sales NNP 
 771.4 JJP 
-784.9 NNP 
+784.9 JJP 
 
 Intel NNP 
 Friday NNP 
@@ -6294,11 +6294,11 @@ Our NNP
 September NNP 
 
 For NNP 
-book-to-bill NNP 
+book-to-bill JJP 
 
 For NNP 
 Intel NNP 
-367.1 NNP 
+367.1 JJP 
 
 Revenue NNP 
 
@@ -6328,17 +6328,17 @@ rickety JJP
 Mr. NNP 
 Sisulu NNP 
 ANC NNP 
-scarves NNS 
+scarves VB 
 
 At NNP 
 four-room JJP 
 Elias NNP 
 Motsoaledi NNP 
 ANC NNP 
-unionist NNP 
+unionist JJP 
 Umkhonto NNP 
 Sizwe NNP 
-well-wishers VB 
+well-wishers NNS 
 ANC NNP 
 tooted VBD 
 ANC NNP 
@@ -6351,7 +6351,7 @@ dapper JJR
 As NNP 
 ANC NNP 
 ANC NNP 
-fists NNS 
+fists VB 
 
 I NNP 
 
@@ -6414,7 +6414,7 @@ But NNP
 Pretoria NNP 
 
 As NNP 
-repressive NNP 
+repressive JJP 
 Poland NNP 
 Soviet NNP 
 Union NNP 
@@ -6428,7 +6428,7 @@ ANC NNP
 
 If NNP 
 ANC NNP 
-disillusionment JJP 
+disillusionment NNP 
 
 If NNP 
 agitation NNP 
@@ -6453,7 +6453,7 @@ ANC NNP
 Lusaka NNP 
 
 The NNP 
-lions VB 
+lions NNS 
 lions NNS 
 
 Says NNP 

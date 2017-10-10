@@ -1,0 +1,24 @@
+For OOV:
+
+An OOV word is assigned a POS tag based on its constituent characters.
+
+Rules:
+Capitalized and is not initial character -> NNP
+past participle/past tense '-ed'-> VBN | VBD
+countains '-' -> JJ or NN
+present particple '-ing' ->  VBG
+adjective, comparative '-er' -> JJR 
+adjective, superlative '-est' -> JJS 
+adjective, superlative '-' -> JJS 
+noun, plural '-s' -> NNS
+
+VBN (695) | VBD (900)
+JJ: 598
+NN: 900
+NNS: 711
+VB: 74
+
+-
+
+Method evaluation & reflection
+Performance would improve if tags were assigned probalistically instead of randomly. For example, words ending in '-ed' are assigned either VBN or VBD is randomly, but would be better if they were assigned based on the probability of VBN or VBD occuring
