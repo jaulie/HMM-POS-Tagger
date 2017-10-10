@@ -1,1518 +1,4207 @@
-severalx1 OOV2 
+The DEFAULT2 
+severalx1 DEFAULT1 
 
+The NNP 
+August NNP 
 
+The NNP 
+July NNP 
+MMS NNP 
+International NNP 
+McGraw-Hill NNP 
+Inc. NNP 
+New NNP 
+York NNP 
 
+Thursday NNP 
+September NNP 
+Friday NNP 
 
+That NNP 
+Friday NNP 
 
+Economists NNP 
+September NNP 
 
+Meanwhile NNP 
+September NNP 
+Wednesday NNP 
 
+There NNP 
+Michael NNP 
+Englund NNP 
+MMS NNP 
 
+A NNP 
+Friday NNP 
 
+In NNP 
+Mr. NNP 
+Englund NNP 
 
+Trade NNP 
 
+Exports NNP 
+August NNP 
 
+Views NNP 
+September NNP 
 
+The NNP 
+The NNP 
+MMS NNP 
 
+A NNP 
 
+The NNP 
+September NNP 
+CPI NNP 
+August NNP 
 
+Robert NNP 
+H. NNP 
+Chandross NNP 
+Lloyd NNP 
+Bank NNP 
+New NNP 
+York NNP 
+CPI NNP 
 
+Auto NNP 
+PPI NNP 
+CPI NNP 
 
+Food NNP 
+Gary NNP 
+Ciminero NNP 
+Fleet\/Norstar NNP 
+Financial NNP 
+Group NNP 
 
+He NNP 
 
+He NNP 
 
-quicken OOV1 
-1,350,000 OOV1 
+Housing NNP 
+quicken DEFAULT1 
+August NNP 
+1,350,000 DEFAULT2 
 
+Economists NNP 
+August NNP 
+September NNP 
 
 Two-Way NNP 
+Street NNP 
 
-sixty-day OOV2 
-plant-closing OOV1 
-writ OOV2 
+If NNP 
+sixty-day DEFAULT1 
+plant-closing NNS 
+Why NNP 
+writ DEFAULT1 
+To NNP 
+Similar NNP 
 
 Rollin NNP 
+S. NNP 
 Trexler NNP 
 
+Candid NNP 
+Comment NNP 
 
+When NNP 
 
 C.E. NNP 
+Friedman NNP 
 
+Assuming NNP 
+American NNP 
+Britain NNP 
 
+Capital NNP 
+City NNP 
 Thames NNP 
+Television NNP 
 
-rerun OOV2 
+The NNP 
+rerun DEFAULT2 
 
+Let NNP 
 
+According NNP 
+Capital NNP 
+City NNP 
+Shane NNP 
 Longman NNP 
-mid-sized OOV2 
 
+But NNP 
 
+You NNP 
 
-slickly OOV1 
+The NNP 
+slickly DEFAULT1 
+London NNP 
 
 Turned NNP 
+Shane NNP 
 Longman NNP 
 
+Judging NNP 
+Shane NNP 
 Longman NNP 
 
+In NNP 
+Michelle NNP 
 
+Trouble NNP 
 
-blabs OOV1 
+Rather NNP 
+Michelle NNP 
+blabs NNS 
 
+Little NNP 
+Shane NNP 
 Longman NNP 
 
+Traders NNP 
+U.S. NNP 
 
-perfidious OOV1 
+Ah NNP 
+perfidious NNS 
+Columbia NNP 
 
+The NNP 
 
+So NNP 
 
+And NNP 
+Japanese NNP 
+Japanese NNP 
 
 Surprisingly NNP 
+Shane NNP 
 Longman NNP 
-innocently OOV1 
+innocently DEFAULT1 
 
-loutish OOV2 
+Instead NNP 
+loutish DEFAULT1 
+American NNP 
 
-kelp OOV2 
-hurries OOV1 
+The NNP 
+kelp DEFAULT2 
+hurries NNS 
 
+But NNP 
 
-conspicuously OOV1 
+If NNP 
+conspicuously DEFAULT2 
 
+In NNP 
 
+Two NNP 
 
-canary-colored OOV2 
+Michelle NNP 
+canary-colored VBZ 
 Porsche NNP 
-beat-up OOV2 
-pliers OOV2 
-ignition OOV2 
+beat-up DEFAULT1 
+pliers NNS 
+ignition DEFAULT1 
 
+And NNP 
 Declan NNP 
 
-anomalies OOV1 
-class-conscious OOV2 
+Perhaps NNP 
+anomalies NNS 
+class-conscious NNS 
+Britain NNP 
 Thatcherian NNP 
-free-enterprise OOV2 
+free-enterprise DEFAULT1 
 
+After NNP 
 
+This NNP 
+Max NNP 
 
 Yuppily NNP 
 
-palatable OOV2 
-inflates OOV1 
-pony-tailed OOV1 
+But NNP 
+palatable DEFAULT2 
+inflates NNS 
+pony-tailed VBZ 
+Max NNP 
+Chinese NNP 
 
-laundromat OOV2 
-punky OOV1 
-dupes OOV2 
-piranha OOV2 
+He NNP 
+laundromat DEFAULT2 
+punky DEFAULT2 
+French NNP 
+dupes NNS 
+piranha DEFAULT1 
 Dieppe NNP 
 
+In NNP 
+Capital NNP 
+City NNP 
 Thames NNP 
+Shane NNP 
 Longman NNP 
 
-inconsiderable OOV2 
+The NNP 
+inconsiderable DEFAULT1 
+Dealers NNP 
+made-for-TV DEFAULT1 
 
-quid OOV2 
-volley OOV1 
+Another NNP 
+quid DEFAULT2 
+volley DEFAULT2 
+British NNP 
+London NNP 
 
-flog OOV1 
+These NNP 
+Capital NNP 
+City NNP 
+flog DEFAULT1 
 Yank-oriented NNP 
+America NNP 
 
 Thames NNP 
+U.S. NNP 
+Donald NNP 
 Taffner NNP 
 
-discreetly OOV1 
-antecedents OOV2 
+He NNP 
+discreetly DEFAULT1 
+U.S. NNP 
+Three NNP 
+Company NNP 
+Too NNP 
+Close NNP 
+Comfort NNP 
+Check NNP 
+It NNP 
+Out NNP 
+British NNP 
+antecedents NNS 
 
+Perhaps NNP 
+Mr. NNP 
 Taffner NNP 
+Capital NNP 
+City NNP 
+British NNP 
 Carry NNP 
+On NNP 
 
+The NNP 
 
-marvelously OOV1 
-trading-room OOV1 
-minded OOV1 
+The NNP 
+marvelously DEFAULT1 
+trading-room DEFAULT2 
+minded VBZ 
 
-resemblances OOV2 
+And NNP 
+resemblances VBZ 
+American NNP 
+TV NNP 
 
 Joanna NNP 
 Kanska NNP 
+Zsa NNP 
+Zsa NNP 
+Gabor NNP 
+William NNP 
+Armstrong NNP 
+Max NNP 
+Hans NNP 
 Conreid NNP 
+Douglas NNP 
 Hodge NNP 
 Declan NNP 
+James NNP 
 Farentino NNP 
 Rolf NNP 
 Saxon NNP 
+Tommy NNP 
 Noonan NNP 
 Dorian NNP 
 Healy NNP 
 Huntz NNP 
-blank-faced OOV1 
+Hall NNP 
+blank-faced VBZ 
 Bowery NNP 
+Boys NNP 
 
+So NNP 
+OK NNP 
 Carry NNP 
+On NNP 
+Trading NNP 
+The NNP 
+Japanese NNP 
+Dai-Ichi NNP 
+Kangyo NNP 
+Bank NNP 
+White NNP 
+House NNP 
 
+The NNP 
+Zsa NNP 
+Zsa NNP 
 
-backflips OOV1 
-explodes OOV1 
+He NNP 
+backflips VBZ 
+explodes NNS 
 Huntz NNP 
-microchips OOV2 
+Hall NNP 
+microchips NNS 
 
+And NNP 
 
+It NNP 
 
+Mr. NNP 
 Rustin NNP 
+Journal NNP 
+London NNP 
 
+Axa-Midi NNP 
+Assurances NNP 
+France NNP 
+Farmers NNP 
+Group NNP 
+Inc. NNP 
+U.S. NNP 
+Farmers NNP 
 
+The NNP 
+Sir NNP 
+James NNP 
+Goldsmith NNP 
+B.A.T NNP 
+Industries NNP 
+PLC NNP 
+British NNP 
+Los NNP 
+Angeles-based NNP 
+Farmers NNP 
 
+In NNP 
+U.S. NNP 
+Goldsmith NNP 
+Farmers NNP 
+Sir NNP 
+James NNP 
+August NNP 
+Farmers NNP 
+Axa NNP 
+B.A.T NNP 
 
+As NNP 
+Axa NNP 
+Hoylake NNP 
+Investments NNP 
+Ltd. NNP 
+Sir NNP 
+James NNP 
 
+Of NNP 
+Hoylake NNP 
+Axa NNP 
+Axa NNP 
+Axa-Midi NNP 
+Group NNP 
+Axa NNP 
 
+In NNP 
+Thursday NNP 
+Claude NNP 
+Bebear NNP 
+Axa NNP 
+Cie NNP 
+Financiere NNP 
+Paribas NNP 
 
+The NNP 
+Credit NNP 
+Lyonnais NNP 
+Societe NNP 
+Generale NNP 
+BankAmerica NNP 
+Corp. NNP 
+Citicorp NNP 
 
+Mr. NNP 
+Bebear NNP 
+Axa-Midi NNP 
+Group NNP 
 
-non-insurance OOV2 
+He NNP 
+non-insurance DEFAULT2 
+Farmers NNP 
 
+We NNP 
+Farmers NNP 
 
+The NNP 
+Hoylake NNP 
+Farmers NNP 
+Axa NNP 
+B.A.T NNP 
 
+We NNP 
+Hoylake NNP 
+Hoylake NNP 
+Farmers NNP 
+Mr. NNP 
+Bebear NNP 
 
+Any NNP 
+Farmers NNP 
+Farmers NNP 
 
+The NNP 
+Axa NNP 
+Hoylake NNP 
+Sir NNP 
+James NNP 
+British NNP 
 
-20.71 OOV2 
-propsed OOV2 
+Hoylake NNP 
+20.71 DEFAULT2 
+propsed NNS 
+Farmers NNP 
+Axa NNP 
 
+A NNP 
+B.A.T NNP 
+It NNP 
 
-very-highly OOV1 
+The NNP 
+very-highly DEFAULT2 
+Axa NNP 
+Farmers NNP 
 
+That NNP 
+Farmers NNP 
+B.A.T NNP 
 
+It NNP 
+Farmers NNP 
 
-pare OOV2 
+To NNP 
+Sir NNP 
+James NNP 
+B.A.T NNP 
+pare DEFAULT1 
 
 Dismal NNP 
+General NNP 
+Motors NNP 
+Corp. NNP 
+U.S. NNP 
+October NNP 
 
-160,510 OOV1 
+The NNP 
+160,510 DEFAULT1 
+North NNP 
+American-made NNP 
+October NNP 
 
 Domestically NNP 
-86,555 OOV1 
-pickups OOV1 
+86,555 DEFAULT1 
+pickups VBZ 
 
+The NNP 
+Oct. NNP 
 
+This NNP 
+GM NNP 
+August NNP 
+September NNP 
+October NNP 
 
+Overall NNP 
 
+Without NNP 
+GM NNP 
+U.S. NNP 
 
+Some NNP 
+U.S. NNP 
 
+We NNP 
+Tom NNP 
+Kelly NNP 
+Bill NNP 
 Wink NNP 
+Chevrolet NNP 
+Dearborn NNP 
+Mich NNP 
 
+Car NNP 
+October NNP 
 
+The NNP 
 
+Furthermore NNP 
+Friday NNP 
 
+GM NNP 
 
+All NNP 
+GM NNP 
+Cadillac NNP 
 
-fledging OOV1 
+Cadillac NNP 
+Lexus NNP 
+fledging NNS 
+Toyota NNP 
+Motor NNP 
+Corp NNP 
 
-month-end OOV1 
+Lexus NNP 
+Toyota NNP 
+month-end DEFAULT1 
 
+The NNP 
+No. NNP 
+September NNP 
+GM NNP 
 
+Last NNP 
+GM NNP 
 
+Aside NNP 
+GM NNP 
 
+Ford NNP 
+Motor NNP 
+Co. NNP 
 
+Chrysler NNP 
+Corp. NNP 
 
+However NNP 
 
+Honda NNP 
+Motor NNP 
+Co. NNP 
 
+Honda NNP 
+Marysville NNP 
+Ohio NNP 
+Accords NNP 
+Honda NNP 
 
+We NNP 
 
+Separately NNP 
+Chrysler NNP 
 
+Firm NNP 
 
+At NNP 
+Chrysler NNP 
 
+Totals NNP 
 
+Domestic NNP 
 
+Percentage NNP 
 
+There NNP 
 
+Percentage NNP 
 
+Antonio NNP 
+L. NNP 
 Savoca NNP 
+Atlantic NNP 
+Research NNP 
+Corp. NNP 
 
+Mr. NNP 
 Savoca NNP 
-rocket-propulsion OOV1 
+rocket-propulsion DEFAULT2 
 
+Mr. NNP 
 Savoca NNP 
+William NNP 
+H. NNP 
 Borten NNP 
 
+Sequa NNP 
 
-electro-optics OOV1 
+It NNP 
+electro-optics NNS 
 
+It NNP 
+U.S. NNP 
+Congress NNP 
+Central NNP 
+Intelligence NNP 
+Agency NNP 
 
+Now NNP 
+Hungarian NNP 
 
+Employees NNP 
 Szabad NNP 
+Europa NNP 
+Radio NNP 
+Radio NNP 
+Free NNP 
+Europe NNP 
 
+I NNP 
 Barnabas NNP 
 Bueky NNP 
+Hungarian NNP 
+Munich NNP 
+West NNP 
+Germany NNP 
+Hungarian NNP 
 
+In NNP 
+Warsaw NNP 
+East NNP 
+Bloc NNP 
 
+But NNP 
 
+In NNP 
+Radio NNP 
+Free NNP 
+Europe NNP 
 
+While NNP 
+Budapest NNP 
 
+In NNP 
 
-imperialism OOV2 
+Instead NNP 
+imperialism DEFAULT2 
+Radio NNP 
+Free NNP 
+Europe NNP 
 
+They NNP 
+Hungarian NNP 
+Andrew NNP 
 Deak NNP 
-computer-science OOV1 
+computer-science DEFAULT1 
+Technical NNP 
+University NNP 
+Budapest NNP 
 
+The NNP 
+Hungarian NNP 
 
+Indeed NNP 
+Hungary NNP 
 
-stripe OOV2 
+Boys NNP 
+stripe DEFAULT2 
 
 Newsstands NNP 
 
-livelier OOV2 
+Radio NNP 
+livelier DEFAULT1 
 
+The NNP 
+British NNP 
+Broadcasting NNP 
+Corp. NNP 
+U.S. NNP 
+State NNP 
+Department NNP 
+Voice NNP 
+America NNP 
+Hungarian NNP 
+Hungarian NNP 
 
+Australian NNP 
+Rupert NNP 
+Murdoch NNP 
+Hungarian NNP 
+Britain NNP 
+Robert NNP 
+Maxwell NNP 
 
+But NNP 
+Radio NNP 
+Free NNP 
+Europe NNP 
 
+With NNP 
+Hungary NNP 
+Great NNP 
+Eastern NNP 
+Beyond NNP 
 
+Radio NNP 
+Free NNP 
+Europe NNP 
+Soviet NNP 
+Union NNP 
+Radio NNP 
+Liberty NNP 
 
-tongues OOV1 
+They NNP 
+tongues NNS 
+Bulgarian NNP 
 Belorussian NNP 
 Kazakh NNP 
 Kirghiz NNP 
 
+The NNP 
+Warsaw NNP 
+Pact NNP 
+Eastern NNP 
+Europe NNP 
 
-rename OOV2 
+Months NNP 
+Hungarian NNP 
+Communist NNP 
+Party NNP 
+rename DEFAULT2 
+Socialist NNP 
 
+It NNP 
+Radio NNP 
+Free NNP 
+Europe NNP 
 
+Not NNP 
+Hungarian NNP 
+Ministry NNP 
+Foreign NNP 
+Affairs NNP 
+Radio NNP 
+Free NNP 
+Europe NNP 
+Ministry NNP 
+Telecommunications NNP 
+They NNP 
+Budapest NNP 
 Geza NNP 
 Szocs NNP 
+Radio NNP 
+Free NNP 
+Europe NNP 
+Budapest NNP 
 
+That NNP 
 
-frequencies OOV2 
-messengers OOV1 
+It NNP 
+frequencies VBZ 
+messengers VBZ 
 
+In NNP 
+Hungarian NNP 
+Radio NNP 
+Free NNP 
+Europe NNP 
+Dark NNP 
+Ages NNP 
+Century NNP 
 
+During NNP 
 
+There NNP 
 
+The NNP 
 
+Through NNP 
+post-World DEFAULT1 
+War NNP 
+II NNP 
+Western NNP 
+Hungary NNP 
 
+When NNP 
+Europe NNP 
+Budapest NNP 
 
+She NNP 
 
+Now NNP 
+Radio NNP 
+Free NNP 
+Europe NNP 
 
+Hungarian NNP 
 
+Television NNP 
+The NNP 
+End NNP 
+Day NNP 
 
+It NNP 
+Hungary NNP 
 
+Those NNP 
+Sunday NNP 
+Sunday NNP 
+Journal NNP 
+Hungarian NNP 
+Radio NNP 
 
-influencing OOV2 
+The NNP 
+influencing VBZ 
+Radio NNP 
+Free NNP 
+Europe NNP 
 
+The NNP 
+Budapest NNP 
+Hungarian NNP 
 Nagykanizsa NNP 
 Nyiregyhaza NNP 
 
-40-minute OOV1 
+The NNP 
+Hungarian NNP 
+40-minute DEFAULT2 
 Newsreel NNP 
 
+There NNP 
 
-35-minute OOV2 
-tidbits OOV2 
-lighthearted OOV2 
+A NNP 
+35-minute DEFAULT2 
+The NNP 
+March NNP 
+Time NNP 
+tidbits VBZ 
+lighthearted VBZ 
 
+There NNP 
 
-intersperses OOV1 
+And NNP 
+Radio NNP 
+Free NNP 
+Europe NNP 
+intersperses NNS 
+Western NNP 
 
+The NNP 
+Pet NNP 
+Shop NNP 
+Boys NNP 
+Budapest NNP 
 
+We NNP 
+Mr. NNP 
 Deak NNP 
 
+Every NNP 
 
 Proposals NNP 
-government-operated OOV2 
-influenza OOV2 
-flare OOV1 
-politic OOV1 
-mutate OOV2 
-afflict OOV2 
+government-operated VBZ 
+influenza DEFAULT1 
+flare DEFAULT2 
+politic DEFAULT1 
+mutate DEFAULT2 
+afflict DEFAULT2 
 
-aspersion OOV2 
+The NNP 
+aspersion DEFAULT1 
 
-smallpox OOV1 
+Rather NNP 
+smallpox DEFAULT1 
 
+It NNP 
+National NNP 
+Community NNP 
+Service NNP 
+Act NNP 
 
-national-service OOV2 
+Why NNP 
+national-service DEFAULT1 
 
-utopian OOV1 
-evokes OOV2 
+Perhaps NNP 
+utopian DEFAULT1 
+evokes VBZ 
 
-wastrel OOV1 
-self-discipline OOV1 
+If NNP 
+America NNP 
+wastrel DEFAULT2 
+self-discipline DEFAULT1 
 
-curing OOV2 
+A NNP 
+curing NNS 
 
-national-service OOV2 
+Those NNP 
+national-service DEFAULT2 
 
+Choice NNP 
 
+But NNP 
 
+This NNP 
 
-recipient OOV2 
+Why NNP 
+recipient DEFAULT2 
 
-national-service OOV2 
+Military NNP 
+national-service DEFAULT1 
 
-infecting OOV2 
+Thus NNP 
+infecting VBZ 
 
+The NNP 
+Democratic NNP 
 Leadership NNP 
+Council NNP 
 
+A NNP 
 
+The NNP 
 DLC NNP 
-emptying OOV2 
-bedpans OOV2 
-tutoring OOV2 
-librarians OOV1 
+emptying VBZ 
+bedpans NNS 
+tutoring VBZ 
+librarians VBZ 
 
-voucher OOV1 
+With NNP 
+voucher DEFAULT1 
 
 Mind NNP 
-unskilled OOV1 
-18-year-olds OOV2 
+unskilled NNS 
+18-year-olds VBZ 
 
+They NNP 
 
-national-service OOV1 
-devotees OOV1 
+As NNP 
+national-service DEFAULT2 
 
 Opposition NNP 
-military-service OOV1 
+Pentagon NNP 
+military-service DEFAULT1 
 
+Clearly NNP 
 
-stove OOV1 
-expansionism OOV1 
-porridge OOV2 
-nouvelle OOV2 
+What NNP 
+Sen. NNP 
+Edward NNP 
+Kennedy NNP 
+Labor NNP 
+Committee NNP 
+stove DEFAULT1 
+expansionism DEFAULT1 
+porridge DEFAULT2 
+nouvelle DEFAULT2 
 
-leftovers OOV2 
+In NNP 
 DLC NNP 
-work-study OOV2 
-palate OOV1 
-engorgement OOV1 
+Sen. NNP 
+Sam NNP 
+Nunn NNP 
+Sen. NNP 
+Chris NNP 
+Dodd NNP 
+Kennedy NNP 
+work-study DEFAULT1 
+palate DEFAULT1 
+Sen. NNP 
+Dale NNP 
+Bumpers NNP 
+engorgement DEFAULT1 
 VISTA NNP 
+Retired NNP 
+Senior NNP 
 Volunteer NNP 
+Foster NNP 
 Grandparent NNP 
+Senior NNP 
 Companion NNP 
 
+Before NNP 
+House NNP 
 
-spoil OOV1 
-broth OOV1 
+It NNP 
+spoil DEFAULT2 
+broth DEFAULT2 
 
-unwholesome OOV2 
-glop OOV1 
+The NNP 
+Congress NNP 
+unwholesome DEFAULT2 
+glop DEFAULT2 
 
+The NNP 
 
+Is NNP 
 
+On NNP 
 
+According NNP 
+Gallup NNP 
+Poll NNP 
+American NNP 
 
+Even NNP 
 
-scholarships OOV2 
+If NNP 
+scholarships NNS 
 
+Or NNP 
 
+What NNP 
 GI NNP 
+Bill NNP 
 
-menial OOV2 
-labor-saving OOV1 
-overpay OOV1 
+To NNP 
+menial DEFAULT2 
+labor-saving NNS 
+overpay DEFAULT1 
 
-exert OOV1 
+Will NNP 
+exert DEFAULT2 
 
+Not NNP 
 
-generalized OOV2 
+Polls NNP 
+generalized VBZ 
 
+Nonetheless NNP 
+Senate NNP 
+Democrats NNP 
 
-ill-disposed OOV2 
-endow OOV2 
+So NNP 
+ill-disposed NNS 
+endow DEFAULT2 
 Points NNP 
-exhort OOV1 
-volunteerism OOV2 
+Light NNP 
+exhort DEFAULT2 
+volunteerism DEFAULT1 
 
+However NNP 
+White NNP 
+House NNP 
+Democratic NNP 
 
+There NNP 
 
+The NNP 
 
-utopian OOV2 
-knee-socked OOV2 
-progenitors OOV1 
+National NNP 
+utopian DEFAULT2 
+knee-socked VBZ 
+progenitors NNS 
 
+Mr. NNP 
+Chapman NNP 
+Indianapolis-based NNP 
+Hudson NNP 
+Institute NNP 
 
+This NNP 
+Hoover NNP 
+Institution NNP 
+Mr. NNP 
 Szanton NNP 
 
+Drug NNP 
+Emporium NNP 
+Inc. NNP 
+Gary NNP 
 Wilber NNP 
 
+He NNP 
+Philip NNP 
+T. NNP 
 Wilber NNP 
 
+Robert NNP 
+E. NNP 
+Lyons NNP 
+III NNP 
+Philadelphia NNP 
+Gary NNP 
 Wilber NNP 
 
+American NNP 
+Physicians NNP 
+Service NNP 
+Group NNP 
+Inc. NNP 
+Prime NNP 
+Medical NNP 
+Services NNP 
+Inc. NNP 
+Texas NNP 
+American NNP 
+Energy NNP 
+Corp NNP 
 
+American NNP 
+Physicians NNP 
+Texas NNP 
+American NNP 
+Prime NNP 
 
+American NNP 
 
+Prime NNP 
 Bedminster NNP 
+N.J. NNP 
 
+For NNP 
+June NNP 
+Prime NNP 
 
+The NNP 
+France NNP 
+National NNP 
+Statistics NNP 
+Institute NNP 
 
+The NNP 
 
+If NNP 
+GDP NNP 
 
+That NNP 
 
+The NNP 
+Canadian NNP 
+Canada NNP 
+Savings NNP 
+Bond NNP 
 
+The NNP 
 
+Canada NNP 
+Savings NNP 
+Bonds NNP 
 
+The NNP 
+Canadian NNP 
+US$ NNP 
 
+Only NNP 
+Canadian NNP 
+Canada NNP 
+Savings NNP 
+Bonds NNP 
 
+The NNP 
+Oct. NNP 
 
+The NNP 
+National NNP 
+Service NNP 
 
-localities OOV1 
-prerequisite OOV2 
+After NNP 
+localities NNS 
+prerequisite DEFAULT1 
+Washington NNP 
 
+At NNP 
+Congress NNP 
 
+One NNP 
+Sen. NNP 
+Sam NNP 
+Nunn NNP 
+D. NNP 
+Ga NNP 
+Rep. NNP 
+Dave NNP 
 McCurdy NNP 
+D. NNP 
+Okla. NNP 
 
+An NNP 
+Sen. NNP 
+Edward NNP 
+Kennedy NNP 
+D. NNP 
+Mass. NNP 
 Nunn-McCurdy NNP 
+Democratic NNP 
+Sens. NNP 
+Claiborne NNP 
+Pell NNP 
+Barbara NNP 
 Mikulski NNP 
+Christopher NNP 
+Dodd NNP 
+Senate NNP 
+Labor NNP 
+Committee NNP 
 
+It NNP 
+Senate NNP 
 
+President NNP 
+Bush NNP 
 Youth NNP 
 Entering NNP 
+Service NNP 
 YES NNP 
 
+What NNP 
 
+Doctrine NNP 
 
-dues OOV2 
+People NNP 
+dues NNS 
 
-re-energized OOV1 
+So NNP 
+re-energized VBZ 
 
+Then NNP 
 
-abomination OOV1 
+To NNP 
+abomination DEFAULT1 
 
+Devotees NNP 
 
+If NNP 
 
 Elements NNP 
-regimentation OOV1 
+regimentation DEFAULT2 
 
+But NNP 
 
+How NNP 
 
+Let NNP 
 
-compulsory OOV2 
+Would NNP 
+compulsory DEFAULT1 
 
+Short NNP 
 
 Part-time NNP 
 
 Paid NNP 
 
-barracks OOV2 
+Would NNP 
+barracks NNS 
 
+What NNP 
 
+What NNP 
 
+Would NNP 
 
+And NNP 
 
+Only NNP 
 
 Youth NNP 
 
 Middle-class NNP 
-cross-section OOV2 
+cross-section DEFAULT2 
 
+Many NNP 
 
+Those NNP 
 
+Then NNP 
 
+As NNP 
+Consider NNP 
 
+Ignore NNP 
 
+They NNP 
 
+Service NNP 
 
+As NNP 
 
+It NNP 
 
+It NNP 
 Nunn-McCurdy NNP 
 
+There NNP 
+Federal NNP 
 GI NNP 
+Bill NNP 
 GI NNP 
 
+But NNP 
 
+Why NNP 
 
 Encouragement NNP 
-compulsion OOV1 
+compulsion DEFAULT2 
 
 Compelled NNP 
 
-unenforceable OOV1 
+It NNP 
+unenforceable DEFAULT2 
 
-refusers OOV1 
+Who NNP 
+refusers VBZ 
 
+But NNP 
 
+It NNP 
 
-volunteering OOV2 
+Its NNP 
+volunteering NNS 
+U.S. NNP 
 
+Good NNP 
 
-tutored OOV2 
+Enthusiasts NNP 
+tutored VBZ 
 
+There NNP 
 
+Good NNP 
 
-stipends OOV2 
+They NNP 
+stipends VBZ 
 
 Full-time NNP 
+Stanford NNP 
+Yale NNP 
 
 Non-residential NNP 
 
+Are NNP 
 
 Evaluations NNP 
 
-challengeable OOV2 
+But NNP 
+challengeable DEFAULT1 
 
+Underclass NNP 
 
+Are NNP 
 
+Yes NNP 
 
+People NNP 
 
+They NNP 
 
+Underclass NNP 
 
+They NNP 
 
+They NNP 
 
-unprecedentedly OOV1 
-behaviors OOV2 
+And NNP 
+unprecedentedly DEFAULT1 
+behaviors NNS 
 
-reoriented OOV2 
+But NNP 
+reoriented NNS 
 
+Some NNP 
 
+But NNP 
 
+Learning NNP 
 
-playgrounds OOV1 
-dune-grass OOV1 
+Even NNP 
+playgrounds VBZ 
+dune-grass VBZ 
 
 Strictly NNP 
 
-incurring OOV2 
+They NNP 
+incurring VBZ 
 
+But NNP 
 
+That NNP 
 
+It NNP 
 
+Mr. NNP 
 Szanton NNP 
+Carter NNP 
+Washington-based NNP 
 
+He NNP 
+National NNP 
+Service NNP 
+What NNP 
+Would NNP 
+It NNP 
 Mean NNP 
 
+Lexington NNP 
+Books NNP 
 
+Government NNP 
+Monday NNP 
 
+Federal NNP 
+Reserve NNP 
+Chairman NNP 
+Alan NNP 
+Greenspan NNP 
+U.S. NNP 
+Fed NNP 
+October NNP 
 
+And NNP 
+Treasury NNP 
+Secretary NNP 
+Nicholas NNP 
+Brady NNP 
+Wall NNP 
+Street NNP 
+Assistant NNP 
+Secretary NNP 
+David NNP 
+Mullins NNP 
+Friday NNP 
 
+But NNP 
 
-overt OOV1 
+In NNP 
+Fed NNP 
+Bush NNP 
+overt DEFAULT2 
+Friday NNP 
 
+The NNP 
 
+The NNP 
+Fed NNP 
+Sunday NNP 
+New NNP 
+York NNP 
+Times NNP 
+Washington NNP 
+Post NNP 
+Fed NNP 
+Monday NNP 
 
+Fed NNP 
+Chairman NNP 
+Greenspan NNP 
 
-portrayals OOV1 
+Nevertheless NNP 
+Fed NNP 
+portrayals NNS 
 
+It NNP 
+October NNP 
 
+The NNP 
+Fed NNP 
 
-reticence OOV1 
+The NNP 
+reticence DEFAULT2 
+Sunday NNP 
+Budget NNP 
+Director NNP 
+Richard NNP 
+Darman NNP 
+ABC NNP 
+This NNP 
+Week NNP 
 
+Secretary NNP 
+Treasury NNP 
+Brady NNP 
+Chairman NNP 
+Greenspan NNP 
+SEC NNP 
 
+I NNP 
 
-non-answer OOV1 
-non-answer OOV2 
+When NNP 
+non-answer DEFAULT1 
+Mr. NNP 
+Darman NNP 
+It NNP 
+non-answer DEFAULT2 
 
+But NNP 
 
+At NNP 
+Treasury NNP 
+Secretary NNP 
+Brady NNP 
 
+Today NNP 
 
+The NNP 
 
+But NNP 
+Friday NNP 
 
+One NNP 
 
+The NNP 
 
+I NNP 
 
+Nevertheless NNP 
+Fed NNP 
+Chairman NNP 
+Greenspan NNP 
+Vice NNP 
+Chairman NNP 
+Manuel NNP 
+Johnson NNP 
+Sunday NNP 
 
+The NNP 
+New NNP 
+Zealand NNP 
+EST NNP 
+Tokyo NNP 
+Europe NNP 
 
+Both NNP 
+Treasury NNP 
+Fed NNP 
 
+In NNP 
+Tokyo NNP 
+Monday NNP 
 
+After NNP 
 
+In NNP 
+Bush NNP 
+Treasury NNP 
+Secretary NNP 
+Brady NNP 
+Undersecretary NNP 
+Robert NNP 
+Glauber NNP 
+Assistant NNP 
+Secretary NNP 
+Mullins NNP 
 
+The NNP 
+Brady NNP 
+Commission NNP 
+Mr. NNP 
+Brady NNP 
 
+As NNP 
 
+Mr. NNP 
+Brady NNP 
+White NNP 
+House NNP 
+Friday NNP 
 
+He NNP 
+Mr. NNP 
+Mullins NNP 
+New NNP 
+York NNP 
+Chicago NNP 
 
+Later NNP 
+Mr. NNP 
+Brady NNP 
+Mr. NNP 
+Greenspan NNP 
+SEC NNP 
+Chairman NNP 
+Richard NNP 
+Breeden NNP 
+New NNP 
+York NNP 
 
 Aides NNP 
 
+Administration NNP 
+President NNP 
+Bush NNP 
+Friday NNP 
+Camp NNP 
+David NNP 
 
-consultations OOV2 
+He NNP 
+consultations VBZ 
+Mr. NNP 
+Brady NNP 
+Michael NNP 
+Boskin NNP 
 
-render OOV1 
+Government NNP 
+render DEFAULT2 
 
+Treasury NNP 
+Undersecretary NNP 
+David NNP 
+Mulford NNP 
+Business NNP 
+Council NNP 
+Hot NNP 
+Springs NNP 
+Va. NNP 
 
+And NNP 
+Fed NNP 
+Chairman NNP 
+Greenspan NNP 
+American NNP 
+Bankers NNP 
+Association NNP 
+Washington NNP 
 
+Ironically NNP 
+Mr. NNP 
+Greenspan NNP 
+Dallas NNP 
+Oct. NNP 
 
+He NNP 
+Dallas NNP 
+Oct. NNP 
+Washington NNP 
 
+Following NNP 
+Friday NNP 
 
+Also NNP 
 
+As NNP 
+Thursday NNP 
 
+Translated NNP 
+Commercial NNP 
+Rand NNP 
 
+In NNP 
+Canadian NNP 
 
+As NNP 
+Wednesday NNP 
 
-g OOV1 
-10.06.89 OOV1 
+10.06.89 DEFAULT2 
 NAV:22.15 NNP 
 
+Not NNP 
 
+Put NNP 
 
-breaths OOV1 
+Walk NNP 
+breaths VBZ 
 
 Resist NNP 
 
+That NNP 
+Friday NNP 
+Dow NNP 
+Jones NNP 
+Industrial NNP 
+Average NNP 
 
+No NNP 
 
+And NNP 
 
+But NNP 
+Do NNP 
 
+Investors NNP 
 
+Even NNP 
+Friday NNP 
+Dow NNP 
+Jones NNP 
+Industrial NNP 
+Average NNP 
+Oct. NNP 
 
+Panic NNP 
 
+The NNP 
+Depression NNP 
 
-massacres OOV2 
+The NNP 
+October NNP 
+massacres NNS 
 
+Indeed NNP 
+Friday NNP 
 
+There NNP 
+Stephen NNP 
+B. NNP 
+Timbers NNP 
+Chicago-based NNP 
+Kemper NNP 
+Financial NNP 
+Services NNP 
+Inc NNP 
 
-pat OOV1 
+But NNP 
 
+When NNP 
+Steve NNP 
+Janachowski NNP 
+San NNP 
+Francisco NNP 
+Brouwer NNP 
+Janachowski NNP 
 
-pundits OOV2 
+Even NNP 
+pundits NNS 
+Wait NNP 
 
+The NNP 
+Marshall NNP 
+B. NNP 
+Front NNP 
+Stein NNP 
+Roe NNP 
 Farnham NNP 
+Inc. NNP 
+Chicago-based NNP 
 
+On NNP 
+Mr. NNP 
+Front NNP 
 
+On NNP 
 
+This NNP 
 
+So NNP 
 
+Roger NNP 
+Ibbotson NNP 
+Yale NNP 
+University NNP 
+Ibbotson NNP 
+Associates NNP 
+Inc. NNP 
+My NNP 
 
+Generally NNP 
 
+Mr. NNP 
+Ibbotson NNP 
 
+But NNP 
 
+John NNP 
+Snyder NNP 
+Los NNP 
+Angeles NNP 
+National NNP 
+Association NNP 
+Investors NNP 
+Corp. NNP 
 
+We NNP 
 
-panics OOV1 
+We NNP 
+panics NNS 
 
-panics OOV2 
+And NNP 
+panics NNS 
 
+One NNP 
+Friday NNP 
 
+Over NNP 
 
+Friday NNP 
+Alfred NNP 
+Goldman NNP 
+A.G. NNP 
+Edwards NNP 
+Sons NNP 
+St. NNP 
+Louis NNP 
 
+Stocks NNP 
 
+His NNP 
+You NNP 
 
+James NNP 
+Craig NNP 
+Denver-based NNP 
 Janus NNP 
+Fund NNP 
+Friday NNP 
 
+Stocks NNP 
+Hershey NNP 
+Foods NNP 
+Corp. NNP 
+Wal-Mart NNP 
+Stores NNP 
+Inc. NNP 
+American NNP 
+International NNP 
+Group NNP 
+Inc. NNP 
+Federal NNP 
+National NNP 
+Mortgage NNP 
+Association NNP 
 
+And NNP 
+Mr. NNP 
+Craig NNP 
 
+It NNP 
+I NNP 
+I NNP 
 
+He NNP 
 
+Mr. NNP 
+Front NNP 
+Stein NNP 
+Roe NNP 
 
+His NNP 
 
+Other NNP 
 
+They NNP 
 
+Many NNP 
 
+On NNP 
+Thursday NNP 
+William NNP 
+Fleckenstein NNP 
+Seattle NNP 
+
+He NNP 
+
+In NNP 
+Mr. NNP 
 Fleckenstein NNP 
 
+He NNP 
 
+So NNP 
+rekindled NNS 
+
+As NNP 
+Mr. NNP 
 Fleckenstein NNP 
+I NNP 
 
-
-rekindled OOV1 
-
-Fleckenstein NNP 
-
+David NNP 
+M. NNP 
+Jones NNP 
 Aubrey NNP 
+G. NNP 
 Lanston NNP 
+Co. NNP 
+Treasury NNP 
 
+He NNP 
+Oct. NNP 
 
+One NNP 
 
+A NNP 
 
+Whether NNP 
 
+The NNP 
 
+Thus NNP 
 
+The NNP 
+Friday NNP 
 
+For NNP 
+Eli NNP 
+Lilly NNP 
+Co. NNP 
+Thursday NNP 
+Friday NNP 
 
-put-option OOV2 
+But NNP 
+put-option DEFAULT2 
 
+It NNP 
 
-praiseworthy OOV1 
+But NNP 
+praiseworthy DEFAULT2 
 
+Paying NNP 
 
+James NNP 
+A. NNP 
+White NNP 
+Tom NNP 
+Herman NNP 
 
+Coldwell NNP 
+Banker NNP 
+Commercial NNP 
+Group NNP 
 
+The NNP 
+April NNP 
+Sears NNP 
+Roebuck NNP 
+Co. NNP 
 
+Though NNP 
+James NNP 
+J. NNP 
+Didion NNP 
+We NNP 
+
+He NNP 
+fork DEFAULT2 
+
+They NNP 
+Mr. NNP 
 Didion NNP 
 
-fork OOV2 
+It NNP 
 
-Didion NNP 
+He NNP 
 
+We NNP 
 
+The NNP 
 
+Employees NNP 
 
+They NNP 
+Coldwell NNP 
+Banker NNP 
 
-
-
+Those NNP 
+Coldwell NNP 
+Banker NNP 
+Carlyle NNP 
+Group NNP 
+Washington NNP 
+D.C. NNP 
+Frank NNP 
+Carlucci NNP 
+Frederic NNP 
+V. NNP 
 Malek NNP 
+Carlyle NNP 
+Group NNP 
+Mellon NNP 
+Family NNP 
+Trust NNP 
+Pittsburgh NNP 
+Westinghouse NNP 
+Credit NNP 
+Corp. NNP 
+Westinghouse NNP 
+Electric NNP 
+Corp. NNP 
+Bankers NNP 
+Trust NNP 
+Co. NNP 
+Bankers NNP 
+Trust NNP 
+New NNP 
+York NNP 
+Corp. NNP 
+Japanese NNP 
+Tokyo-based NNP 
+Sumitomo NNP 
+Bank NNP 
 
+Bankers NNP 
+Trust NNP 
+Sumitomo NNP 
+Sears NNP 
+Roebuck NNP 
 
+Coldwell NNP 
+Banker NNP 
 
+The NNP 
+Gary NNP 
+Wilson NNP 
+Walt NNP 
+Disney NNP 
+Co. NNP 
+James NNP 
+Montgomery NNP 
+Great NNP 
+Western NNP 
+Financial NNP 
+Corp. NNP 
+Peter NNP 
 Ubberroth NNP 
 
+The NNP 
+U.S. NNP 
+Chicago NNP 
+Mercantile NNP 
+Exchange NNP 
 
+Under NNP 
+Merc NNP 
+Friday NNP 
+Dow NNP 
+Jones NNP 
+Industrial NNP 
+Average NNP 
 
+The NNP 
+New NNP 
+York NNP 
+Stock NNP 
+Exchange NNP 
+Merc NNP 
 
+That NNP 
 
+The NNP 
+Big NNP 
+Board NNP 
 
+Several NNP 
+Friday NNP 
 
+But NNP 
 
+A NNP 
 
+A NNP 
 
+Most NNP 
+Brady NNP 
+Task NNP 
+Force NNP 
+Treasury NNP 
 
-cross-market OOV2 
+The NNP 
+Brady NNP 
+cross-market DEFAULT1 
 
+But NNP 
 
+Big NNP 
+Board NNP 
+Merc NNP 
+Merc NNP 
+Standard NNP 
+Poor NNP 
 
-2:07 OOV1 
-2:30 OOV1 
+Those NNP 
+2:07 DEFAULT1 
+2:30 DEFAULT2 
 CDT NNP 
-2:45 OOV2 
+2:45 DEFAULT1 
 
+During NNP 
+S&P NNP 
+Big NNP 
+Board NNP 
 Sidecar NNP 
 
-computer-generated OOV2 
+That NNP 
 
-well-drilled OOV1 
+One NNP 
+Merc NNP 
+S&P NNP 
+well-drilled VBZ 
 
+You NNP 
+Howard NNP 
+Dubnow NNP 
+Merc NNP 
+
+There NNP 
+
+The NNP 
+
+After NNP 
+S&P NNP 
+30-point DEFAULT2 
+
+Traders NNP 
+Dow NNP 
+Mr. NNP 
 Dubnow NNP 
 
+One NNP 
+S&P NNP 
 
+But NNP 
+250-point DEFAULT1 
+Chicago NNP 
+Board NNP 
+Trade NNP 
+Major NNP 
+Market NNP 
+Index NNP 
 
-30-point OOV2 
+The NNP 
+MMI NNP 
+S&P NNP 
 
-Dubnow NNP 
+The NNP 
 
+The NNP 
+remake DEFAULT1 
 
-250-point OOV1 
+In NNP 
+October NNP 
+Washington NNP 
+awash DEFAULT1 
 
+Over NNP 
 
+In NNP 
 
-remake OOV2 
+Few NNP 
 
-awash OOV1 
+At NNP 
+Capitol NNP 
+Hill NNP 
 
-
-
-
-
+There NNP 
+Federal NNP 
+Judge NNP 
+Stanley NNP 
 Sporkin NNP 
-barnacles OOV1 
+barnacles NNS 
 
+And NNP 
+New NNP 
+York NNP 
+Stock NNP 
+Exchange NNP 
 
+When NNP 
+Brady NNP 
+Task NNP 
+Force NNP 
+January NNP 
 
 Arguing NNP 
-marketplaces OOV1 
-super-regulator OOV1 
-unify OOV2 
+marketplaces NNS 
+super-regulator DEFAULT2 
+unify DEFAULT2 
 
+Only NNP 
 
+The NNP 
+Reagan NNP 
+White NNP 
+House NNP 
+Brady NNP 
+Working NNP 
+Group NNP 
+Financial NNP 
+Markets NNP 
 
+In NNP 
+May NNP 
+Working NNP 
+Group NNP 
+Federal NNP 
+Reserve NNP 
+Treasury NNP 
+Securities NNP 
+Exchange NNP 
+Commission NNP 
+Commodity NNP 
+Futures NNP 
+Trading NNP 
+Commission NNP 
 
+After NNP 
+Dow NNP 
+Jones NNP 
+Industrial NNP 
+Average NNP 
 
-sops OOV2 
-interventionists OOV1 
+Privately NNP 
+sops VBZ 
+interventionists NNS 
 
+After NNP 
+Dow NNP 
 
+Circuit NNP 
 
+If NNP 
+S&P NNP 
 
+If NNP 
+Dow NNP 
+Industrials NNP 
 
+If NNP 
+S&P NNP 
+DJIA NNP 
 
+On NNP 
+NYSE NNP 
 
+If NNP 
+S&P NNP 
 
+If NNP 
+Dow NNP 
+Industrials NNP 
+Big NNP 
+Board NNP 
 
+S&P NNP 
+MMI NNP 
 
+If NNP 
+DJIA NNP 
+Big NNP 
+Board NNP 
 
+Trading NNP 
+MMI NNP 
+S&P NNP 
 
+Brady NNP 
+Task NNP 
+Force NNP 
+Jan. NNP 
 
 Establish NNP 
 
 Unify NNP 
-trade-clearing OOV1 
+trade-clearing VBZ 
 
+Make NNP 
 
+SEC NNP 
+May NNP 
 
 Require NNP 
 
-risk-taking OOV1 
+Give NNP 
+SEC NNP 
+risk-taking NNS 
 
 Transfer NNP 
-stock-related OOV1 
+stock-related VBZ 
+SEC NNP 
+CFTC NNP 
 
 Opposed NNP 
+SEC NNP 
 
+Give NNP 
+SEC NNP 
+SEC NNP 
 
+Congressional NNP 
 
 Create NNP 
 
+Breaking NNP 
+Soviet NNP 
+American NNP 
 
+There NNP 
+Nikolai NNP 
+I. NNP 
 Lutsenko NNP 
 Nika NNP 
+TV NNP 
 Nedelya NNP 
 
+The NNP 
 
+Mr. NNP 
 Lutsenko NNP 
 Nedelya NNP 
+U.S. NNP 
+U.S. NNP 
+Soviet NNP 
+Union NNP 
 
 Nedelya NNP 
+Mr. NNP 
 Lutsenko NNP 
+John NNP 
+Denver NNP 
+Colorado NNP 
 
+Even NNP 
 Nika NNP 
+Communist NNP 
 
+South NNP 
+Africa NNP 
+National NNP 
+Union NNP 
+Mineworkers NNP 
+De NNP 
+Beers NNP 
+Consolidated NNP 
+Mines NNP 
+Ltd. NNP 
 
+De NNP 
+Beers NNP 
 
-deadlock OOV2 
+The NNP 
+deadlock DEFAULT2 
+De NNP 
+Beers NNP 
 
-pinball-parlor OOV2 
+Japan NNP 
+Socialist NNP 
+Party NNP 
+pinball-parlor DEFAULT2 
 
+The NNP 
+Parliament NNP 
+Liberal NNP 
+Democratic NNP 
+Party NNP 
 Japanese-style NNP 
-infiltrated OOV1 
+infiltrated NNS 
 
 Tsuruo NNP 
+Yamaguchi NNP 
+Socialist NNP 
+Party NNP 
 
+The NNP 
+World NNP 
 Wide NNP 
+Fund NNP 
+Nature NNP 
+Spain NNP 
+Argentina NNP 
+Thailand NNP 
+Indonesia NNP 
 
+A NNP 
 U.N.-sponsored NNP 
-parakeets OOV1 
-orchids OOV2 
+Convention NNP 
+International NNP 
+Trade NNP 
+Endangered NNP 
+Species NNP 
+Lausanne NNP 
+parakeets VBZ 
+orchids NNS 
 
+Fund NNP 
+Simon NNP 
 Lyster NNP 
 
-frigate OOV2 
-torpedoed OOV1 
+A NNP 
+NATO NNP 
+frigate DEFAULT2 
+torpedoed VBZ 
 
+Britain NNP 
+France NNP 
+Italy NNP 
+East-West NNP 
 
+Small NNP 
+Britain NNP 
+Labor NNP 
+Party NNP 
 
-affinity OOV2 
+A NNP 
+affinity DEFAULT2 
+Tories NNP 
 
+Labor NNP 
+Visa NNP 
+British NNP 
 
+Labor NNP 
 
-high-interest-rate OOV1 
+As NNP 
+Britain NNP 
+high-interest-rate DEFAULT2 
+Labor NNP 
 Co-operative NNP 
+Bank NNP 
 
-year-long OOV2 
-harnessing OOV2 
+China NNP 
+year-long DEFAULT1 
+harnessing VBZ 
 
-non-staple OOV2 
+The NNP 
+China NNP 
+Daily NNP 
+non-staple DEFAULT1 
+December NNP 
 
-yuan OOV2 
+The NNP 
+State NNP 
+Statistical NNP 
+Bureau NNP 
+yuan DEFAULT1 
 
+The NNP 
 
+The NNP 
 
+Economists NNP 
 
+In NNP 
+Russian NNP 
 Orthodox NNP 
-priests OOV2 
-400th OOV1 
-patriarchate OOV2 
-15th-century OOV2 
+priests NNS 
+400th DEFAULT1 
+Moscow NNP 
+patriarchate DEFAULT2 
+Kremlin NNP 
+15th-century DEFAULT1 
 Uspensky NNP 
-crowned OOV1 
+Cathedral NNP 
+crowned NNS 
 
-34-foot-tall OOV2 
+A NNP 
+34-foot-tall DEFAULT1 
 Buddha NNP 
+Hong NNP 
+Kong NNP 
+China NNP 
 
+The NNP 
 Sik NNP 
+Chi NNP 
 Wan NNP 
 Po NNP 
+Lin NNP 
 Monastery NNP 
+Hong NNP 
+Kong NNP 
 
+It NNP 
+Last NNP 
+April NNP 
+Steven NNP 
+B. NNP 
 Iken NNP 
+Justin NNP 
+Products NNP 
+Inc. NNP 
 
+It NNP 
+Sony NNP 
+Mr. NNP 
 Iken NNP 
-prototypes OOV1 
+prototypes NNS 
 
 Replied NNP 
+Justin NNP 
+Exactly NNP 
 
+The NNP 
+Justin NNP 
+Sony NNP 
+Corp. NNP 
+Japan NNP 
+My NNP 
+First NNP 
+Sony NNP 
 
+The NNP 
 
-underselling OOV1 
+But NNP 
+underselling VBZ 
+Sony NNP 
+Justin NNP 
 
+Mr. NNP 
 Iken NNP 
+Sony NNP 
 
+His NNP 
 
+Seeking NNP 
+Justin NNP 
+My NNP 
+Own NNP 
+U.S. NNP 
+Sony NNP 
+May NNP 
+Manhattan NNP 
 
+Since NNP 
+Leonard NNP 
+Kaye NNP 
+Justin NNP 
 
+I NNP 
 
+It NNP 
+I NNP 
 
+His NNP 
+Sony NNP 
 
-wrathful OOV2 
+Justin NNP 
+wrathful DEFAULT2 
 
+With NNP 
+Japan NNP 
+U.S. NNP 
 
-undersold OOV2 
-look-alike OOV2 
+Americans NNP 
+undersold DEFAULT1 
+look-alike DEFAULT2 
+Japan NNP 
 
-premium-priced OOV1 
-look-alike OOV1 
+Now NNP 
+Sony NNP 
+premium-priced NNS 
+U.S. NNP 
+look-alike DEFAULT1 
+China NNP 
 
+The NNP 
+Justin NNP 
+Sony NNP 
+Sony NNP 
+Lewis NNP 
+H. NNP 
+Eslinger NNP 
+Sony NNP 
 Rubik NNP 
 Cube NNP 
 
+Sony NNP 
 
+If NNP 
+Sony NNP 
+Mr. NNP 
+Eslinger NNP 
 
-grind OOV1 
+At NNP 
+They NNP 
+grind DEFAULT1 
 
+Mr. NNP 
+Kaye NNP 
+Sony NNP 
 
+I NNP 
+I NNP 
 
+Today NNP 
+U.S. NNP 
+Judge NNP 
+John NNP 
+E. NNP 
+Sprizzo NNP 
+Sony NNP 
+July NNP 
 
+The NNP 
+Sony NNP 
+Sony NNP 
 
+Though NNP 
+Justin NNP 
 
+But NNP 
+Justin NNP 
 
+I NNP 
+I NNP 
+Mr. NNP 
+Kaye NNP 
+Justin NNP 
 
+Mr. NNP 
+Kaye NNP 
 Capetronic NNP 
+Inc. NNP 
+Taiwan NNP 
 
+With NNP 
+Justin NNP 
+Hong NNP 
+Kong NNP 
+Mickey NNP 
+Mouse NNP 
 
+The NNP 
+Mr. NNP 
+Kaye NNP 
 
-teddy OOV2 
+Justin NNP 
 
+Like NNP 
+Mr. NNP 
+Kaye NNP 
+Sony NNP 
 Walkman NNP 
+My NNP 
+First NNP 
+Sony NNP 
 
-brightly OOV2 
+The NNP 
+brightly DEFAULT2 
 
+In NNP 
+Sony NNP 
 
+Sony NNP 
+Mr. NNP 
+Kaye NNP 
 
+His NNP 
+Sony NNP 
 
+Sony NNP 
+Justin NNP 
 
-fire-engine OOV2 
+To NNP 
+fire-engine DEFAULT1 
+Charles NNP 
+E. NNP 
+Baxley NNP 
+Justin NNP 
 
-prototypes OOV2 
-fairs OOV1 
+By NNP 
+Justin NNP 
+prototypes NNS 
+fairs VBZ 
+Hong NNP 
+Kong NNP 
+New NNP 
+York NNP 
+Sony NNP 
 
+Indeed NNP 
+Sony NNP 
+Sony NNP 
+Justin NNP 
+Mr. NNP 
+Baxley NNP 
+Sony NNP 
+April NNP 
 
+He NNP 
+Federal NNP 
+Trade NNP 
+Commission NNP 
+U.S. NNP 
+Justice NNP 
+Department NNP 
 
+But NNP 
+Justin NNP 
+Mr. NNP 
+Eslinger NNP 
+Sony NNP 
 
 Recalls NNP 
+Mr. NNP 
+Baxley NNP 
+Our NNP 
 
+We NNP 
+Sony NNP 
 
+Sony NNP 
 
-skirmished OOV1 
+Off NNP 
+skirmished VBZ 
 
-strong-arm OOV2 
+And NNP 
+Justin NNP 
+Once NNP 
+Sony NNP 
+strong-arm DEFAULT2 
+American NNP 
 
+Sony NNP 
 
+He NNP 
+Sony NNP 
+My NNP 
+First NNP 
+Sony NNP 
 
+Justin NNP 
+Sony NNP 
 
-debilitating OOV2 
+Whatever NNP 
+Sony NNP 
+debilitating NNS 
+Justin NNP 
 
+It NNP 
 
+Mr. NNP 
+Kaye NNP 
 
+Of NNP 
+Sony NNP 
+Mr. NNP 
+Kaye NNP 
+They NNP 
 
+They NNP 
+I NNP 
+I NNP 
 
+For NNP 
 
+Charles NNP 
+H. NNP 
 Tenney NNP 
+II NNP 
 Unitil NNP 
-34,602 OOV2 
+Corp. NNP 
+34,602 DEFAULT1 
 Unitil NNP 
+Securities NNP 
+Exchange NNP 
+Commission NNP 
 
+The NNP 
+Thursday NNP 
 
+As NNP 
 Unitil NNP 
 Exeter NNP 
+N.H. NNP 
 Fitchburg NNP 
+Gas NNP 
+Electric NNP 
+Co. NNP 
 Fitchburg NNP 
+Mass. NNP 
+Boston-based NNP 
+Eastern NNP 
+Utilities NNP 
+Associates NNP 
 
+Eastern NNP 
+Utilities NNP 
 Unitil NNP 
 Fitchburg NNP 
+Gas NNP 
+Dec. NNP 
 
+Both NNP 
 
+Dresdner NNP 
+Bank NNP 
+AG NNP 
+West NNP 
+Germany NNP 
+Banque NNP 
+Internationale NNP 
+Placements NNP 
+French NNP 
+France NNP 
+Societe NNP 
+Generale NNP 
+Societe NNP 
+Bourses NNP 
+Francaises NNP 
 
+The NNP 
+West NNP 
+Germany NNP 
 
-156.82 OOV2 
+Dresdner NNP 
+BIP NNP 
+156.82 DEFAULT2 
 
+The NNP 
 
-9.69 OOV1 
+The NNP 
+Societe NNP 
+Generale NNP 
+Societe NNP 
+Generale NNP 
+Belgique NNP 
+S.A. NNP 
+9.69 DEFAULT2 
+Financiere NNP 
+Tradition NNP 
 
+Mexican NNP 
+Joel NNP 
 Rocha NNP 
 Garza NNP 
+Smith NNP 
+Laboratories NNP 
+Inc. NNP 
 
+In NNP 
+Securities NNP 
+Exchange NNP 
+Commission NNP 
+Mr. NNP 
 Rocha NNP 
 Garza NNP 
 Biscayne NNP 
 Syndicate NNP 
+Inc. NNP 
 Lahus NNP 
+II NNP 
+Inc. NNP 
 Lahus NNP 
+III NNP 
+Inc. NNP 
+Oct. NNP 
 
+Mr. NNP 
 Rocha NNP 
 Garza NNP 
 Clarendon NNP 
+Group NNP 
+Ltd. NNP 
 Biscayne NNP 
 Lahus NNP 
+II NNP 
 Lahus NNP 
-1,234,100 OOV1 
+III NNP 
+1,234,100 DEFAULT2 
 
+Mr. NNP 
 Rocha NNP 
 Garza NNP 
 
+In NNP 
+San NNP 
+Diego NNP 
+Smith NNP 
+Laboratories NNP 
+President NNP 
+Timothy NNP 
 Wollaeger NNP 
 
 Investcorp NNP 
-10-store OOV1 
+New NNP 
+York NNP 
+Sports NNP 
+Recreation NNP 
+Inc. NNP 
+10-store DEFAULT2 
+Sports NNP 
 Unlimited NNP 
 
+The NNP 
+Sports NNP 
+Recreation NNP 
+Oliver NNP 
+E. NNP 
+Richardson NNP 
 Investcorp NNP 
 
+Sports NNP 
 Unlimited NNP 
+Tampa NNP 
+Fla. NNP 
+July NNP 
 
+The NNP 
+Mr. NNP 
+Richardson NNP 
 
+In NNP 
+Sports NNP 
+Recreation NNP 
+Brunswick NNP 
+Corp. NNP 
+Skokie NNP 
+Ill NNP 
 
+In NNP 
+Mr. NNP 
+Richardson NNP 
 
+Hammond NNP 
+Co. NNP 
+Newport NNP 
+Beach NNP 
+Calif. NNP 
+Fidelity NNP 
+National NNP 
+Financial NNP 
+Inc. NNP 
+Oct. NNP 
 
+The NNP 
+Thursday NNP 
 
+Hammond NNP 
+Fidelity NNP 
+Irvine NNP 
+Calif. NNP 
 
-23.57 OOV1 
+Fidelity NNP 
+Hammond NNP 
+23.57 DEFAULT2 
 
 Statements NNP 
+Securities NNP 
+Exchange NNP 
+Commission NNP 
+Hammond NNP 
 
+Giant NNP 
+Group NNP 
+Ltd. NNP 
 Aspen NNP 
-connector OOV2 
+Airways NNP 
+Denver-based NNP 
+United NNP 
+Express NNP 
+connector DEFAULT2 
+UAL NNP 
+Corp. NNP 
+United NNP 
+Airlines NNP 
 
+Giant NNP 
+Beverly NNP 
+Hills NNP 
+Calif. NNP 
+Hollywood NNP 
+Burt NNP 
+Sugarman NNP 
 Aspen NNP 
 
+Giant NNP 
 
+Giant NNP 
+Avmark NNP 
+Inc. NNP 
+Arlington NNP 
+Va.-based NNP 
 Aspen NNP 
 
+The NNP 
+Giant NNP 
 
+The NNP 
+Assurances NNP 
+Generales NNP 
+France NNP 
+Cie. NNP 
+Navigation NNP 
+Mixte NNP 
 
+Friday NNP 
+Bourse NNP 
+Wednesday NNP 
+Cie NNP 
+Financiere NNP 
+Paribas NNP 
+
+Both NNP 
+Paribas NNP 
+AGF NNP 
+Navigation NNP 
+Mixte NNP 
 
 AGF NNP 
 
+An NNP 
 AGF NNP 
+Paribas NNP 
 
-AGF NNP 
-
+Lockheed NNP 
+Aeronautical NNP 
+Systems NNP 
+Co. NNP 
+Lockheed NNP 
+Corp. NNP 
 Aermacchi NNP 
+S.p NNP 
+A. NNP 
 Varese NNP 
-trainers OOV1 
+Italy NNP 
+trainers NNS 
+U.S. NNP 
+Air NNP 
+Force NNP 
 
-trainers OOV2 
+The NNP 
+Air NNP 
+Force NNP 
+trainers VBZ 
 
+The NNP 
 T-37 NNP 
+Cessna NNP 
+Aircraft NNP 
+Co. NNP 
+General NNP 
+Dynamics NNP 
+Corp. NNP 
+Air NNP 
+Force NNP 
 
+Lockheed NNP 
+U.S. NNP 
+Navy NNP 
 T34C NNP 
-trainers OOV1 
+trainers NNS 
+Beech NNP 
+Aircraft NNP 
+Corp. NNP 
+Raytheon NNP 
+Corp NNP 
 
+Under NNP 
+Lockheed NNP 
 Aermacchi NNP 
+Lockheed NNP 
 Aermacchi NNP 
 MB-339 NNP 
-tandem-trainer OOV1 
+tandem-trainer DEFAULT1 
 
-tandem-seat OOV1 
+Lockheed NNP 
+tandem-seat DEFAULT2 
+Marietta NNP 
+Ga. NNP 
+Air NNP 
+Force NNP 
 
+A NNP 
+Lockheed NNP 
+Burbank NNP 
+Calif. NNP 
+Air NNP 
+Force NNP 
 
-19-day OOV1 
+Striking NNP 
+19-day DEFAULT1 
+Peugeot NNP 
+S.A. NNP 
+France NNP 
+Friday NNP 
 
+But NNP 
+Peugeot NNP 
+Finance NNP 
+Ministry NNP 
 
-metalworkers OOV2 
+The NNP 
+Peugeot NNP 
+metalworkers VBZ 
+Mulhouse NNP 
 
+Their NNP 
+Peugeot NNP 
+Paris NNP 
 
+The NNP 
+Ministry NNP 
+Finance NNP 
 Frenchman NNP 
 
-job-rating OOV1 
+Ministry NNP 
+job-rating VBZ 
 
+The NNP 
+Friday NNP 
 
+Trading NNP 
 
+Stunned NNP 
 
+The NNP 
+Martin NNP 
+D. NNP 
+Sass NNP 
 
+This NNP 
 
-stoke OOV1 
+Junk NNP 
+stoke DEFAULT2 
+Dow NNP 
+Jones NNP 
+Industrial NNP 
+Average NNP 
+Oct. NNP 
 
 Simultaneously NNP 
+U.S. NNP 
 
-pervaded OOV1 
+But NNP 
+pervaded VBZ 
+Friday NNP 
+John NNP 
 Lonski NNP 
+Moody NNP 
+Investors NNP 
+Service NNP 
+Inc NNP 
 
+For NNP 
+Southland NNP 
+Corp. NNP 
+Goldman NNP 
+Sachs NNP 
+Co. NNP 
 
-7-11 OOV1 
+But NNP 
+Goldman NNP 
+Southland NNP 
+7-11 DEFAULT1 
 
+Goldman NNP 
 
+Junk NNP 
 
+The NNP 
+Campeau NNP 
+Corp. NNP 
+U.S. NNP 
 
+Campeau NNP 
 Bloomingdales NNP 
 
+Now NNP 
+Ethan NNP 
+Allen NNP 
+TW NNP 
+Services NNP 
+York NNP 
+International NNP 
 
+The NNP 
+Michael NNP 
+Harkins NNP 
+Levy NNP 
+Harkins NNP 
 
+You NNP 
 
+In NNP 
+Friday NNP 
+R. NNP 
+Douglas NNP 
 Carleton NNP 
-hysteria OOV2 
+First NNP 
+Boston NNP 
+Corp. NNP 
+hysteria DEFAULT1 
 
+In NNP 
+August NNP 
+First NNP 
+Boston NNP 
+Ohio NNP 
+Mattress NNP 
 
+The NNP 
+King NNP 
 Penniman NNP 
+McCarthy NNP 
 Crisanti NNP 
 Maffei NNP 
+Xerox NNP 
+Financial NNP 
+Services NNP 
 
+Indeed NNP 
+Moody NNP 
+Friday NNP 
 
+In NNP 
+Treasury NNP 
 
+The NNP 
+March NNP 
+Technical NNP 
+Data NNP 
+Global NNP 
+Markets NNP 
+Group NNP 
 
-7.16 OOV1 
+The NNP 
+Treasury NNP 
+7.16 DEFAULT2 
 
+The NNP 
+Dow NNP 
+Jones NNP 
+Industrial NNP 
+Average NNP 
 
+When NNP 
+Maria NNP 
+Ramirez NNP 
+Drexel NNP 
+Burnham NNP 
+Lambert NNP 
+Inc NNP 
 
+Nevertheless NNP 
+Federal NNP 
+Reserve NNP 
 
+This NNP 
+William NNP 
+Sullivan NNP 
+Dean NNP 
+Witter NNP 
+Reynolds NNP 
+Inc. NNP 
+New NNP 
+York NNP 
 
+Any NNP 
 
+Robert NNP 
+Dow NNP 
+Lord NNP 
 Abbett NNP 
+Co. NNP 
 
+It NNP 
 
-creamed OOV2 
+He NNP 
+The NNP 
+creamed VBZ 
 
+I NNP 
+I NNP 
 
+There NNP 
+Treasurys NNP 
 
+Even NNP 
 
+For NNP 
+Petrolane NNP 
+Gas NNP 
+Services NNP 
+L.P. NNP 
+First NNP 
+Boston NNP 
 
+A NNP 
+Turner NNP 
+Broadcasting NNP 
+System NNP 
+Inc NNP 
+Drexel NNP 
 
+First NNP 
+Boston NNP 
+November NNP 
+December NNP 
 
+That NNP 
+Mr. NNP 
 Carleton NNP 
+First NNP 
+Boston NNP 
 
+I NNP 
+Turner NNP 
+Raymond NNP 
+Minella NNP 
+Merrill NNP 
+Lynch NNP 
+Co NNP 
 
+When NNP 
 
-well-structured OOV1 
+There NNP 
+well-structured NNS 
 
+But NNP 
 
+Michael NNP 
+McNamara NNP 
+Kemper NNP 
+Financial NNP 
+Services NNP 
 
+Last NNP 
 
+This NNP 
 
-iota OOV2 
+And NNP 
+iota DEFAULT1 
 
+However NNP 
+Mr. NNP 
+McNamara NNP 
 
+For NNP 
 
+The NNP 
+Campeau NNP 
+Olympia NNP 
+York NNP 
+Mr. NNP 
+Minella NNP 
+Merrill NNP 
+Lynch NNP 
 
+That NNP 
+What NNP 
 
+Well NNP 
+Campeau NNP 
 
+Despite NNP 
 
+In NNP 
+June NNP 
+New NNP 
+York-based NNP 
+Integrated NNP 
+Resources NNP 
+Inc. NNP 
 
+In NNP 
+July NNP 
+Southmark NNP 
+Corp. NNP 
+Dallas-based NNP 
+U.S. NNP 
 
+By NNP 
+July NNP 
+Treasury NNP 
 
+In NNP 
+August NNP 
+Resorts NNP 
+International NNP 
+Inc. NNP 
 
+In NNP 
+September NNP 
+Campeau NNP 
+Lomas NNP 
+Financial NNP 
+Corp. NNP 
 
+Meantime NNP 
 
+Moody NNP 
 
+In NNP 
+Federal NNP 
+Deposit NNP 
+Insurance NNP 
+Corp NNP 
 
+The NNP 
+James NNP 
+Grant NNP 
+Grant NNP 
+Interest NNP 
+Rate NNP 
+Observer NNP 
 
+What NNP 
 
+Businesses NNP 
 
-wrenching OOV2 
-readjustment OOV2 
-speculative-grade OOV1 
+What NNP 
+wrenching VBZ 
+readjustment DEFAULT1 
+speculative-grade DEFAULT1 
 
+Friday NNP 
+Market NNP 
+Activity NNP 
 
+Prices NNP 
+Treasury NNP 
 
+The NNP 
+Treasury NNP 
+EDT NNP 
+Thursday NNP 
 
+The NNP 
+March NNP 
+Technical NNP 
+Data NNP 
+Global NNP 
+Markets NNP 
+Group NNP 
 
+The NNP 
 
+Treasurys NNP 
+September NNP 
 
+Bond NNP 
 
-eying OOV2 
+Many NNP 
+eying NNS 
+Federal NNP 
+Reserve NNP 
+October NNP 
 
+Prices NNP 
+Treasury NNP 
 
+Mortgage NNP 
+Government NNP 
+National NNP 
+Mortgage NNP 
+Association NNP 
 
-9.28 OOV2 
+The NNP 
+Ginnie NNP 
+Mae NNP 
+November NNP 
+9.28 DEFAULT2 
 
+Investment-grade NNP 
 
-higher-quality OOV2 
+But NNP 
+higher-quality DEFAULT1 
 
+And NNP 
+Tennessee NNP 
+Valley NNP 
+Authority NNP 
 
+Despite NNP 
+TVA NNP 
 
+One NNP 
 
+Municipal NNP 
 
+Roger NNP 
 Lowenstein NNP 
 
+Friday NNP 
+October NNP 
 
+Still NNP 
+On NNP 
+Friday NNP 
+Washington NNP 
 
+The NNP 
+UAL NNP 
+UAL NNP 
 
+Still NNP 
+U.S. NNP 
 
-observation OOV2 
-ticker OOV1 
+This NNP 
+observation DEFAULT2 
+Dow NNP 
+Jones NNP 
+ticker DEFAULT1 
+Senate NNP 
+Democrats NNP 
 
-impacted OOV1 
+The NNP 
+impacted VBZ 
 
+And NNP 
+House NNP 
 
+An NNP 
+Friday NNP 
 
+There NNP 
 
-one-by-one OOV1 
-trickery OOV2 
+It NNP 
+Congress NNP 
+one-by-one DEFAULT2 
+trickery DEFAULT2 
 
+For NNP 
 
-fogged OOV1 
-smokescreens OOV1 
+Since NNP 
+Senate NNP 
+fogged VBZ 
+smokescreens NNS 
 
+Especially NNP 
+President NNP 
+Bush NNP 
+Panama NNP 
 
-sticky OOV2 
+To NNP 
+UAL NNP 
+Washington NNP 
+sticky DEFAULT2 
 
+As NNP 
 
+But NNP 
+Secretary NNP 
+Transportation NNP 
+Skinner NNP 
+KLM NNP 
+British NNP 
+Airways NNP 
 
+Worse NNP 
+Congress NNP 
+Skinner NNP 
 
-anti-airline OOV2 
+James NNP 
+Oberstar NNP 
+Minnesota NNP 
+Democrat NNP 
+Public NNP 
+Works NNP 
+Transportation NNP 
+Committee NNP 
+anti-airline DEFAULT1 
+American NNP 
+United NNP 
+Air NNP 
+Lines NNP 
 
+It NNP 
+Mr. NNP 
+Skinner NNP 
+U.S. NNP 
 
+So NNP 
+UAL NNP 
 
 Congratulations NNP 
+Mr. NNP 
+Secretary NNP 
+Mr. NNP 
+Congressman NNP 
 
-existance OOV1 
+In NNP 
+Danny NNP 
+Rostenkowski NNP 
+existance DEFAULT1 
 
+Even NNP 
+Treasury NNP 
 
-thankfully OOV1 
-1987-style OOV1 
+The NNP 
+Treasury NNP 
+thankfully DEFAULT2 
+1987-style DEFAULT1 
 
-binges OOV1 
+Also NNP 
+binges VBZ 
 
+They NNP 
 
+They NNP 
 
+The NNP 
+Fed NNP 
 
-liaison OOV1 
+The NNP 
+Big NNP 
+Board NNP 
+Chicago NNP 
+Board NNP 
+Trade NNP 
 
-underpriced OOV1 
+In NNP 
+underpriced NNS 
 
+There NNP 
+Washington NNP 
 
+But NNP 
 
+First NNP 
+Chicago NNP 
+Corp. NNP 
 
+The NNP 
+First NNP 
+National NNP 
+Bank NNP 
+Chicago NNP 
 
-foreign-loan OOV1 
+The NNP 
+foreign-loan DEFAULT1 
 
+First NNP 
+Chicago NNP 
 
+Despite NNP 
+First NNP 
+Chicago NNP 
 
-60.4 OOV2 
+During NNP 
+60.4 DEFAULT1 
+First NNP 
+Chicago NNP 
+Investment NNP 
+Advisors NNP 
 
+Combined NNP 
 
+Gains NNP 
+First NNP 
+Chicago NNP 
 
+Interest NNP 
 
+Greece NNP 
+Nov. NNP 
 
-misadventure OOV1 
-pseudosocialism OOV2 
-conservative-communist OOV2 
+For NNP 
+Greece NNP 
+misadventure DEFAULT2 
+pseudosocialism DEFAULT1 
+conservative-communist DEFAULT2 
+The NNP 
+Prime NNP 
+Minister NNP 
+Andreas NNP 
 Papandreou NNP 
-carcass OOV1 
+carcass NNS 
 
+In NNP 
+mid-June DEFAULT1 
 Greeks NNP 
 
-post-electoral OOV2 
-hagglings OOV2 
-miscegenation OOV2 
+The NNP 
+post-electoral DEFAULT2 
+hagglings NNS 
+miscegenation DEFAULT1 
+On NNP 
+New NNP 
+Democracy NNP 
+Party NNP 
 Constantine NNP 
 Mitsotakis NNP 
 
-quaint OOV1 
-pro-Soviet OOV1 
+On NNP 
+Coalition NNP 
+Left NNP 
+Progress NNP 
+quaint DEFAULT1 
+pro-Soviet DEFAULT2 
+Communist NNP 
+Party NNP 
+Greece NNP 
 Euro-Communist NNP 
 Hellenic NNP 
+Left NNP 
 
+The NNP 
 PASOK NNP 
+Mr. NNP 
 Papandreou NNP 
 
-ostensible OOV2 
-mop-up OOV1 
-purportedly OOV2 
+The NNP 
+ostensible DEFAULT2 
+mop-up DEFAULT1 
+purportedly DEFAULT2 
+Mr. NNP 
 Papandreou NNP 
 
-catharsis OOV1 
+In NNP 
+catharsis NNS 
 
-parte OOV1 
+When NNP 
+parte DEFAULT1 
 
-long-bubbling OOV2 
-bank-looting OOV2 
+With NNP 
+Greece NNP 
+long-bubbling VBZ 
+bank-looting NNS 
+Mr. NNP 
 Papandreou NNP 
-accuser OOV1 
-self-confessed OOV1 
-embezzler OOV2 
-residing OOV1 
+accuser DEFAULT2 
+George NNP 
+Koskotas NNP 
+Bank NNP 
+Crete NNP 
+self-confessed NNS 
+embezzler DEFAULT2 
+residing VBZ 
+Salem NNP 
+Mass. NNP 
+Greece NNP 
 
+Mr. NNP 
+Koskotas NNP 
 
-forthright OOV1 
+He NNP 
+forthright DEFAULT1 
 
+Nevertheless NNP 
+New NNP 
+Democracy NNP 
+Communist NNP 
 PASOK NNP 
 
-unanswered OOV2 
+Among NNP 
+unanswered NNS 
+Mr. NNP 
 Papandreou NNP 
-734,000 OOV2 
+Bank NNP 
+Crete NNP 
+734,000 DEFAULT2 
+Mr. NNP 
+Koskotas NNP 
 PASOK NNP 
-pinched OOV1 
+Mr. NNP 
+Koskotas NNP 
+pinched NNS 
 
+Two NNP 
+Koskotas NNP 
 PASOK NNP 
+Parliament NNP 
 
-eluding OOV1 
-drachmas OOV2 
+But NNP 
+eluding NNS 
+drachmas VBZ 
+Mr. NNP 
+Koskotas NNP 
+New NNP 
+Democracy NNP 
 
-circumstantial OOV2 
+In NNP 
+circumstantial DEFAULT2 
 PASOK NNP 
-clinching OOV2 
+clinching NNS 
 
+On NNP 
 Greeks NNP 
 EYP NNP 
 PASOK NNP 
 
+Despite NNP 
+Mr. NNP 
 Papandreou NNP 
 
+The NNP 
 
+The NNP 
 PASOK NNP 
 OKing NNP 
+F-16 NNP 
+Fighting NNP 
+Falcon NNP 
+Mirage NNP 
 U.S.based NNP 
+General NNP 
+Dynamics NNP 
+Corp. NNP 
+France NNP 
+Avions NNP 
+Marcel NNP 
+Dassault NNP 
 
+Naturally NNP 
+General NNP 
+Dynamics NNP 
+Dassault NNP 
+Greek NNP 
 
+So NNP 
+Mr. NNP 
 Mitsotakis NNP 
-chums OOV2 
-unwittingly OOV1 
+chums NNS 
+unwittingly DEFAULT2 
+Mr. NNP 
 Papandreou NNP 
-platter OOV1 
+platter DEFAULT1 
 PASOK NNP 
-traipse OOV1 
-Papandreou NNP 
-
-jinks OOV2 
-PASOK NNP 
+traipse DEFAULT1 
+Mr. NNP 
 Papandreou NNP 
 
-ousting OOV1 
+But NNP 
+jinks VBZ 
 PASOK NNP 
-thwarting OOV2 
+Mr. NNP 
+Papandreou NNP 
 
-enticed OOV1 
+First NNP 
+He NNP 
+Coalition NNP 
+Left NNP 
+Progress NNP 
+ousting NNS 
+PASOK NNP 
+thwarting NNS 
+Greece NNP 
+
+Then NNP 
+enticed NNS 
 PASOK NNP 
 
+Next NNP 
 PASOK NNP 
-well-respected OOV2 
+well-respected NNS 
+Communist NNP 
+Party NNP 
 
-disaffected OOV2 
+For NNP 
+disaffected VBZ 
+New NNP 
+Democracy NNP 
+Party NNP 
+Mr. NNP 
 Mitsotakis NNP 
 
+Thus NNP 
 PASOK NNP 
-scandal-stench OOV1 
-seals OOV2 
-harshest OOV1 
+scandal-stench DEFAULT1 
+seals NNS 
+harshest DEFAULT2 
 
 Crucial NNP 
+Greece NNP 
 
+The NNP 
+NATO NNP 
 
+Greece NNP 
+Common NNP 
+Market NNP 
 
-bilateral OOV2 
+Greece NNP 
+bilateral DEFAULT1 
+U.S. NNP 
 
+For NNP 
+U.S. NNP 
+Greece NNP 
+May NNP 
 
+Negotiations NNP 
+June NNP 
 
+Another NNP 
 Mohammed NNP 
 Rashid NNP 
+Palestinian NNP 
+U.S. NNP 
+Pan NNP 
+American NNP 
+Airways NNP 
 
+The NNP 
+Greek NNP 
 Rashid NNP 
+Greece NNP 
 
+The NNP 
 Greeks NNP 
+Greece NNP 
 
+That NNP 
 PASOK NNP 
+Greek NNP 
 PASOK NNP 
+Mr. NNP 
 Papandreou NNP 
-wild-eyed OOV1 
+wild-eyed NNS 
 
-lash-up OOV1 
+Yet NNP 
+lash-up DEFAULT2 
 
+If NNP 
+Mr. NNP 
 Papandreou NNP 
-hamstring OOV1 
-conservative-led OOV1 
+hamstring VBZ 
+conservative-led NNS 
 
+Also NNP 
+March NNP 
 
-glaringly OOV1 
+New NNP 
+Democracy NNP 
+glaringly DEFAULT1 
 PASOK NNP 
-clarity OOV2 
-rectification OOV1 
+clarity DEFAULT2 
+rectification DEFAULT2 
 
+As NNP 
+Mr. NNP 
 Papandreou NNP 
 
+He NNP 
 
-slingers OOV1 
-raked OOV1 
+But NNP 
+slingers NNS 
+raked NNS 
 
+Mr. NNP 
+Carpenter NNP 
+National NNP 
+Review NNP 
+Athens NNP 
 
+U.S. NNP 
+OFFICIALS NNP 
 MOVED NNP 
+Black NNP 
+Monday NNP 
+Friday NNP 
 
+Fed NNP 
+Chairman NNP 
+Greenspan NNP 
 
-mapped OOV1 
+Other NNP 
+U.S. NNP 
+mapped VBZ 
 
+Friday NNP 
+UAL NNP 
 
-2569.26 OOV2 
+The NNP 
+Dow NNP 
+Jones NNP 
+2569.26 DEFAULT1 
 
+The NNP 
+Treasury NNP 
 
+Japanese NNP 
+Monday NNP 
 
+The NNP 
+Tokyo NNP 
 
 Prospects NNP 
+UAL NNP 
 
+Many NNP 
 
-management-pilot OOV2 
+The NNP 
+UAL NNP 
+management-pilot DEFAULT2 
 
+The NNP 
+September NNP 
 
+Also NNP 
 
+A NNP 
+Senate NNP 
 
+Bush NNP 
+House-Senate NNP 
 
+General NNP 
+Motors NNP 
+North NNP 
+American NNP 
 
+U.S. NNP 
+October NNP 
+GM NNP 
 
+Warner NNP 
+Sony NNP 
+Peter NNP 
 Gruber NNP 
+Jon NNP 
+Peters NNP 
 
+The NNP 
+Sony NNP 
+U.S. NNP 
 
-shopping-center OOV2 
+Hooker NNP 
+U.S. NNP 
+shopping-center DEFAULT2 
 
+The NNP 
+Bonwit NNP 
+Teller NNP 
+B. NNP 
+Altman NNP 
 
+The NNP 
+Boeing NNP 
 
+America NNP 
+West NNP 
+Friday NNP 
+Houston NNP 
+Boeing NNP 
 
+Saatchi NNP 
+Saatchi NNP 
 
-guided-missile OOV2 
+British NNP 
+Aerospace NNP 
+France NNP 
+Thomson-CSF NNP 
+guided-missile DEFAULT2 
 
-steel-import OOV1 
-unsubsidized OOV2 
+New NNP 
+U.S. NNP 
+steel-import DEFAULT2 
+unsubsidized NNS 
 
+Japan NNP 
 
+Four NNP 
+S&Ls NNP 
 
+Markets NNP 
 
-251,170,000 OOV2 
+Stocks NNP 
+Volume NNP 
+251,170,000 DEFAULT2 
 
-2569.26 OOV1 
-1406.29 OOV2 
-78.06 OOV1 
-211.96 OOV2 
-7.29 OOV2 
+Dow NNP 
+Jones NNP 
+2569.26 DEFAULT2 
+1406.29 DEFAULT2 
+78.06 DEFAULT2 
+211.96 DEFAULT2 
+7.29 DEFAULT1 
 
-3421.29 OOV2 
+Bonds NNP 
+Shearson NNP 
+Lehman NNP 
+Hutton NNP 
+Treasury NNP 
+3421.29 DEFAULT1 
 
-129.87 OOV2 
-129.25 OOV2 
+Commodities NNP 
+Dow NNP 
+Jones NNP 
+129.87 DEFAULT2 
+129.25 DEFAULT1 
 
-1.8740 OOV1 
-0.0343 OOV1 
+Dollar NNP 
+1.8740 DEFAULT1 
+0.0343 DEFAULT1 
 
-concurrently OOV2 
+A NNP 
+San NNP 
+Francisco NNP 
+concurrently DEFAULT2 
 
+The NNP 
+Apple NNP 
+Computer NNP 
+Inc. NNP 
+Lisa NNP 
 
+Lawyers NNP 
 
+According NNP 
+Apple NNP 
+Lisa NNP 
 
+The NNP 
+Lisa NNP 
 
-63.50 OOV2 
+The NNP 
+Apple NNP 
+63.50 DEFAULT2 
 
-17.37 OOV2 
+But NNP 
+Lisa NNP 
+17.37 DEFAULT2 
 
+The NNP 
 
-counterbalanced OOV2 
+In NNP 
+San NNP 
+Francisco NNP 
+counterbalanced VBZ 
+Lisa NNP 
 
+Late NNP 
 
-pertains OOV1 
+However NNP 
+pertains VBZ 
+Lisa NNP 
 Twiggy NNP 
 
+The NNP 
 Twiggy NNP 
 
+Lawyers NNP 
+Apple NNP 
 
+The NNP 
+Patrick NNP 
 Grannon NNP 
+Los NNP 
+Angeles NNP 
+Greenfield NNP 
 Chimicles NNP 
 
+The NNP 
 
+Shareholders NNP 
+New NNP 
+York NNP 
 Milberg NNP 
+Weiss NNP 
 Bershad NNP 
 Specthrie NNP 
 Lerach NNP 
-petitioned OOV2 
+petitioned VBZ 
 
+They NNP 
+The NNP 
 
+NFL NNP 
 ORDERED NNP 
 
+The NNP 
+National NNP 
+Football NNP 
+League NNP 
+U.S. NNP 
+Football NNP 
+League NNP 
+NFL NNP 
 
+A NNP 
 USFL NNP 
+NFL NNP 
 
+But NNP 
 USFL NNP 
-trebled OOV2 
+trebled NNS 
 
+Last NNP 
+U.S. NNP 
+Court NNP 
+Appeals NNP 
+New NNP 
+York NNP 
 
+Harvey NNP 
+D. NNP 
 Myerson NNP 
 Myerson NNP 
 Kuhn NNP 
 Finley NNP 
 Kumble NNP 
 Wagner NNP 
+Heine NNP 
 Underberg NNP 
+Manley NNP 
 Myerson NNP 
+Casey NNP 
 
+Douglas NNP 
+R. NNP 
 Pappas NNP 
 Myerson NNP 
 Kuhn NNP 
@@ -1520,18 +4209,36 @@ USFL NNP
 
 Myerson NNP 
 Kuhn NNP 
-260,000 OOV1 
+260,000 DEFAULT1 
 
+The NNP 
 USFL NNP 
 
+Antitrust NNP 
 
+But NNP 
 Shepard NNP 
 Goldfein NNP 
+NFL NNP 
+U.S. NNP 
+Supreme NNP 
+Court NNP 
 
+Mr. NNP 
 Goldfein NNP 
+Skadden NNP 
+Arps NNP 
+Slate NNP 
+Meagher NNP 
+Flom NNP 
+New NNP 
+York NNP 
 USFL NNP 
+NFL NNP 
 
+The NNP 
 USFL NNP 
+Mr. NNP 
 Goldfein NNP 
 
 HOUSTON-CALGARY NNP 
@@ -1539,765 +4246,2236 @@ ALLIANCE NNP
 
 Fulbright NNP 
 Jaworski NNP 
+Houston NNP 
 Fenerty NNP 
-energy-industry OOV2 
+Robertson NNP 
+Fraser NNP 
+Hatch NNP 
+Calgary NNP 
+Alberta NNP 
+energy-industry DEFAULT1 
 
+The NNP 
 
+The NNP 
 
-fair-trade-related OOV1 
+But NNP 
+fair-trade-related VBZ 
+Gibson NNP 
 Gayle NNP 
-585-lawyer OOV1 
+Jr. NNP 
+585-lawyer DEFAULT2 
 Fulbright NNP 
 Jaworski NNP 
 
+In NNP 
 Fulbright NNP 
 Jaworski NNP 
+Washington NNP 
+D.C. NNP 
 
-80-lawyer OOV1 
+The NNP 
+80-lawyer DEFAULT2 
 Fenerty NNP 
+Robertson NNP 
+U.S. NNP 
+U.S. NNP 
+Canada NNP 
+Francis NNP 
+M. NNP 
 Saville NNP 
 Fenerty NNP 
+Robertson NNP 
 
+IN NNP 
+WHAT NNP 
+MAY NNP 
 SIGNAL NNP 
-1\/2-week OOV2 
+W.R. NNP 
+Grace NNP 
+Co. NNP 
+1\/2-week DEFAULT2 
+Pittsburgh NNP 
 
-respiratory OOV2 
+Mount NNP 
+Lebanon NNP 
+High NNP 
+School NNP 
+Pittsburgh NNP 
+Grace NNP 
+respiratory DEFAULT2 
 
-retardant OOV1 
+Grace NNP 
+retardant DEFAULT2 
 
+A NNP 
 
+FCC NNP 
 COUNSEL NNP 
 JOINS NNP 
+FIRM NNP 
 
+Diane NNP 
+S. NNP 
 Killory NNP 
-500-lawyer OOV1 
+500-lawyer DEFAULT1 
+Morrison NNP 
 Foerster NNP 
+Washington NNP 
+D.C. NNP 
+mid-November DEFAULT2 
 
-mass-media OOV1 
+She NNP 
+mass-media DEFAULT2 
+San NNP 
+Francisco-based NNP 
 
+Ms. NNP 
 Killory NNP 
+Federal NNP 
+Communications NNP 
+Commission NNP 
 
+She NNP 
+FCC NNP 
 
 RICHARD NNP 
+P. NNP 
 MAGURNO NNP 
+Eastern NNP 
+Airlines NNP 
+New NNP 
+York NNP 
+Lord NNP 
+Day NNP 
+Lord NNP 
+Barrett NNP 
+Smith NNP 
 
+Mr. NNP 
 Magurno NNP 
+Miami NNP 
+Houston-based NNP 
+Texas NNP 
+Air NNP 
+Corp. NNP 
 
+He NNP 
 
+Mr. NNP 
 Magurno NNP 
-200-lawyer OOV1 
+200-lawyer DEFAULT2 
+Washington NNP 
+D.C. NNP 
+New NNP 
+York NNP 
 
-31. OOV2 
-holiday-season OOV2 
+Apple NNP 
+Computer NNP 
+Inc. NNP 
+Oct. NNP 
+Dec. NNP 
+31. DEFAULT2 
+holiday-season DEFAULT2 
 
+Apple NNP 
+Apple NNP 
 IIGS NNP 
+Apple NNP 
+Monitor NNP 
+Macintosh NNP 
+Plus NNP 
+Macintosh NNP 
 SE NNP 
-cpu OOV1 
+Macintosh NNP 
+SE\/30 NNP 
+cpu DEFAULT1 
+Macintosh NNP 
+IIcx NNP 
+Apple NNP 
+Apple NNP 
 
-cpu OOV2 
+The NNP 
+cpu DEFAULT2 
 
+The NNP 
 
-million-mark OOV1 
+Matsushita NNP 
+Electric NNP 
+Industrial NNP 
+Co. NNP 
+Japan NNP 
+Siemens NNP 
+AG NNP 
+West NNP 
+Germany NNP 
+million-mark DEFAULT1 
 
-74.9 OOV1 
-25.1 OOV1 
+In NNP 
+Siemens NNP 
+74.9 DEFAULT2 
+Matsushita NNP 
+Matsushita NNP 
+Electronic NNP 
+Components NNP 
+Co. NNP 
+25.1 DEFAULT1 
 
+A NNP 
+June NNP 
 
+The NNP 
+Siemens NNP 
+Matsushita NNP 
+Components NNP 
+G.m.b NNP 
+H NNP 
 
+It NNP 
+Munich NNP 
 
+Matsushita NNP 
+Oct. NNP 
+Oct. NNP 
 
+Siemens NNP 
 
+The NNP 
+Matsushita NNP 
 
+Sales NNP 
 
+The NNP 
+West NNP 
+Germany NNP 
+Austria NNP 
+France NNP 
+Spain NNP 
 
+Roger NNP 
+Rosenblatt NNP 
+U.S. NNP 
+News NNP 
+World NNP 
+Report NNP 
+Friday NNP 
+
+Mr. NNP 
+Rosenblatt NNP 
+New NNP 
+York NNP 
+Washington NNP 
+
+Frankly NNP 
+I NNP 
+Mr. NNP 
 Rosenblatt NNP 
 
+In NNP 
+Mr. NNP 
 Rosenblatt NNP 
 
-Rosenblatt NNP 
-
-Rosenblatt NNP 
-
+But NNP 
+U.S. NNP 
+News NNP 
+Time NNP 
+Warner NNP 
+Inc. NNP 
+Time NNP 
+Washington NNP 
+Post NNP 
+Co. NNP 
 Newsweek NNP 
 
+Mortimer NNP 
+B. NNP 
 Zuckerman NNP 
+Mr. NNP 
 Rosenblatt NNP 
+Michael NNP 
+Ruby NNP 
+Merrill NNP 
 McLoughlin NNP 
 
+Mr. NNP 
+Ruby NNP 
+Ms. NNP 
 McLoughlin NNP 
 
+Mr. NNP 
 Zuckerman NNP 
-service-oriented OOV2 
+service-oriented VBZ 
 
+Mr. NNP 
 Rosenblatt NNP 
+Time NNP 
+U.S. NNP 
+News NNP 
+World NNP 
+Report NNP 
 
+The NNP 
 
+He NNP 
 
-839 OOV1 
+Avions NNP 
+Marcel NNP 
+Dassault-Breguet NNP 
+Aviation NNP 
+S.A. NNP 
+839 DEFAULT2 
 
-irregular OOV1 
+The NNP 
+French NNP 
+irregular DEFAULT1 
 
-8.734 OOV2 
-9.934 OOV1 
+It NNP 
+8.734 DEFAULT2 
+9.934 DEFAULT2 
 
+Still NNP 
 
-18.819 OOV2 
+For NNP 
+Dassault NNP 
+18.819 DEFAULT1 
 
-
-Keystone NNP 
-
-780,000 OOV1 
-Keystone NNP 
-
-Keystone NNP 
-
-
-
-Keystone NNP 
-
-3.15 OOV2 
-
-
-Keystone NNP 
-milion OOV1 
-
-
-230.5 OOV1 
-190.4 OOV1 
+The NNP 
 
 Keystone NNP 
-585,000 OOV2 
-413,000 OOV2 
+Consolidated NNP 
+Industries NNP 
+Inc. NNP 
+Glenn NNP 
+R. NNP 
+Simmons NNP 
 
+After NNP 
+780,000 DEFAULT2 
+Keystone NNP 
+Mr. NNP 
+Simmons NNP 
+
+For NNP 
+Keystone NNP 
+
+Revenue NNP 
+
+Mr. NNP 
+Simmons NNP 
+
+A NNP 
+Keystone NNP 
+Mr. NNP 
+Simmons NNP 
+
+As NNP 
+3.15 DEFAULT2 
+
+Revenue NNP 
+
+For NNP 
+Sept. NNP 
+Keystone NNP 
+milion DEFAULT1 
+
+Last NNP 
+
+Revenue NNP 
+230.5 DEFAULT2 
+190.4 DEFAULT2 
+
+Mr. NNP 
+Simmons NNP 
+Keystone NNP 
+585,000 DEFAULT1 
+413,000 DEFAULT2 
+
+Production NNP 
 Keystone NNP 
 Keystone NNP 
-billet OOV2 
+billet DEFAULT1 
 
 Keystone NNP 
+Mr. NNP 
+Simmons NNP 
 
+Under NNP 
+Robert NNP 
+W. NNP 
+Singer NNP 
 Keystone NNP 
-coasts OOV2 
+East NNP 
+West NNP 
+coasts VBZ 
 
+Prior NNP 
 Keystone NNP 
-order-taker OOV2 
+order-taker DEFAULT1 
 
-wholesalers OOV1 
+Now NNP 
+I NNP 
+wholesalers NNS 
+Mr. NNP 
+Simmons NNP 
 
-100-year-old OOV1 
-premium-priced OOV2 
-red-tipped OOV2 
-fencing OOV1 
+Still NNP 
+100-year-old DEFAULT2 
+premium-priced NNS 
+red-tipped NNS 
+fencing NNS 
 
-barbed OOV2 
+The NNP 
+U.S. NNP 
+barbed NNS 
 
-uranium-recovery OOV1 
+Freeport-McMoRan NNP 
+Inc. NNP 
+Sunshine NNP 
+Bridge NNP 
+uranium-recovery DEFAULT2 
 Donaldsonville NNP 
+La. NNP 
+Freeport-McMoRan NNP 
+Resource NNP 
+Partners NNP 
+Limited NNP 
+Partnership NNP 
 
+The NNP 
 
-uranium OOV2 
-mothballing OOV2 
+The NNP 
+uranium DEFAULT1 
+mothballing VBZ 
 
-uranium OOV2 
+More NNP 
+uranium DEFAULT2 
 
-uranium-recovery OOV2 
-uranium OOV1 
+A NNP 
+uranium-recovery DEFAULT1 
+Uncle NNP 
+Sam NNP 
+La. NNP 
+uranium DEFAULT1 
 
+Freeport-McMoRan NNP 
+Freeport NNP 
 Uranium NNP 
+Recovery NNP 
+Co. NNP 
 
-uranium-recovery OOV2 
+Freeport-McMoRan NNP 
+Resource NNP 
+Partners NNP 
+uranium-recovery DEFAULT1 
 
+Business NNP 
+Week NNP 
 
+A NNP 
+Texas NNP 
+Instruments NNP 
+Inc. NNP 
+Oct. NNP 
+Corporate NNP 
 Elite NNP 
-synthesizer OOV1 
-laminated OOV1 
+McGraw-Hill NNP 
+Inc. NNP 
+synthesizer DEFAULT2 
+laminated NNS 
 
-human-sounding OOV2 
-15-second OOV2 
+Readers NNP 
+human-sounding NNS 
+I NNP 
+15-second DEFAULT1 
 
-per-ad OOV2 
+The NNP 
+per-ad DEFAULT2 
+Texas NNP 
+Instruments NNP 
+Business NNP 
+Week NNP 
+Texas NNP 
+Instruments NNP 
 
-tone-generating OOV2 
-synthesizer OOV1 
+Previous NNP 
+tone-generating VBZ 
+synthesizer DEFAULT1 
 
+And NNP 
+Three NNP 
 
+Lomas NNP 
+Financial NNP 
+Corp. NNP 
+Dallas NNP 
+U.S. NNP 
+Lazard NNP 
+Freres NNP 
+Co. NNP 
 
+Lomas NNP 
+Merrill NNP 
+Lynch NNP 
+Capital NNP 
+Markets NNP 
+Equitable NNP 
+Lomas NNP 
+Leasing NNP 
+Co. NNP 
 
+The NNP 
 
-bank-credit OOV2 
+Without NNP 
+bank-credit DEFAULT1 
+Lomas NNP 
+Sept. NNP 
 
+It NNP 
+Chapter NNP 
+Bankruptcy NNP 
+Code NNP 
+Sept. NNP 
 
+Lomas NNP 
+Merrill NNP 
+Lynch NNP 
+Lomas NNP 
+Lomas NNP 
 
+It NNP 
+Lazard NNP 
+Lazard NNP 
+Europe NNP 
+Japan NNP 
+U.S. NNP 
 
+Canadian NNP 
+Imperial NNP 
+Bank NNP 
+Commerce NNP 
+Mexico NNP 
+Canadian NNP 
+US$ NNP 
 
+Don NNP 
 Bowder NNP 
-non-Mexican OOV2 
+Canadian NNP 
+C$ NNP 
+non-Mexican DEFAULT1 
+LDC NNP 
 
+It NNP 
 
+The NNP 
+C$ NNP 
+LDC NNP 
+Oct. NNP 
 
+Mr. NNP 
 Bowder NNP 
+C$ NNP 
+C$ NNP 
 
-577 OOV2 
+The NNP 
+July NNP 
+C$ NNP 
+577 DEFAULT2 
+C$ NNP 
 
+Mr. NNP 
 Bowder NNP 
-604 OOV2 
+C$ NNP 
+604 DEFAULT2 
+Mexican NNP 
+C$ NNP 
+Mexican NNP 
+U.S. NNP 
 
+The NNP 
+C$ NNP 
+Mexican NNP 
+Mexican NNP 
+U.S. NNP 
+Treasury NNP 
 
+Mr. NNP 
 Bowder NNP 
+LDC NNP 
 
+He NNP 
+LDC NNP 
 
-carnage OOV1 
-mega-mergers OOV1 
+The NNP 
+carnage DEFAULT1 
+Friday NNP 
+mega-mergers NNS 
+Wall NNP 
+Street NNP 
 
 Suitors NNP 
-expansion-minded OOV1 
-debt-happy OOV2 
+expansion-minded VBZ 
+debt-happy DEFAULT1 
 
+And NNP 
 
+This NNP 
 
+Whenever NNP 
 
+The NNP 
+Alan NNP 
 Gaines NNP 
+New NNP 
+York NNP 
 Gaines NNP 
 Berland NNP 
 
+He NNP 
 
+I NNP 
 
+Lenders NNP 
 
+You NNP 
+Friday NNP 
+Steven NNP 
 Rattner NNP 
+Lazard NNP 
+Freres NNP 
+Co NNP 
 
+Trading NNP 
+Friday NNP 
 
+It NNP 
+Campeau NNP 
 
+And NNP 
 
+The NNP 
+UAL NNP 
+Friday NNP 
+United NNP 
+Airlines NNP 
 
+Takeover-stock NNP 
+UAL NNP 
 
+Investment NNP 
+UAL NNP 
 
+After NNP 
+UAL NNP 
+American NNP 
+Airlines NNP 
+AMR NNP 
+New NNP 
+York NNP 
+Donald NNP 
+Trump NNP 
 
+Trading NNP 
+AMR NNP 
+EDT NNP 
+Friday NNP 
 
+Before NNP 
+AMR NNP 
 
+Late NNP 
+Friday NNP 
+London NNP 
+Jefferies NNP 
+Co. NNP 
+Los NNP 
+Angeles NNP 
+AMR NNP 
 
+Similarly NNP 
+Delta NNP 
+Air NNP 
+Lines NNP 
+USAir NNP 
+Group NNP 
+Friday NNP 
 
-weeked OOV1 
-commerical OOV2 
+Over NNP 
+weeked VBZ 
+commerical DEFAULT1 
+Wall NNP 
+Street NNP 
 
-20-a-share OOV2 
+Vitro NNP 
+S.A. NNP 
+Mexican NNP 
+Anchor NNP 
+Glass NNP 
+Container NNP 
+20-a-share DEFAULT2 
+Vitro NNP 
 
+On NNP 
+Friday NNP 
+Anchor NNP 
 
+For NNP 
 Vitro-Anchor NNP 
+Friday NNP 
+Donaldson NNP 
+Lufkin NNP 
+Jenrette NNP 
+Securities NNP 
+Security NNP 
+Pacific NNP 
+National NNP 
+Bank NNP 
 
+Moreover NNP 
+Anchor NNP 
+Glass NNP 
+Donaldson NNP 
+Vitro NNP 
 
+Donaldson NNP 
+Donaldson NNP 
 
+Security NNP 
+Pacific NNP 
+Vitro NNP 
 
+In NNP 
+McCaw NNP 
+Cellular NNP 
+Communications NNP 
+McCaw NNP 
+McCaw NNP 
+LIN NNP 
+Broadcasting NNP 
 
-20-a-share OOV1 
+McCaw NNP 
+LIN NNP 
+LIN NNP 
+20-a-share DEFAULT2 
+BellSouth NNP 
 
+On NNP 
+Friday NNP 
+LIN NNP 
 
-well-financed OOV2 
+Traders NNP 
+LIN NNP 
+BellSouth NNP 
+well-financed NNS 
 
+Investment NNP 
 
+Potential NNP 
+Mr. NNP 
+Rattner NNP 
+Lazard NNP 
+
+Nothing NNP 
+200-point DEFAULT2 
+Dow NNP 
+Mr. NNP 
 Rattner NNP 
 
-200-point OOV2 
-Rattner NNP 
+Just NNP 
 
+Investment NNP 
 
-
+In NNP 
+LBO NNP 
+J. NNP 
 Tomilson NNP 
+Hill NNP 
+Shearson NNP 
+Lehman NNP 
+Hutton NNP 
 
-junkbond-financed OOV1 
+Now NNP 
+junkbond-financed NNS 
 
-whisper OOV1 
+Many NNP 
+Friday NNP 
 
-27-a-share OOV2 
+Columbia NNP 
+Pictures NNP 
+Entertainment NNP 
+27-a-share DEFAULT1 
+Sony NNP 
+Japan NNP 
 
+But NNP 
 
+They NNP 
+USX NNP 
+Upjohn NNP 
+Campbell NNP 
+Soup NNP 
+Paramount NNP 
+Communications NNP 
+Woolworth NNP 
+Delta NNP 
+Air NNP 
+Lines NNP 
+MCA NNP 
 
+The NNP 
 
+Given NNP 
 
+Examples NNP 
+Kollmorgen NNP 
 Vernitron NNP 
 
+Kollmorgen NNP 
+Friday NNP 
 
+Ramada NNP 
 
+Ramada NNP 
 
+Shares NNP 
+American NNP 
+Medical NNP 
+International NNP 
+First NNP 
+Boston NNP 
+Corp. NNP 
+Pritzker NNP 
+Chicago NNP 
+Friday NNP 
 
-68.8 OOV1 
+The NNP 
+American NNP 
+Medical NNP 
+July NNP 
+68.8 DEFAULT2 
 
+But NNP 
 
-worst-hit OOV2 
+Hilton NNP 
+Hotels NNP 
+worst-hit DEFAULT1 
+Friday NNP 
 
+Hilton NNP 
 
+People NNP 
+Hilton NNP 
+Hilton NNP 
 
-signified OOV1 
+However NNP 
+UAL NNP 
+signified NNS 
 
+Hilton NNP 
 
+William NNP 
+Lebo NNP 
+Hilton NNP 
+
+I NNP 
+Hilton NNP 
+Mr. NNP 
 Lebo NNP 
 
-Lebo NNP 
+But NNP 
+junkbond DEFAULT1 
 
-junkbond OOV2 
+For NNP 
+New NNP 
+York NNP 
+Neil NNP 
+Weisman NNP 
+Chilmark NNP 
+Capital NNP 
 
+The NNP 
+waking NNS 
 
-waking OOV1 
-
+Pauline NNP 
 Yoshihashi NNP 
+Los NNP 
+Angeles NNP 
 
+Of NNP 
 
+To NNP 
 
+It NNP 
 
+Specifically NNP 
 
-catches OOV2 
+When NNP 
+catches NNS 
 
+In NNP 
 
+This NNP 
+Los NNP 
+Angeles NNP 
+New NNP 
+York NNP 
 
+But NNP 
+When NNP 
 
+Why NNP 
 
+Because NNP 
 
+Metropolitan NNP 
+Detroit NNP 
 
+Area NNP 
 
+However NNP 
 
+For NNP 
 
+Once NNP 
+Detroit NNP 
 
+Building NNP 
 
+Where NNP 
 
+Look NNP 
+Houston NNP 
+Denver NNP 
 
-counter-cyclical OOV2 
+Of NNP 
+Houston NNP 
+Denver NNP 
+counter-cyclical DEFAULT1 
 
+But NNP 
 
+Metropolitan NNP 
+Houston NNP 
 
+In NNP 
 
+The NNP 
 
+Office NNP 
 
+The NNP 
 
-see-through OOV1 
-skyline OOV2 
+To NNP 
+Houston NNP 
+see-through DEFAULT2 
+skyline DEFAULT1 
 
+As NNP 
 
+Actually NNP 
 
+Metropolitan NNP 
+Houston NNP 
 
+And NNP 
 
+Today NNP 
+Houston NNP 
 
-42,000 OOV1 
+More NNP 
+42,000 DEFAULT2 
+Houston NNP 
 
+This NNP 
+Houston NNP 
 
+And NNP 
 
+Denver NNP 
+Denver NNP 
+Houston NNP 
 
+By NNP 
+Denver NNP 
 
+Its NNP 
 
+Employment NNP 
 
+Buying NNP 
 
+The NNP 
 
-self-fulfilling OOV1 
-prophecy OOV2 
+In NNP 
+self-fulfilling VBZ 
+prophecy DEFAULT1 
 
+Housing NNP 
 
-beltway OOV1 
+Although NNP 
+Denver NNP 
 
+When NNP 
+Denver NNP 
 
+What NNP 
+Houston NNP 
+Denver NNP 
 
+Generally NNP 
+Washington NNP 
+New NNP 
+York NNP 
+Los NNP 
+Angeles NNP 
 
 Vacancy NNP 
-mid-20 OOV2 
+mid-20 DEFAULT2 
 
-flattening OOV1 
-realestate OOV1 
-catches OOV2 
+Under NNP 
+flattening VBZ 
+realestate DEFAULT2 
+catches NNS 
 
+Those NNP 
 
+Mr. NNP 
 Leinberger NNP 
+Beverly NNP 
+Hills NNP 
+Calif NNP 
+
+Kysor NNP 
+Industrial NNP 
+Corp. NNP 
+
+Analysts NNP 
+
+The NNP 
+
+The NNP 
+powerboat DEFAULT2 
+marine-related NNS 
+
+Also NNP 
 
 Kysor NNP 
 
-
-
-powerboat OOV1 
-marine-related OOV1 
-
-
-Kysor NNP 
-
+Common NNP 
 Cause NNP 
-interceded OOV2 
+Senate NNP 
+Ethics NNP 
+Committee NNP 
+Justice NNP 
+Department NNP 
+Arizona NNP 
+Charles NNP 
+Keating NNP 
+U.S. NNP 
+interceded VBZ 
 
-anti-racketeering OOV1 
-insolvency OOV1 
+Mr. NNP 
+Keating NNP 
+anti-racketeering VBZ 
+California NNP 
+Lincoln NNP 
+Savings NNP 
+Loan NNP 
+Association NNP 
+insolvency DEFAULT2 
 
+Fred NNP 
+Wertheimer NNP 
+Common NNP 
 Cause NNP 
+Mr. NNP 
+Keating NNP 
+Democratic NNP 
+Sens. NNP 
+Dennis NNP 
+DeConcini NNP 
+Arizona NNP 
+Alan NNP 
+Cranston NNP 
+California NNP 
+John NNP 
+Glenn NNP 
+Ohio NNP 
+Donald NNP 
+Riegle NNP 
+Michigan NNP 
+GOP NNP 
+Sen. NNP 
+John NNP 
+McCain NNP 
+Arizona NNP 
 
+Mr. NNP 
+Wertheimer NNP 
+Mr. NNP 
+Keating NNP 
+Wall NNP 
+Street NNP 
+Journal NNP 
+April NNP 
+One NNP 
 
-forceful OOV1 
+I NNP 
+forceful DEFAULT1 
+I NNP 
+I NNP 
 
+In NNP 
+Sen. NNP 
+DeConcini NNP 
+April NNP 
+Lincoln NNP 
 
-ticking OOV1 
+According NNP 
+Lincoln NNP 
+ticking VBZ 
 
-zealous OOV1 
+Mr. NNP 
+Keating NNP 
+zealous NNS 
 
+The NNP 
+Sen. NNP 
+DeConcini NNP 
+Federal NNP 
+Home NNP 
+Loan NNP 
+Bank NNP 
+Board NNP 
+Sen. NNP 
+Glenn NNP 
+Mr. NNP 
+Keating NNP 
 
+For NNP 
+Bank NNP 
+Board NNP 
+May NNP 
+Mr. NNP 
+Keating NNP 
+Lincoln NNP 
 
+Lincoln NNP 
+American NNP 
+Continental NNP 
+Corp. NNP 
+April NNP 
 
+The NNP 
+Resolution NNP 
+Trust NNP 
+Corp. NNP 
+Bank NNP 
+Board NNP 
+Mr. NNP 
+Keating NNP 
+Sept. NNP 
 
+Mr. NNP 
+Keating NNP 
 
+The NNP 
+Lincoln NNP 
 
+Details NNP 
 
+In NNP 
+Sen. NNP 
+Riegle NNP 
+Senate NNP 
+Banking NNP 
+Committee NNP 
+Detroit NNP 
+Mr. NNP 
+Keating NNP 
 
-fending OOV1 
+Sen. NNP 
+DeConcini NNP 
+Mr. NNP 
+Keating NNP 
+Lincoln NNP 
 
-belatedly OOV1 
-13,433 OOV1 
+In NNP 
+Sen. NNP 
+McCain NNP 
+13,433 DEFAULT1 
+American NNP 
+Continental NNP 
+Mr. NNP 
+Keating NNP 
 Cat NNP 
 Cay NNP 
+Bahamas NNP 
 
+Sen. NNP 
+McCain NNP 
 
+Mr. NNP 
+Keating NNP 
+Sen. NNP 
+McCain NNP 
 
+But NNP 
+Sen. NNP 
+McCain NNP 
+Mr. NNP 
+Keating NNP 
+Mr. NNP 
+Keating NNP 
 
+He NNP 
+I NNP 
+Sen. NNP 
+McCain NNP 
 
-850,000 OOV1 
+In NNP 
+July NNP 
+California NNP 
+Mr. NNP 
+Keating NNP 
+850,000 DEFAULT2 
+Sen. NNP 
+Cranston NNP 
 
+In NNP 
+Sen. NNP 
+Cranston NNP 
+Mr. NNP 
+Keating NNP 
+California NNP 
+Democratic NNP 
 
+Also NNP 
+July NNP 
+Ohio NNP 
+Mr. NNP 
+Keating NNP 
+National NNP 
+Council NNP 
+Public NNP 
+Policy NNP 
+Sen. NNP 
+Glenn NNP 
 
+That NNP 
+Mr. NNP 
+Keating NNP 
+Ohio NNP 
 
+Mr. NNP 
+Wertheimer NNP 
+Senate NNP 
+Ethics NNP 
+Committee NNP 
+House NNP 
+Speaker NNP 
+James NNP 
+Wright NNP 
 
+Wilson NNP 
 Abney NNP 
 
+Sen. NNP 
+Riegle NNP 
 
+Sen. NNP 
+McCain NNP 
 
+Sen. NNP 
+Glenn NNP 
+I NNP 
+Senate NNP 
+Ethics NNP 
+Committee NNP 
 
+Sen. NNP 
+DeConcini NNP 
+When NNP 
+I NNP 
 
+Sen. NNP 
+Cranston NNP 
+Federal NNP 
+Bureau NNP 
+Investigation NNP 
+Mr. NNP 
+Keating NNP 
 
+Why NNP 
+Bank NNP 
+Board NNP 
 
+That NNP 
+Common NNP 
 Cause NNP 
 
+Trinity NNP 
+Industries NNP 
+Inc. NNP 
+Norfolk NNP 
+Southern NNP 
+Corp NNP 
 
+Trinity NNP 
 
+Trinity NNP 
 
-1,450 OOV1 
+It NNP 
+1,450 DEFAULT2 
+Norfolk NNP 
+Southern NNP 
+Norfolk NNP 
+Va.-based NNP 
 
+When NNP 
+China NNP 
+Hong NNP 
+Kong NNP 
 
+Today NNP 
+China NNP 
+Hong NNP 
+Kong NNP 
+Toys NNP 
+Council NNP 
+Dennis NNP 
 Ting NNP 
+Made NNP 
+China NNP 
+Hong NNP 
+Kong NNP 
+Companies NNP 
 
+The NNP 
+British NNP 
 
-shootings OOV2 
+But NNP 
+shootings VBZ 
+Beijing NNP 
+June NNP 
+Hong NNP 
+Kong NNP 
+China NNP 
 
+Although NNP 
+China NNP 
 
+The NNP 
+China NNP 
 
+Nobody NNP 
+David NNP 
 Yeh NNP 
+International NNP 
 Matchbox NNP 
+Group NNP 
+Ltd NNP 
 
+Indeed NNP 
 Matchbox NNP 
+Hong NNP 
+Kong NNP 
+Southeast NNP 
+Asia NNP 
+Thailand NNP 
 
+Their NNP 
+China NNP 
 
+By NNP 
+China NNP 
 
+It NNP 
+China NNP 
 
+A NNP 
+Hong NNP 
+Kong NNP 
+China NNP 
+Guangdong NNP 
 
+South NNP 
+China NNP 
+Henry NNP 
 Hu NNP 
+Wah NNP 
 Shing NNP 
+Toys NNP 
+Consolidated NNP 
+Ltd NNP 
 
+Hong NNP 
+Kong NNP 
 
+In NNP 
+HK$ NNP 
+US$ NNP 
 
-re-exports OOV2 
-15.92 OOV1 
+But NNP 
+re-exports NNS 
+China NNP 
+HK$ NNP 
+15.92 DEFAULT2 
 
-re-exports OOV2 
-11.28 OOV1 
+In NNP 
+HK$ NNP 
+re-exports VBZ 
+HK$ NNP 
+11.28 DEFAULT2 
 
+Manufacturers NNP 
+China NNP 
 
+For NNP 
+China NNP 
+Edmund NNP 
+Young NNP 
 Perfecta NNP 
+Enterprises NNP 
+Ltd. NNP 
+Hong NNP 
+Kong NNP 
 
+In NNP 
+Southeast NNP 
+Asia NNP 
 
+Several NNP 
+Thailand NNP 
 Matchbox NNP 
+Wah NNP 
 Shing NNP 
 Kader NNP 
+Industrial NNP 
+Co. NNP 
+Mr. NNP 
 Ting NNP 
 
+Malaysia NNP 
+Philippines NNP 
+Indonesia NNP 
 
+With NNP 
+European NNP 
+Community NNP 
+Hong NNP 
+Kong NNP 
+Spain NNP 
+Portugal NNP 
+Greece NNP 
 
 Worries NNP 
+China NNP 
+Hong NNP 
+Kong NNP 
+U.S. NNP 
 Worlds NNP 
 Wonder NNP 
+Inc. NNP 
+Coleco NNP 
+Industries NNP 
+Inc NNP 
 
-chastened OOV1 
+Hong NNP 
+Kong NNP 
+chastened NNS 
 
+The NNP 
 
-mega-hit OOV1 
-excite OOV2 
+Still NNP 
+mega-hit DEFAULT2 
+excite DEFAULT2 
+U.S. NNP 
+Hong NNP 
+Kong NNP 
 
-mega-hit OOV2 
+The NNP 
+U.S. NNP 
+mega-hit DEFAULT2 
 Teenage NNP 
 Mutant NNP 
 Ninja NNP 
 Turtles NNP 
 Playmates NNP 
+Holdings NNP 
+Ltd NNP 
 
 Introduced NNP 
-mid-1988 OOV1 
-15-centimeter-tall OOV1 
-turtles OOV1 
+mid-1988 DEFAULT2 
+15-centimeter-tall DEFAULT1 
+turtles VBZ 
+American NNP 
 
+Paul NNP 
 Kwan NNP 
 Playmates NNP 
 Ninja NNP 
 Turtles NNP 
-reptilian OOV2 
-biggest-selling OOV2 
+reptilian DEFAULT1 
+biggest-selling NNS 
+U.S. NNP 
 
+Should NNP 
+Christmas NNP 
+U.S. NNP 
+Mr. NNP 
 Kwan NNP 
 Ninja NNP 
 Turtles NNP 
 Playmates NNP 
 
+Other NNP 
+Hong NNP 
+Kong NNP 
 
-fast-selling OOV1 
+Besides NNP 
+fast-selling NNS 
+U.S. NNP 
+Nintendo NNP 
+Entertainment NNP 
+System NNP 
+Nintendo NNP 
+Co. NNP 
+Japan NNP 
 
+Nintendo NNP 
 
-overstrained OOV2 
+Many NNP 
+June NNP 
+overstrained VBZ 
+Beijing NNP 
 
-industrialization OOV1 
+Toy NNP 
+Guangdong NNP 
+industrialization DEFAULT1 
 
+Manufacturers NNP 
 
+Bank NNP 
+China NNP 
+June NNP 
 
-harder-line OOV2 
+Also NNP 
+harder-line DEFAULT1 
+Beijing NNP 
+Guangdong NNP 
 
+But NNP 
+Beijing NNP 
+China NNP 
 
+They NNP 
+China NNP 
+Guangdong NNP 
 
+The NNP 
+Chinese NNP 
+Mr. NNP 
 Kwan NNP 
 Playmates NNP 
 
+The NNP 
+Bush NNP 
+Supreme NNP 
+Court NNP 
 
 Solicitor NNP 
+General NNP 
+Kenneth NNP 
+Starr NNP 
+Supreme NNP 
+Court NNP 
+Roe NNP 
+Wade NNP 
 
+He NNP 
 
+The NNP 
+Supreme NNP 
+Court NNP 
 
+The NNP 
+Minnesota NNP 
 
+The NNP 
+Chief NNP 
+Justice NNP 
+William NNP 
 Rehnquist NNP 
+July NNP 
+Missouri NNP 
 
+Under NNP 
 
+That NNP 
+Supreme NNP 
+Court NNP 
 
+On NNP 
+Minnesota NNP 
+Bush NNP 
 
+The NNP 
 Hodgson NNP 
+Minnesota NNP 
+Nov. NNP 
 
+Aluminum NNP 
+Co. NNP 
+America NNP 
 
+The NNP 
+No. NNP 
 
-2.83 OOV1 
+Revenue NNP 
+2.83 DEFAULT2 
 
+Analysts NNP 
+Alcoa NNP 
 
+It NNP 
+William NNP 
 Siedenburg NNP 
+Smith NNP 
+Barney NNP 
+Harris NNP 
+Upham NNP 
+Co NNP 
 
+Much NNP 
 
+Lower NNP 
 
+In NNP 
 
+Excluding NNP 
+R. NNP 
+Wayne NNP 
+Atwell NNP 
+Goldman NNP 
+Sachs NNP 
+Co NNP 
+
+Noting NNP 
+Mr. NNP 
 Atwell NNP 
 
-Atwell NNP 
+Nevertheless NNP 
+679,000 DEFAULT2 
+671,000 DEFAULT2 
+buffing VBZ 
 
-679,000 OOV2 
-671,000 OOV1 
-buffing OOV1 
+The NNP 
 
+In NNP 
+New NNP 
+York NNP 
+Stock NNP 
+Exchange NNP 
+Friday NNP 
+Alcoa NNP 
 
+For NNP 
 
+And NNP 
+NBC NNP 
+ABC NNP 
+CBS NNP 
+Hollywood NNP 
 
+But NNP 
+U.S. NNP 
 
+They NNP 
+Hollywood NNP 
+Congress NNP 
+rerun DEFAULT2 
 
-rerun OOV2 
+Even NNP 
+Congress NNP 
 
-
-sidestep OOV1 
-fin-syn OOV2 
+And NNP 
+sidestep DEFAULT2 
+fin-syn DEFAULT2 
+Financial NNP 
+Interest NNP 
 Syndication NNP 
+Rules NNP 
 
-now-scuttled OOV2 
+That NNP 
+National NNP 
+Broadcasting NNP 
+Co. NNP 
+General NNP 
+Electric NNP 
+Co. NNP 
+Qintex NNP 
+Australia NNP 
+Ltd. NNP 
+now-scuttled NNS 
+MGM\/UA NNP 
+Communications NNP 
+Co NNP 
 
+NBC NNP 
+MGM\/UA NNP 
+Australian NNP 
 
+Even NNP 
+NBC NNP 
 
+Our NNP 
+NBC NNP 
 
-program-maker OOV1 
+NBC NNP 
+program-maker DEFAULT1 
 
-fin-syn OOV2 
+And NNP 
+NBC NNP 
+CBS NNP 
+Inc. NNP 
+ABC NNP 
+Capital NNP 
+Cities\/ABC NNP 
+Inc. NNP 
+fin-syn DEFAULT1 
 
+But NNP 
+Hollywood NNP 
 
-fin-syn OOV2 
+Both NNP 
+fin-syn DEFAULT1 
 
-privy OOV2 
+Few NNP 
+privy DEFAULT1 
 
-uninhibited OOV2 
+The NNP 
+Motion NNP 
+Picture NNP 
+Association NNP 
+President NNP 
+Jack NNP 
 Valenti NNP 
-vociferous OOV1 
+vociferous NNS 
 
-rerun OOV2 
+Studios NNP 
+rerun DEFAULT2 
 
+And NNP 
 
 Studio NNP 
+Paramount NNP 
+Communications NNP 
+Inc. NNP 
 Fries NNP 
+Entertainment NNP 
+Inc. NNP 
+Warner NNP 
+Communications NNP 
+Inc. NNP 
+MCA NNP 
+Inc. NNP 
 
+But NNP 
+Mr. NNP 
 Valenti NNP 
+The NNP 
 
+Such NNP 
 
+They NNP 
 
+And NNP 
+Washington NNP 
 
+That NNP 
 
+Indeed NNP 
 
+Congress NNP 
 
-unshackled OOV2 
+But NNP 
+NBC NNP 
+President NNP 
+Robert NNP 
+Wright NNP 
+unshackled NNS 
 
+The NNP 
+Sony NNP 
+Corp. NNP 
+Columbia NNP 
+Pictures NNP 
+Entertainment NNP 
+Inc. NNP 
+Guber NNP 
+Peters NNP 
+Entertainment NNP 
+Co. NNP 
 
+I NNP 
+Walter NNP 
+Cronkite NNP 
 Sony\/Columbia NNP 
+Broadcast NNP 
+System NNP 
 Trinitron NNP 
 Evening NNP 
+News NNP 
+Dan NNP 
+Rather NNP 
+Tokyo NNP 
 J.B. NNP 
 Holston NNP 
+NBC NNP 
+Broadcasting NNP 
 
+In NNP 
+Mr. NNP 
 Holston NNP 
-fin-syn OOV2 
+Europe NNP 
+fin-syn DEFAULT2 
+non-U.S. DEFAULT2 
 
+He NNP 
+NBC NNP 
+Australia NNP 
+Qintex NNP 
 
+An NNP 
+NBC NNP 
+Mr. NNP 
 Holston NNP 
+NBC NNP 
+U.S. NNP 
+NBC NNP 
+Qintex NNP 
+Sony NNP 
 
-drumbeat OOV2 
+The NNP 
+Big NNP 
+Three NNP 
+drumbeat DEFAULT2 
+Time NNP 
+Inc. NNP 
+Warner NNP 
 
-fin-syn OOV1 
+Although NNP 
+Time NNP 
+Warner NNP 
+Time NNP 
+Home NNP 
+Box NNP 
+Office NNP 
+Warner NNP 
+HBO NNP 
+fin-syn DEFAULT2 
 
-decrying OOV1 
+NBC NNP 
+Mr. NNP 
+Wright NNP 
+decrying NNS 
 Time-Warner NNP 
 
+He NNP 
+Sony NNP 
+Columbia NNP 
 
+Since NNP 
+NBC NNP 
+Qintex NNP 
+MGM\/UA NNP 
+Mr. NNP 
+Wright NNP 
 
+With NNP 
+Qintex NNP 
+NBC NNP 
+Washington NNP 
 
+It NNP 
+William NNP 
 Lilley NNP 
+III NNP 
+CBS NNP 
 
+He NNP 
+Policy NNP 
+Communications NNP 
+Washington NNP 
 
 Fin-syn NNP 
-rerun OOV1 
+rerun DEFAULT1 
 
+Hence NNP 
+NBC NNP 
+MGM\/UA NNP 
 
+If NNP 
 
-convolutions OOV2 
+But NNP 
+convolutions NNS 
 
-100%-owned OOV1 
-crime\/comedy OOV1 
+Under NNP 
+100%-owned NNS 
+ABC NNP 
+crime\/comedy DEFAULT1 
 Moonlighting NNP 
 
+Instead NNP 
+ABC NNP 
 
+The NNP 
 
-tantalizingly OOV2 
+Six NNP 
+tantalizingly DEFAULT2 
 
+The NNP 
+Reagan-era NNP 
+Federal NNP 
+Communications NNP 
+Commission NNP 
 
-wield OOV1 
+Various NNP 
+Brookings NNP 
+Institution NNP 
+wield DEFAULT1 
 
+But NNP 
+President NNP 
+Ronald NNP 
+Reagan NNP 
+Hollywood NNP 
 
+The NNP 
+FCC NNP 
 
+The NNP 
 
+Network NNP 
+Washington NNP 
 
+In NNP 
+Congress NNP 
+It NNP 
+Hollywood NNP 
 
+A NNP 
+Rep. NNP 
+Edward NNP 
+J. NNP 
+Markey NNP 
 D-Mass. NNP 
+FCC NNP 
+Mr. NNP 
+Markey NNP 
 Sony-Columbia NNP 
 
+But NNP 
+Mr. NNP 
+Markey NNP 
 
+And NNP 
+FCC NNP 
+Chairman NNP 
+Alfred NNP 
+C. NNP 
+Sikes NNP 
 
+Recognition NNP 
+Equipment NNP 
+Inc. NNP 
+U.S. NNP 
+Postal NNP 
+Service NNP 
 
-contract-steering OOV2 
+The NNP 
+April NNP 
+contract-steering VBZ 
 
+The NNP 
+William NNP 
+G. NNP 
+Moore NNP 
+Jr. NNP 
+Robert NNP 
+W. NNP 
+Reedy NNP 
 
-ex-member OOV1 
+The NNP 
+Peter NNP 
+E. NNP 
+Voss NNP 
+ex-member DEFAULT2 
+Postal NNP 
+Service NNP 
 
+Mr. NNP 
+Voss NNP 
 
+In NNP 
+Recognition NNP 
+Mr. NNP 
+Moore NNP 
+Mr. NNP 
+Reedy NNP 
 
+The NNP 
 
+A NNP 
+Sept. NNP 
+District NNP 
+Columbia NNP 
 
+They NNP 
+October NNP 
+Postal NNP 
+Service NNP 
 
+The NNP 
 
+In NNP 
+Recognition NNP 
+Equipment NNP 
+Postal NNP 
+Service NNP 
 
+The NNP 
+Postal NNP 
+Service NNP 
+Oct. NNP 
 
+The NNP 
 
+Intel NNP 
+Corp. NNP 
 
-142.7 OOV1 
+The NNP 
+142.7 DEFAULT2 
 
+The NNP 
+Siemens NNP 
+AG NNP 
+West NNP 
+Germany NNP 
 
 Earning NNP 
-microchip OOV1 
+microchip DEFAULT2 
 
-771.4 OOV2 
-784.9 OOV2 
+Sales NNP 
+771.4 DEFAULT2 
+784.9 DEFAULT2 
 
-99.3 OOV1 
-747.3 OOV2 
+Intel NNP 
+Friday NNP 
+99.3 DEFAULT1 
+747.3 DEFAULT1 
 
-succumbed OOV1 
+But NNP 
+Intel NNP 
+succumbed VBZ 
 
+In NNP 
+August NNP 
+Intel NNP 
 
+On NNP 
+Friday NNP 
+Andrew NNP 
 S.Grove NNP 
+Intel NNP 
+Intel NNP 
 
+Our NNP 
+September NNP 
 
-book-to-bill OOV2 
+For NNP 
+book-to-bill DEFAULT2 
 
-367.1 OOV2 
+For NNP 
+Intel NNP 
+367.1 DEFAULT2 
 
+Revenue NNP 
 
+Walter NNP 
+Sisulu NNP 
+African NNP 
+National NNP 
+Congress NNP 
 
+After NNP 
+Mr. NNP 
+Sisulu NNP 
 
-reunited OOV2 
+At NNP 
+ANC NNP 
+reunited VBZ 
 
+And NNP 
+ANC NNP 
+South NNP 
+Africa NNP 
 
-hoisted OOV2 
-rickety OOV1 
-scarves OOV1 
+A NNP 
+ANC NNP 
+hoisted VBZ 
+rickety DEFAULT1 
+Mr. NNP 
+Sisulu NNP 
+ANC NNP 
+scarves NNS 
 
-four-room OOV1 
+At NNP 
+four-room DEFAULT1 
 Elias NNP 
 Motsoaledi NNP 
-unionist OOV2 
+ANC NNP 
+unionist DEFAULT2 
 Umkhonto NNP 
 Sizwe NNP 
-well-wishers OOV2 
-tooted OOV2 
+well-wishers NNS 
+ANC NNP 
+tooted NNS 
+ANC NNP 
 
-dapper OOV2 
+I NNP 
+Mr. NNP 
+Sisulu NNP 
+dapper DEFAULT1 
 
-fists OOV2 
+As NNP 
+ANC NNP 
+ANC NNP 
+fists VBZ 
 
+I NNP 
 
+Under NNP 
+ANC NNP 
 Lusaka NNP 
 Zambia NNP 
 
-unconditional OOV1 
-rebirth OOV2 
+But NNP 
+unconditional DEFAULT1 
+ANC NNP 
+rebirth DEFAULT1 
 
+The NNP 
+ANC NNP 
 Cassim NNP 
 Saloojee NNP 
+Mr. NNP 
+Sisulu NNP 
 
+Things NNP 
 
+There NNP 
 
+There NNP 
+ANC NNP 
+Holy NNP 
+Cross NNP 
 Anglican NNP 
+Church NNP 
+Soweto NNP 
+ANC NNP 
 
 Deafening NNP 
-chants OOV1 
+chants NNS 
+ANC NNP 
 Umkhonto NNP 
 Sizwe NNP 
+ANC NNP 
 
+And NNP 
+Nelson NNP 
+Mandela NNP 
+ANC NNP 
 
-half-measure OOV2 
+Without NNP 
+Mr. NNP 
+Sisulu NNP 
+half-measure DEFAULT1 
 
+President NNP 
+F.W. NNP 
+Klerk NNP 
+ANC NNP 
+Pan NNP 
 Africanist NNP 
+Congress NNP 
 
+But NNP 
+Pretoria NNP 
 
-repressive OOV2 
+As NNP 
+repressive DEFAULT2 
+Poland NNP 
+Soviet NNP 
+Union NNP 
 
+As NNP 
+South NNP 
+African NNP 
+Mr. NNP 
+Mandela NNP 
+ANC NNP 
 
-disillusionment OOV1 
+If NNP 
+ANC NNP 
+disillusionment DEFAULT2 
 
-agitation OOV2 
+If NNP 
+agitation DEFAULT1 
 
+The NNP 
+ANC NNP 
 
+The NNP 
+Pretoria NNP 
+Mr. NNP 
+Mandela NNP 
 
+Pretoria NNP 
 
+In NNP 
+ANC NNP 
 
+In NNP 
+Mr. NNP 
+Mandela NNP 
+ANC NNP 
 Lusaka NNP 
 
-lions OOV1 
-lions OOV2 
+The NNP 
+lions VBZ 
+lions VBZ 
 
+Says NNP 
+Peter NNP 
 Mokaba NNP 
+South NNP 
+African NNP 
 Youth NNP 
+Congress NNP 
+We NNP 
+ANC NNP 
 
+They NNP 
 
+At NNP 
 
+We NNP 
+Andrew NNP 
 Mlangeni NNP 
 Umkhonto NNP 
 
+We NNP 
+Nelson NNP 
+Mandela NNP 
 
