@@ -20,12 +20,11 @@ for line in dev:
 	line = line.strip("\n")
 	corpus.append(line)
 
-print(word_tags['\'s'])
-
 previous = "*start_end*"
 k = 0
 previous_prob = {previous: 1}
 viterbi = {}
+final = {}
 for word in corpus:
 	# Handle OOV
 	if word not in word_tags:
@@ -41,20 +40,22 @@ for word in corpus:
 			# Iterates through the tags associated with that word
 			tag_probabilities = pos_prob_table[previous]
 			word_emission = word_likelihood[tag]
-			tag_prob = tag_probabilities[tag] #probability of the tag
+			if tag in tag_probabilities: tag_prob = tag_probabilities[tag] #probability of the tag
+			else: tag_prob = 0.0001
 			word_prob = word_emission[word] #probability that that POS tags the word
 			# Loop through each of the preceding word's possible tags
-			for j in range(len(previous_prob)): 
+			for each in previous_prob: 
 				# Calculate the probability based on probability of previous tag
-				prob = previous_prob[j] * tag_prob * word_prob 
+				prob = previous_prob[each] * tag_prob * word_prob 
 				# Place it in the Viterbi dictionary
-				viterbi[tag] = prob 
+				viterbi[each] = prob 
 			# Then get the maximum probability from Viterbi, this is the final probability of this tag corresponding to word
-			max_prob = max(viterbi, key = viterbi.get)
-			previous_prob[tag] = max_prob
-			k = k + 1
-		for each in previous_prob:
-k = 0
+			max_prob = max(viterbi.values())
+			final[tag] = max_prob
+		previous_prob = final
+		# Get the tag that is most probable for this word
+		most_prob_tag = max(final, key = final.get)
+		output.write('{} {}\n'.format(word, most_prob_tag))
 
 
 
