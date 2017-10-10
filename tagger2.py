@@ -13,9 +13,8 @@ from probabilities import word_likelihood
 from probabilities import pos_prob_table
 
 dev = open("dev.txt", "r")
-output2 = open("output2.txt", "w")
+output2 = open("output2.pos", "w")
 corpus = []
-prob = []
 
 for line in dev:
 	line = line.strip("\n")
@@ -27,19 +26,22 @@ previous_prob = {previous: 1}
 viterbi = {}
 final = {}
 for word in corpus:
+	if not word:
+		output2.write('\n')
+		continue
 	# Handle OOV
 	if word not in word_tags:
-		#word_char = list(word) #split into chars
+		
 		assigned_tag = random.choice(['OOV1','OOV2']) #default: randomly assign either NNP or JJP
-		if (list(word)[0].isupper()):
+		if (previous != "*start_end*")and(list(word)[0].isupper()):
 			assigned_tag = 'NNP'
 
 		output2.write('{} {} \n'.format(word, assigned_tag))
 		continue
-'''
+		'''
 	# Check if word corresponds to one or multiple tags
 	if len(word_tags[word]) == 1:
-		output2.write('{} {} \n'.format(word, word_tags[word][0]))
+		output2.write('{}\t{} \n'.format(word, word_tags[word][0]))
 	# If the word corresponds to multiple tags, find the probability
 	# of each tag by iterating through each of the corresponding tags
 	else:
@@ -62,9 +64,8 @@ for word in corpus:
 		previous_prob = final
 		# Get the tag that is most probable for this word
 		most_prob_tag = max(final, key = final.get)
-		output2.write('{} {}\n'.format(word, most_prob_tag))
+		output2.write('{}\t{}\n'.format(word, most_prob_tag))
 
 
 
-'''
 

@@ -13,3 +13,5 @@ for word in my_corpus:
 	prob_occurance = occurance / len(my_corpus)
 	print('{:>8}{:^11}{:^11}'.format(word,occurance,prob_occurance))
 
+
+	
