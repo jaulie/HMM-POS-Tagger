@@ -7,6 +7,8 @@
 
 import nltk
 
+debugging = open("debugging.txt", 'w')
+
 training = open("training.txt", 'r')
 pos_prob_table = {}
 word_likelihood = {}
@@ -68,7 +70,7 @@ pos_prob_table[previous] = dic
 # tag it is associated to along with the number of times it 
 # appears as that tag
 for i in range(len(words)):
-	word = words[i]
+	word = words[i].lower()
 	tag = tags[i]
 	if tag in word_likelihood:
 		word_dic = word_likelihood[tag]
@@ -98,7 +100,7 @@ for tag in word_likelihood:
 # a word's various tags in a dictionary of lists
 # called word_tags
 for i in range(len(words)):
-	word = words[i]
+	word = words[i].lower()
 	tag = tags[i]
 	tag_list = []
 	if word in word_tags:
@@ -111,14 +113,15 @@ for i in range(len(words)):
 		tag_list.append(tag)
 	word_tags[word] = tag_list
 	
-"""
+
 # Prints POS tag probabilities for DEBUGGING
 for key in pos_prob_table:
-	print(key)
+	debugging.write('{}\n'.format(key))
 	for key2 in pos_prob_table[key]:
 		d = pos_prob_table[key]
-		print("\t{:<4} {}".format(key2, d[key2]))
+		debugging.write("\t{:<4} {}\n".format(key2, d[key2]))
 
+"""
 # Prints likelihood of a words' tag(s)
 for word in word_likelihood:
 	print(word)

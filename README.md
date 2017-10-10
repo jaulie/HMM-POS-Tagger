@@ -3,6 +3,10 @@
 This POS Tagger uses the Bigram (Hidden Markov) Model with the Viterbi Probability Algorithm and a Out of Vocabulary Model described below
 to assign parts of speech. It is trained on the Wall Street Journal Corpus.
 
+## Deployment
+Run tagger.py on python3. At the top of the script it takes a development file. It outputs into output.pos.
+The tagger is trained in probabilities.py, which takes a training file.
+
 ### Tagger
 A probability table is used to store the bigram probabilities of the POS tags in the training corpus. A likelihood table is used to store emission probabilities for each tag. Finally, a word tags table stores the possible corresponding tags of each word in the corpus. 
 
