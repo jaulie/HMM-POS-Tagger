@@ -79,8 +79,6 @@ for i in range(len(words)):
 		word_dic[word] = word_dic[word] + 1
 	else: 
 		word_dic[word] = 1
-#tags map to dictionaries
-#dictionaries have words which map to probabilities
 
 # Goes through nested dictionaries of each tag and
 # finds probability of each word
@@ -113,6 +111,7 @@ for i in range(len(words)):
 		tag_list.append(tag)
 	word_tags[word] = tag_list
 	
+"""
 # Prints POS tag probabilities for DEBUGGING
 for key in pos_prob_table:
 	print(key)
@@ -120,14 +119,13 @@ for key in pos_prob_table:
 		d = pos_prob_table[key]
 		print("\t{:<4} {}".format(key2, d[key2]))
 
-
 # Prints likelihood of a words' tag(s)
 for word in word_likelihood:
 	print(word)
 	for tag in word_likelihood[word]:
 		tag_dictionary = word_likelihood[word]
 		print("\t{:<12} {}".format(tag, tag_dictionary[tag]))
-
+"""
 
 
 
