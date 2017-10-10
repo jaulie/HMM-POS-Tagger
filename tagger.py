@@ -12,9 +12,8 @@ from probabilities import word_likelihood
 from probabilities import pos_prob_table
 
 dev = open("dev.txt", "r")
-output = open("output.txt", "w")
+output = open("output.pos", "w")
 corpus = []
-prob = []
 
 for line in dev:
 	line = line.strip("\n")
@@ -26,13 +25,16 @@ previous_prob = {previous: 1}
 viterbi = {}
 final = {}
 for word in corpus:
+	if word == r'\s':
+		output.write('\n')
+		continue
 	# Handle OOV
 	if word not in word_tags:
-		output.write('{} OOV\n'.format(word))
+		output.write('{}\tOOV\n'.format(word))
 		continue
 	# Check if word corresponds to one or multiple tags
 	if len(word_tags[word]) == 1:
-		output.write('{} {} \n'.format(word, word_tags[word][0]))
+		output.write('{}\t{} \n'.format(word, word_tags[word][0]))
 	# If the word corresponds to multiple tags, find the probability
 	# of each tag by iterating through each of the corresponding tags
 	else:
@@ -55,7 +57,7 @@ for word in corpus:
 		previous_prob = final
 		# Get the tag that is most probable for this word
 		most_prob_tag = max(final, key = final.get)
-		output.write('{} {}\n'.format(word, most_prob_tag))
+		output.write('{}\t{}\n'.format(word, most_prob_tag))
 
 
 
